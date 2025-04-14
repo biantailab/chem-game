@@ -1,0 +1,17 @@
+{
+  "name": "compoundle",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "deploy": "npm run build && gh-pages -d dist"
+  },
+  "dependencies": {
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.3"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8",
+    "gh-pages": "^6.3.0"
+  }
+}
