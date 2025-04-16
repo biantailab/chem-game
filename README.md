@@ -1,1 +1,3 @@
-![猜无机化合物游戏](public/img/guess-chem-game.png)
+# vue-game
+
+一款类Wordle猜无机化合物游戏
