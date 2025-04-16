@@ -9,7 +9,7 @@
     </div>
     <div class="grid">
       <div class="row">
-        <p class="titles">化学式</p>
+        <p class="titles-cell">化学式</p>
         <p class="state-cell">常温状态</p>
         <b class="weight-cell">MW</b>
         <b class="weight-cell">比较</b>
@@ -236,8 +236,11 @@ export default {
   display: inline-block;
   margin: 20px 0;
 }
-.titles {
-  width: 462px;
+.row {
+  display: flex;
+}
+.titles-cell {
+  width: 76%;
   height: 40px;
   border: 2px solid #000000;
   display: flex;
@@ -246,9 +249,6 @@ export default {
   margin: 2px;
   border-radius: 10px;
   font-weight: bold;
-}
-.row {
-  display: flex;
 }
 .cell {
   width: 40px;
@@ -345,9 +345,9 @@ button:disabled {
   opacity: 0;
 }
 @media screen and (max-width: 650px) {
-  .titles {
+  .titles-cell {
     font-size: 8px;
-    width: 267px;
+    width: 75%;
     height: 20px;
     border: 2px solid #000000;
     display: flex;
