@@ -10,9 +10,9 @@
     <div class="grid">
       <div class="row">
         <p class="titles-cell">化学式</p>
-        <p class="title-cell">常温状态</p>
-        <b class="title-cell">MW</b>
-        <b class="title-cell">比较</b>
+        <p class="state-cell">常温状态</p>
+        <b class="weight-cell">MW</b>
+        <b class="weight-cell">比较</b>
       </div>
       <div v-for="(row, rowIndex) in guesses" :key="rowIndex" class="row">
         <div v-for="(cell, colIndex) in row.elements" :key="colIndex" :class="['cell', cell.color]">
@@ -32,7 +32,7 @@
     <div class="input">
       <input
         v-model="currentGuess"
-        placeholder="输入分子式(区分大小写)"
+        placeholder="输入分子式(不区分大小写)"
         @keyup.enter="submitGuess"
         :disabled="gameOver"
       />
@@ -199,23 +199,11 @@ export default {
       row.state = this.answer.state
       row.stateColor = 'green'
       row.weight = this.answer.molecularWeight
-      row.weightIndicator = ''
+      row.weightIndicator = '等于'
 
       this.gameOver = true
       this.guessCount++
       this.showMessage(`游戏结束，答案是 ${this.answer.name}`)
-
-      if (this.guessCount < 10) {
-        this.guesses.push({
-          elements: Array(10)
-            .fill()
-            .map(() => ({ value: '', color: '' })),
-          state: '',
-          stateColor: '',
-          weight: null,
-          weightIndicator: '',
-        })
-      }
     },
     showMessage(text) {
       this.message = text
@@ -243,17 +231,6 @@ export default {
   width: 76%;
   height: 40px;
   border: 2px solid #000000;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 2px;
-  border-radius: 10px;
-  font-weight: bold;
-}
-.title-cell {
-  width: 40px;
-  height: 40px;
-  border: 2px solid #ff0000;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -312,7 +289,7 @@ input {
   width: 170px;
   height: 20px;
   padding: 8px;
-  font-size: 16px;
+  font-size: 14px;
 }
 input:disabled {
   background-color: #eee;
@@ -368,17 +345,6 @@ button:disabled {
     border-radius: 5px;
     font-weight: bold;
   }
-  .title-cell {
-    font-size: 8px;
-    width: 20px;
-    height: 20px;
-    border: 1px solid #ff0000;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 2px;
-    border-radius: 5px;
-  }
   .cell {
     width: 20px;
     height: 20px;
@@ -419,7 +385,7 @@ button:disabled {
     width: 106px;
     height: 8px;
     padding: 8px;
-    font-size: 10px;
+    font-size: 9px;
   }
   input:disabled {
     background-color: #eee;

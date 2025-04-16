@@ -2,7 +2,7 @@
   <div class="help">
     <h1>游戏玩法非常的简单：</h1>
     <ul>
-      <li><strong>目标</strong>：通过输入化合物分子式(如NaCl,区分大小写),猜测正确化合物。</li>
+      <li><strong>目标</strong>：通过输入化合物分子式(如NaCl,不区分大小写),猜测正确化合物。</li>
       <li>
         <strong>操作</strong>：
         <ul>
@@ -15,14 +15,18 @@
         <strong>格子说明</strong>：
         <ul>
           <li>元素格子(黑色10个)：显示你输入的化合物的元素</li>
-            <ul>
-              <li>化学式中的根离子是多字符的且数量是多个的需要带括号</li>
-              <li>字母，数字，括号各占一个格子</li>
-              <li>例如<img class="center" src="./imgs/Al2(SO4)3.png" alt="化学式" /></li>
-              <li><img src="./imgs/C.png" alt="绿色" />绿色表示该元素在正确答案中出现过，且位置相同。</li>
-              <li><img src="./imgs/H.png" alt="黄色" />黄色表示该元素在正确答案中出现过，但位置不同。</li>
-              <li><img src="./imgs/O.png" alt="灰色" />灰色表示该元素在正确答案中没有出现过。</li>
-            </ul>
+          <ul>
+            <li>化学式中的根离子是多字符的且数量是多个的需要带括号</li>
+            <li>字母，数字，括号各占一个格子</li>
+            <li>例如<img class="center" src="./imgs/Al2(SO4)3.png" alt="化学式" /></li>
+            <li>
+              <img src="./imgs/C.png" alt="绿色" />绿色表示该元素在正确答案中出现过，且位置相同。
+            </li>
+            <li>
+              <img src="./imgs/H.png" alt="黄色" />黄色表示该元素在正确答案中出现过，但位置不同。
+            </li>
+            <li><img src="./imgs/O.png" alt="灰色" />灰色表示该元素在正确答案中没有出现过。</li>
+          </ul>
           <li>常温状态格子(红色1个)：显示你输入的化合物的常温状态(25℃)</li>
           <ul>
             <li><img src="./imgs/Q.png" alt="气体" />绿色的常温状态表示和正确答案一样。</li>
@@ -59,12 +63,12 @@ h1 {
   text-align: center;
 }
 .center {
-  vertical-align:middle;
+  vertical-align: middle;
   width: 272px;
   height: 25px;
 }
 img {
-  vertical-align:middle;
+  vertical-align: middle;
   width: 25px;
   height: 25px;
 }
@@ -73,20 +77,20 @@ button {
   margin: 20px auto;
   padding: 10px 60px;
   cursor: pointer;
-  background-color:green;
-  color:#ffffff;
+  background-color: green;
+  color: #ffffff;
   border-radius: 30px;
 }
 @media screen and (max-width: 650px) {
-.center {
-  vertical-align:middle;
-  width: 185px;
-  height: 17px;
-}
-img {
-  vertical-align:middle;
-  width: 17px;
-  height: 17px;
-}
+  .center {
+    vertical-align: middle;
+    width: 185px;
+    height: 17px;
+  }
+  img {
+    vertical-align: middle;
+    width: 17px;
+    height: 17px;
+  }
 }
 </style>
