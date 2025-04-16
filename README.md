@@ -1,3 +1,1 @@
-# vue-game
-
-一款类Wordle猜无机化合物游戏
+![猜无机化合物游戏](public/img/chem-game.png)

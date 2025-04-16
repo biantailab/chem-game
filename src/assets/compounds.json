@@ -1,111 +1,9 @@
 [
   {
-    "name": "NaCl",
-    "elements": ["N", "a", "C", "l"],
-    "state": "固",
-    "molecularWeight": 58.5
-  },
-  {
     "name": "H2O",
     "elements": ["H", "2", "O"],
     "state": "液",
     "molecularWeight": 18.0
-  },
-  {
-    "name": "CO2",
-    "elements": ["C", "O", "2"],
-    "state": "气",
-    "molecularWeight": 44.0
-  },
-  {
-    "name": "Fe2O3",
-    "elements": ["F", "e", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 160.0
-  },
-  {
-    "name": "H2SO4",
-    "elements": ["H", "2", "S", "O", "4"],
-    "state": "液",
-    "molecularWeight": 98.0
-  },
-  {
-    "name": "CaCO3",
-    "elements": ["C", "a", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 100.0
-  },
-  {
-    "name": "(NH4)2SO4",
-    "elements": ["(", "N", "H", "4", ")", "2", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 132.0
-  },
-  {
-    "name": "Mg(OH)2",
-    "elements": ["M", "g", "(", "O", "H", ")", "2"],
-    "state": "固",
-    "molecularWeight": 58.0
-  },
-  {
-    "name": "KNO3",
-    "elements": ["K", "N", "O", "3"],
-    "state": "固",
-    "molecularWeight": 101.0
-  },
-  {
-    "name": "Al2(SO4)3",
-    "elements": ["A", "l", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 342.0
-  },
-  {
-    "name": "NH3",
-    "elements": ["N", "H", "3"],
-    "state": "气",
-    "molecularWeight": 17.0
-  },
-  {
-    "name": "K2CO3",
-    "elements": ["K", "2", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 138.0
-  },
-  {
-    "name": "HNO3",
-    "elements": ["H", "N", "O", "3"],
-    "state": "液",
-    "molecularWeight": 63.0
-  },
-  {
-    "name": "CaSO4",
-    "elements": ["C", "a", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 136.0
-  },
-  {
-    "name": "NaOH",
-    "elements": ["N", "a", "O", "H"],
-    "state": "固",
-    "molecularWeight": 40.0
-  },
-  {
-    "name": "ZnCl2",
-    "elements": ["Z", "n", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 136.0
-  },
-  {
-    "name": "H3PO4",
-    "elements": ["H", "3", "P", "O", "4"],
-    "state": "液",
-    "molecularWeight": 98.0
-  },
-  {
-    "name": "BaCl2",
-    "elements": ["B", "a", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 208.0
   },
   {
     "name": "HCl",
@@ -114,88 +12,10 @@
     "molecularWeight": 36.5
   },
   {
-    "name": "MgO",
-    "elements": ["M", "g", "O"],
-    "state": "固",
-    "molecularWeight": 40.0
-  },
-  {
-    "name": "SiO2",
-    "elements": ["S", "i", "O", "2"],
-    "state": "固",
-    "molecularWeight": 60.0
-  },
-  {
-    "name": "Na2SO4",
-    "elements": ["N", "a", "2", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 142.0
-  },
-  {
-    "name": "FeCl3",
-    "elements": ["F", "e", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 162.0
-  },
-  {
-    "name": "Al(OH)3",
-    "elements": ["A", "l", "(", "O", "H", ")", "3"],
-    "state": "固",
-    "molecularWeight": 78.0
-  },
-  {
-    "name": "KBr",
-    "elements": ["K", "B", "r"],
-    "state": "固",
-    "molecularWeight": 119.0
-  },
-  {
-    "name": "CuSO4",
-    "elements": ["C", "u", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 160.0
-  },
-  {
-    "name": "H2CO3",
-    "elements": ["H", "2", "C", "O", "3"],
+    "name": "HClO",
+    "elements": ["H", "C", "l", "O"],
     "state": "液",
-    "molecularWeight": 62.0
-  },
-  {
-    "name": "NaHCO3",
-    "elements": ["N", "a", "H", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 84.0
-  },
-  {
-    "name": "Pb(NO3)2",
-    "elements": ["P", "b", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 331.0
-  },
-  {
-    "name": "CaCl2",
-    "elements": ["C", "a", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 111.0
-  },
-  {
-    "name": "KOH",
-    "elements": ["K", "O", "H"],
-    "state": "固",
-    "molecularWeight": 56.0
-  },
-  {
-    "name": "AgNO3",
-    "elements": ["A", "g", "N", "O", "3"],
-    "state": "固",
-    "molecularWeight": 170.0
-  },
-  {
-    "name": "ZnSO4",
-    "elements": ["Z", "n", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 161.0
+    "molecularWeight": 52.4
   },
   {
     "name": "HBr",
@@ -204,3796 +24,52 @@
     "molecularWeight": 81.0
   },
   {
-    "name": "MgCl2",
-    "elements": ["M", "g", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 95.0
-  },
-  {
-    "name": "Na2S",
-    "elements": ["N", "a", "2", "S"],
-    "state": "固",
-    "molecularWeight": 78.0
-  },
-  {
-    "name": "FeSO4",
-    "elements": ["F", "e", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 152.0
-  },
-  {
-    "name": "C2H2",
-    "elements": ["C", "2", "H", "2"],
-    "state": "气",
-    "molecularWeight": 26.0
-  },
-  {
-    "name": "BaSO4",
-    "elements": ["B", "a", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 233.0
-  },
-  {
-    "name": "KCl",
-    "elements": ["K", "C", "l"],
-    "state": "固",
-    "molecularWeight": 74.5
-  },
-  {
-    "name": "H2S",
-    "elements": ["H", "2", "S"],
-    "state": "气",
-    "molecularWeight": 34.0
-  },
-  {
-    "name": "Na3PO4",
-    "elements": ["N", "a", "3", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 164.0
-  },
-  {
-    "name": "AlCl3",
-    "elements": ["A", "l", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 133.5
-  },
-  {
-    "name": "Ca(OH)2",
-    "elements": ["C", "a", "(", "O", "H", ")", "2"],
-    "state": "固",
-    "molecularWeight": 74.0
-  },
-  {
-    "name": "CuCl2",
-    "elements": ["C", "u", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 134.0
-  },
-  {
-    "name": "H2O2",
-    "elements": ["H", "2", "O", "2"],
+    "name": "H2SO4",
+    "elements": ["H", "2", "S", "O", "4"],
     "state": "液",
-    "molecularWeight": 34.0
-  },
-  {
-    "name": "NaF",
-    "elements": ["N", "a", "F"],
-    "state": "固",
-    "molecularWeight": 42.0
-  },
-  {
-    "name": "Fe(OH)3",
-    "elements": ["F", "e", "(", "O", "H", ")", "3"],
-    "state": "固",
-    "molecularWeight": 107.0
-  },
-  {
-    "name": "K2SO4",
-    "elements": ["K", "2", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 174.0
-  },
-  {
-    "name": "MgSO4",
-    "elements": ["M", "g", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 120.0
-  },
-  {
-    "name": "Ca(NO3)2",
-    "elements": ["C", "a", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 164.0
-  },
-  {
-    "name": "NaI",
-    "elements": ["N", "a", "I"],
-    "state": "固",
-    "molecularWeight": 150.0
-  },
-  {
-    "name": "Al2O3",
-    "elements": ["A", "l", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 102.0
-  },
-  {
-    "name": "K2S",
-    "elements": ["K", "2", "S"],
-    "state": "固",
-    "molecularWeight": 110.0
-  },
-  {
-    "name": "ZnO",
-    "elements": ["Z", "n", "O"],
-    "state": "固",
-    "molecularWeight": 81.0
-  },
-  {
-    "name": "H2SO3",
-    "elements": ["H", "2", "S", "O", "3"],
-    "state": "液",
-    "molecularWeight": 82.0
-  },
-  {
-    "name": "Na2O",
-    "elements": ["N", "a", "2", "O"],
-    "state": "固",
-    "molecularWeight": 62.0
-  },
-  {
-    "name": "Na2O2",
-    "elements": ["N", "a", "2", "O", "2"],
-    "state": "固",
-    "molecularWeight": 78.0
-  },
-  {
-    "name": "K2O2",
-    "elements": ["K", "2", "O", "2"],
-    "state": "固",
-    "molecularWeight": 110.2
-  },
-  {
-    "name": "CuO",
-    "elements": ["C", "u", "O"],
-    "state": "固",
-    "molecularWeight": 80.0
-  },
-  {
-    "name": "Ba(OH)2",
-    "elements": ["B", "a", "(", "O", "H", ")", "2"],
-    "state": "固",
-    "molecularWeight": 171.0
-  },
-  {
-    "name": "FeS",
-    "elements": ["F", "e", "S"],
-    "state": "固",
-    "molecularWeight": 88.0
-  },
-  {
-    "name": "K3PO4",
-    "elements": ["K", "3", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 212.0
-  },
-  {
-    "name": "MgCO3",
-    "elements": ["M", "g", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 84.0
-  },
-  {
-    "name": "NaNO3",
-    "elements": ["N", "a", "N", "O", "3"],
-    "state": "固",
-    "molecularWeight": 85.0
-  },
-  {
-    "name": "CaO",
-    "elements": ["C", "a", "O"],
-    "state": "固",
-    "molecularWeight": 56.0
-  },
-  {
-    "name": "H3BO3",
-    "elements": ["H", "3", "B", "O", "3"],
-    "state": "固",
-    "molecularWeight": 62.0
-  },
-  {
-    "name": "Al(NO3)3",
-    "elements": ["A", "l", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 213.0
-  },
-  {
-    "name": "C2H6",
-    "elements": ["C", "2", "H", "6"],
-    "state": "气",
-    "molecularWeight": 30.0
-  },
-  {
-    "name": "KClO3",
-    "elements": ["K", "C", "l", "O", "3"],
-    "state": "固",
-    "molecularWeight": 122.5
-  },
-  {
-    "name": "Zn(OH)2",
-    "elements": ["Z", "n", "(", "O", "H", ")", "2"],
-    "state": "固",
-    "molecularWeight": 99.0
-  },
-  {
-    "name": "Na2CO3",
-    "elements": ["N", "a", "2", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 106.0
-  },
-  {
-    "name": "Cu(NO3)2",
-    "elements": ["C", "u", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 188.0
-  },
-  {
-    "name": "MgS",
-    "elements": ["M", "g", "S"],
-    "state": "固",
-    "molecularWeight": 56.0
-  },
-  {
-    "name": "CaS",
-    "elements": ["C", "a", "S"],
-    "state": "固",
-    "molecularWeight": 72.0
-  },
-  {
-    "name": "NaClO",
-    "elements": ["N", "a", "C", "l", "O"],
-    "state": "固",
-    "molecularWeight": 74.5
-  },
-  {
-    "name": "FeCl2",
-    "elements": ["F", "e", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 127.0
-  },
-  {
-    "name": "K2O",
-    "elements": ["K", "2", "O"],
-    "state": "固",
-    "molecularWeight": 94.0
-  },
-  {
-    "name": "ZnS",
-    "elements": ["Z", "n", "S"],
-    "state": "固",
-    "molecularWeight": 97.0
-  },
-  {
-    "name": "H2Se",
-    "elements": ["H", "2", "S", "e"],
-    "state": "气",
-    "molecularWeight": 81.0
-  },
-  {
-    "name": "NaH",
-    "elements": ["N", "a", "H"],
-    "state": "固",
-    "molecularWeight": 24.0
-  },
-  {
-    "name": "Cu2O",
-    "elements": ["C", "u", "2", "O"],
-    "state": "固",
-    "molecularWeight": 143.0
-  },
-  {
-    "name": "BaO",
-    "elements": ["B", "a", "O"],
-    "state": "固",
-    "molecularWeight": 153.0
-  },
-  {
-    "name": "Fe2(SO4)3",
-    "elements": ["F", "e", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 400.0
-  },
-  {
-    "name": "K2CrO4",
-    "elements": ["K", "2", "C", "r", "O", "4"],
-    "state": "固",
-    "molecularWeight": 194.0
-  },
-  {
-    "name": "Mg(NO3)2",
-    "elements": ["M", "g", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 148.0
-  },
-  {
-    "name": "Na2S2O3",
-    "elements": ["N", "a", "2", "S ", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 158.0
-  },
-  {
-    "name": "Ca3(PO4)2",
-    "elements": ["C", "a", "3", "(", "P", "O", "4", ")", "2"],
-    "state": "固",
-    "molecularWeight": 310.0
-  },
-  {
-    "name": "NaBr",
-    "elements": ["N", "a", "B", "r"],
-    "state": "固",
-    "molecularWeight": 103.0
-  },
-  {
-    "name": "CuS",
-    "elements": ["C", "u", "S"],
-    "state": "固",
-    "molecularWeight": 96.0
-  },
-  {
-    "name": "K2Cr2O7",
-    "elements": ["K", "2", "C", "r", "2", "O", "7"],
-    "state": "固",
-    "molecularWeight": 294.0
-  },
-  {
-    "name": "Zn(NO3)2",
-    "elements": ["Z", "n", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 189.0
-  },
-  {
-    "name": "H2SO2",
-    "elements": ["H", "2", "S", "O", "2"],
-    "state": "液",
-    "molecularWeight": 66.0
-  },
-  {
-    "name": "Na2SiO3",
-    "elements": ["N", "a", "2", "S", "i", "O", "3"],
-    "state": "固",
-    "molecularWeight": 122.0
-  },
-  {
-    "name": "FeO",
-    "elements": ["F", "e", "O"],
-    "state": "固",
-    "molecularWeight": 72.0
-  },
-  {
-    "name": "K2MnO4",
-    "elements": ["K", "2", "M", "n", "O", "4"],
-    "state": "固",
-    "molecularWeight": 197.0
-  },
-  {
-    "name": "MgBr2",
-    "elements": ["M", "g", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 184.0
-  },
-  {
-    "name": "Na2HPO4",
-    "elements": ["N", "a", "2", "H", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 142.0
-  },
-  {
-    "name": "CaF2",
-    "elements": ["C", "a", "F", "2"],
-    "state": "固",
-    "molecularWeight": 78.0
-  },
-  {
-    "name": "Al2S3",
-    "elements": ["A", "l", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 150.0
-  },
-  {
-    "name": "KHSO4",
-    "elements": ["K", "H", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 136.0
-  },
-  {
-    "name": "ZnBr2",
-    "elements": ["Z", "n", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 225.0
-  },
-  {
-    "name": "H3AsO4",
-    "elements": ["H", "3", "A", "s", "O", "4"],
-    "state": "固",
-    "molecularWeight": 142.0
-  },
-  {
-    "name": "NaHSO4",
-    "elements": ["N", "a", "H", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 120.0
-  },
-  {
-    "name": "Cu(OH)2",
-    "elements": ["C", "u", "(", "O", "H", ")", "2"],
-    "state": "固",
-    "molecularWeight": 98.0
-  },
-  {
-    "name": "KMnO4",
-    "elements": ["K", "M", "n", "O", "4"],
-    "state": "固",
-    "molecularWeight": 158.0
-  },
-  {
-    "name": "MgF2",
-    "elements": ["M", "g", "F", "2"],
-    "state": "固",
-    "molecularWeight": 62.0
-  },
-  {
-    "name": "Na2SO3",
-    "elements": ["N", "a", "2", "S", "O", "3"],
-    "state": "固",
-    "molecularWeight": 126.0
-  },
-  {
-    "name": "Fe3O4",
-    "elements": ["F", "e", "3", "O", "4"],
-    "state": "固",
-    "molecularWeight": 232.0
-  },
-  {
-    "name": "K2HPO4",
-    "elements": ["K", "2", "H", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 174.0
-  },
-  {
-    "name": "ZnCl2",
-    "elements": ["Z", "n", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 136.0
-  },
-  {
-    "name": "HIO3",
-    "elements": ["H", "I", "O", "3"],
-    "state": "固",
-    "molecularWeight": 176.0
-  },
-  {
-    "name": "Na2S2O8",
-    "elements": ["N", "a", "2", "S", "2", "O", "8"],
-    "state": "固",
-    "molecularWeight": 238.0
-  },
-  {
-    "name": "CaBr2",
-    "elements": ["C", "a", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 200.0
-  },
-  {
-    "name": "KIO3",
-    "elements": ["K", "I", "O", "3"],
-    "state": "固",
-    "molecularWeight": 214.0
-  },
-  {
-    "name": "MgI2",
-    "elements": ["M", "g", "I", "2"],
-    "state": "固",
-    "molecularWeight": 278.0
-  },
-  {
-    "name": "Na2CrO4",
-    "elements": ["N", "a", "2", "C", "r", "O", "4"],
-    "state": "固",
-    "molecularWeight": 162.0
-  },
-  {
-    "name": "FeBr2",
-    "elements": ["F", "e", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 216.0
-  },
-  {
-    "name": "KBrO3",
-    "elements": ["K", "B", "r", "O", "3"],
-    "state": "固",
-    "molecularWeight": 167.0
-  },
-  {
-    "name": "ZnI2",
-    "elements": ["Z", "n", "I", "2"],
-    "state": "固",
-    "molecularWeight": 319.0
-  },
-  {
-    "name": "H2CrO4",
-    "elements": ["H", "2", "C", "r", "O", "4"],
-    "state": "固",
-    "molecularWeight": 118.0
-  },
-  {
-    "name": "Na2B4O7",
-    "elements": ["N", "a", "2", "B", "4", "O", "7"],
-    "state": "固",
-    "molecularWeight": 201.0
-  },
-  {
-    "name": "CaI2",
-    "elements": ["C", "a", "I", "2"],
-    "state": "固",
-    "molecularWeight": 294.0
-  },
-  {
-    "name": "K2SO3",
-    "elements": ["K", "2", "S", "O", "3"],
-    "state": "固",
-    "molecularWeight": 158.0
-  },
-  {
-    "name": "MgClO4",
-    "elements": ["M", "g", "C", "l", "O", "4"],
-    "state": "固",
-    "molecularWeight": 223.0
-  },
-  {
-    "name": "Na2SeO4",
-    "elements": ["N", "a", "2", "S", "e", "O", "4"],
-    "state": "固",
-    "molecularWeight": 189.0
-  },
-  {
-    "name": "FeI2",
-    "elements": ["F", "e", "I", "2"],
-    "state": "固",
-    "molecularWeight": 310.0
-  },
-  {
-    "name": "K2SeO4",
-    "elements": ["K", "2", "S", "e", "O", "4"],
-    "state": "固",
-    "molecularWeight": 221.0
-  },
-  {
-    "name": "ZnF2",
-    "elements": ["Z", "n", "F", "2"],
-    "state": "固",
-    "molecularWeight": 103.0
-  },
-  {
-    "name": "H2SiO3",
-    "elements": ["H", "2", "S", "i", "O", "3"],
-    "state": "固",
-    "molecularWeight": 78.0
-  },
-  {
-    "name": "Na2MoO4",
-    "elements": ["N", "a", "2", "M", "o", "O", "4"],
-    "state": "固",
-    "molecularWeight": 206.0
-  },
-  {
-    "name": "CaClO4",
-    "elements": ["C", "a", "C", "l", "O", "4"],
-    "state": "固",
-    "molecularWeight": 239.0
-  },
-  {
-    "name": "K2WO4",
-    "elements": ["K", "2", "W", "O", "4"],
-    "state": "固",
-    "molecularWeight": 326.0
-  },
-  {
-    "name": "MgH2",
-    "elements": ["M", "g", "H", "2"],
-    "state": "固",
-    "molecularWeight": 26.0
-  },
-  {
-    "name": "Na2TeO4",
-    "elements": ["N", "a", "2", "T", "e", "O", "4"],
-    "state": "固",
-    "molecularWeight": 237.0
-  },
-  {
-    "name": "FeH2",
-    "elements": ["F", "e", "H", "2"],
-    "state": "固",
-    "molecularWeight": 58.0
-  },
-  {
-    "name": "K2TeO4",
-    "elements": ["K", "2", "T", "e", "O", "4"],
-    "state": "固",
-    "molecularWeight": 269.0
-  },
-  {
-    "name": "ZnH2",
-    "elements": ["Z", "n", "H", "2"],
-    "state": "固",
-    "molecularWeight": 67.0
-  },
-  {
-    "name": "H2TeO4",
-    "elements": ["H", "2", "T", "e", "O", "4"],
-    "state": "固",
-    "molecularWeight": 193.0
-  },
-  {
-    "name": "Na2WO4",
-    "elements": ["N", "a", "2", "W", "O", "4"],
-    "state": "固",
-    "molecularWeight": 294.0
-  },
-  {
-    "name": "Cs2TeO4",
-    "elements": ["C", "s", "2", "T", "e", "O", "4"],
-    "state": "固",
-    "molecularWeight": 425.4
-  },
-  {
-    "name": "TlNO3",
-    "elements": ["T", "l", "N", "O", "3"],
-    "state": "固",
-    "molecularWeight": 266.4
-  },
-  {
-    "name": "Bi2S3",
-    "elements": ["B", "i", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 514.2
-  },
-  {
-    "name": "ScF3",
-    "elements": ["S", "c", "F", "3"],
-    "state": "固",
-    "molecularWeight": 102.0
-  },
-  {
-    "name": "Hg2Cl2",
-    "elements": ["H", "g", "2", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 472.1
-  },
-  {
-    "name": "OsO4",
-    "elements": ["O", "s", "O", "4"],
-    "state": "固",
-    "molecularWeight": 254.2
-  },
-  {
-    "name": "In2O3",
-    "elements": ["I", "n", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 277.6
-  },
-  {
-    "name": "YCl3",
-    "elements": ["Y", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 195.3
-  },
-  {
-    "name": "PtCl4",
-    "elements": ["P", "t", "C", "l", "4"],
-    "state": "固",
-    "molecularWeight": 337.0
-  },
-  {
-    "name": "Rb2SeO4",
-    "elements": ["R", "b", "2", "S", "e", "O", "4"],
-    "state": "固",
-    "molecularWeight": 313.9
-  },
-  {
-    "name": "GeF4",
-    "elements": ["G", "e", "F", "4"],
-    "state": "气",
-    "molecularWeight": 148.6
-  },
-  {
-    "name": "SnS2",
-    "elements": ["S", "n", "S", "2"],
-    "state": "固",
-    "molecularWeight": 182.8
-  },
-  {
-    "name": "La2O3",
-    "elements": ["L", "a", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 325.8
-  },
-  {
-    "name": "MoCl5",
-    "elements": ["M", "o", "C", "l", "5"],
-    "state": "固",
-    "molecularWeight": 273.2
-  },
-  {
-    "name": "RhCl3",
-    "elements": ["R", "h", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 209.3
-  },
-  {
-    "name": "Ce(SO4)2",
-    "elements": ["C", "e", "(", "S", "O", "4", ")", "2"],
-    "state": "固",
-    "molecularWeight": 332.2
-  },
-  {
-    "name": "TeCl4",
-    "elements": ["T", "e", "C", "l", "4"],
-    "state": "固",
-    "molecularWeight": 269.4
-  },
-  {
-    "name": "Nb2O5",
-    "elements": ["N", "b", "2", "O", "5"],
-    "state": "固",
-    "molecularWeight": 265.8
-  },
-  {
-    "name": "IrO2",
-    "elements": ["I", "r", "O", "2"],
-    "state": "固",
-    "molecularWeight": 224.2
-  },
-  {
-    "name": "GdCl3",
-    "elements": ["G", "d", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 263.6
-  },
-  {
-    "name": "AsI3",
-    "elements": ["A", "s", "I", "3"],
-    "state": "固",
-    "molecularWeight": 455.6
-  },
-  {
-    "name": "WCl6",
-    "elements": ["W", "C", "l", "6"],
-    "state": "固",
-    "molecularWeight": 396.6
-  },
-  {
-    "name": "PdCl2",
-    "elements": ["P", "d", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 177.3
-  },
-  {
-    "name": "Sm2O3",
-    "elements": ["S", "m", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 348.7
-  },
-  {
-    "name": "Sb2S3",
-    "elements": ["S", "b", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 339.7
-  },
-  {
-    "name": "RuO4",
-    "elements": ["R", "u", "O", "4"],
-    "state": "固",
-    "molecularWeight": 165.1
-  },
-  {
-    "name": "DyCl3",
-    "elements": ["D", "y", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 268.9
-  },
-  {
-    "name": "Ta2O5",
-    "elements": ["T", "a", "2", "O", "5"],
-    "state": "固",
-    "molecularWeight": 441.9
-  },
-  {
-    "name": "ReCl5",
-    "elements": ["R", "e", "C", "l", "5"],
-    "state": "固",
-    "molecularWeight": 363.5
-  },
-  {
-    "name": "HoF3",
-    "elements": ["H", "o", "F", "3"],
-    "state": "固",
-    "molecularWeight": 222.0
-  },
-  {
-    "name": "Tl2SO4",
-    "elements": ["T", "l", "2", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 504.8
-  },
-  {
-    "name": "Er2O3",
-    "elements": ["E", "r", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 382.5
-  },
-  {
-    "name": "AuCl3",
-    "elements": ["A", "u", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 303.3
-  },
-  {
-    "name": "Pr2O3",
-    "elements": ["P", "r", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 329.8
-  },
-  {
-    "name": "SeF6",
-    "elements": ["S", "e", "F", "6"],
-    "state": "气",
-    "molecularWeight": 193.0
-  },
-  {
-    "name": "NdCl3",
-    "elements": ["N", "d", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 250.6
-  },
-  {
-    "name": "ZrCl4",
-    "elements": ["Z", "r", "C", "l", "4"],
-    "state": "固",
-    "molecularWeight": 233.0
-  },
-  {
-    "name": "Tb2O3",
-    "elements": ["T", "b", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 365.8
-  },
-  {
-    "name": "HfO2",
-    "elements": ["H", "f", "O", "2"],
-    "state": "固",
-    "molecularWeight": 210.5
-  },
-  {
-    "name": "EuCl3",
-    "elements": ["E", "u", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 258.3
-  },
-  {
-    "name": "ThO2",
-    "elements": ["T", "h", "O", "2"],
-    "state": "固",
-    "molecularWeight": 264.0
-  },
-  {
-    "name": "LuF3",
-    "elements": ["L", "u", "F", "3"],
-    "state": "固",
-    "molecularWeight": 232.0
-  },
-  {
-    "name": "UO2",
-    "elements": ["U", "O", "2"],
-    "state": "固",
-    "molecularWeight": 270.0
-  },
-  {
-    "name": "Yb2O3",
-    "elements": ["Y", "b", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 394.1
-  },
-  {
-    "name": "TmCl3",
-    "elements": ["T", "m", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 275.3
-  },
-  {
-    "name": "PaO2",
-    "elements": ["P", "a", "O", "2"],
-    "state": "固",
-    "molecularWeight": 263.0
-  },
-  {
-    "name": "NpCl4",
-    "elements": ["N", "p", "C", "l", "4"],
-    "state": "固",
-    "molecularWeight": 379.0
-  },
-  {
-    "name": "AmO2",
-    "elements": ["A", "m", "O", "2"],
-    "state": "固",
-    "molecularWeight": 275.0
-  },
-  {
-    "name": "CmF3",
-    "elements": ["C", "m", "F", "3"],
-    "state": "固",
-    "molecularWeight": 304.0
-  },
-  {
-    "name": "BkCl3",
-    "elements": ["B", "k", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 354.0
-  },
-  {
-    "name": "Cf2O3",
-    "elements": ["C", "f", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 550.0
-  },
-  {
-    "name": "Cs2MoO4",
-    "elements": ["C", "s", "2", "M", "o", "O", "4"],
-    "state": "固",
-    "molecularWeight": 425.8
-  },
-  {
-    "name": "Tl2S",
-    "elements": ["T", "l", "2", "S"],
-    "state": "固",
-    "molecularWeight": 440.8
-  },
-  {
-    "name": "BiF3",
-    "elements": ["B", "i", "F", "3"],
-    "state": "固",
-    "molecularWeight": 266.0
-  },
-  {
-    "name": "Sc2O3",
-    "elements": ["S", "c", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 138.0
-  },
-  {
-    "name": "HgI2",
-    "elements": ["H", "g", "I", "2"],
-    "state": "固",
-    "molecularWeight": 454.4
-  },
-  {
-    "name": "OsCl4",
-    "elements": ["O", "s", "C", "l", "4"],
-    "state": "固",
-    "molecularWeight": 332.0
-  },
-  {
-    "name": "InCl3",
-    "elements": ["I", "n", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 221.2
-  },
-  {
-    "name": "Y2O3",
-    "elements": ["Y", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 225.8
-  },
-  {
-    "name": "PtF6",
-    "elements": ["P", "t", "F", "6"],
-    "state": "气",
-    "molecularWeight": 309.0
-  },
-  {
-    "name": "Rb2WO4",
-    "elements": ["R", "b", "2", "W", "O", "4"],
-    "state": "固",
-    "molecularWeight": 418.8
-  },
-  {
-    "name": "GeCl4",
-    "elements": ["G", "e", "C", "l", "4"],
-    "state": "液",
-    "molecularWeight": 214.4
-  },
-  {
-    "name": "SnF4",
-    "elements": ["S", "n", "F", "4"],
-    "state": "固",
-    "molecularWeight": 194.7
-  },
-  {
-    "name": "LaF3",
-    "elements": ["L", "a", "F", "3"],
-    "state": "固",
-    "molecularWeight": 195.9
-  },
-  {
-    "name": "MoO3",
-    "elements": ["M", "o", "O", "3"],
-    "state": "固",
-    "molecularWeight": 144.0
-  },
-  {
-    "name": "Rh2O3",
-    "elements": ["R", "h", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 253.8
-  },
-  {
-    "name": "CeF4",
-    "elements": ["C", "e", "F", "4"],
-    "state": "固",
-    "molecularWeight": 216.1
-  },
-  {
-    "name": "TeI4",
-    "elements": ["T", "e", "I", "4"],
-    "state": "固",
-    "molecularWeight": 635.2
-  },
-  {
-    "name": "NbCl5",
-    "elements": ["N", "b", "C", "l", "5"],
-    "state": "固",
-    "molecularWeight": 270.2
-  },
-  {
-    "name": "IrCl3",
-    "elements": ["I", "r", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 298.6
-  },
-  {
-    "name": "Gd2O3",
-    "elements": ["G", "d", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 362.5
-  },
-  {
-    "name": "As2O3",
-    "elements": ["A", "s", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 197.8
-  },
-  {
-    "name": "WF6",
-    "elements": ["W", "F", "6"],
-    "state": "气",
-    "molecularWeight": 297.8
-  },
-  {
-    "name": "PdO",
-    "elements": ["P", "d", "O"],
-    "state": "固",
-    "molecularWeight": 122.4
-  },
-  {
-    "name": "SmCl3",
-    "elements": ["S", "m", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 256.8
-  },
-  {
-    "name": "SbF5",
-    "elements": ["S", "b", "F", "5"],
-    "state": "液",
-    "molecularWeight": 216.8
-  },
-  {
-    "name": "RuCl3",
-    "elements": ["R", "u", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 207.4
-  },
-  {
-    "name": "Dy2O3",
-    "elements": ["D", "y", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 373.0
-  },
-  {
-    "name": "TaCl5",
-    "elements": ["T", "a", "C", "l", "5"],
-    "state": "固",
-    "molecularWeight": 358.2
-  },
-  {
-    "name": "ReO3",
-    "elements": ["R", "e", "O", "3"],
-    "state": "固",
-    "molecularWeight": 234.2
-  },
-  {
-    "name": "HoCl3",
-    "elements": ["H", "o", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 271.3
-  },
-  {
-    "name": "TlCl",
-    "elements": ["T", "l", "C", "l"],
-    "state": "固",
-    "molecularWeight": 239.8
-  },
-  {
-    "name": "ErCl3",
-    "elements": ["E", "r", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 273.6
-  },
-  {
-    "name": "AuF3",
-    "elements": ["A", "u", "F", "3"],
-    "state": "固",
-    "molecularWeight": 254.0
-  },
-  {
-    "name": "PrCl3",
-    "elements": ["P", "r", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 247.3
-  },
-  {
-    "name": "SeO3",
-    "elements": ["S", "e", "O", "3"],
-    "state": "固",
-    "molecularWeight": 127.0
-  },
-  {
-    "name": "Nd2O3",
-    "elements": ["N", "d", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 336.5
-  },
-  {
-    "name": "ZrO2",
-    "elements": ["Z", "r", "O", "2"],
-    "state": "固",
-    "molecularWeight": 123.2
-  },
-  {
-    "name": "TbCl3",
-    "elements": ["T", "b", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 265.3
-  },
-  {
-    "name": "HfCl4",
-    "elements": ["H", "f", "C", "l", "4"],
-    "state": "固",
-    "molecularWeight": 320.3
-  },
-  {
-    "name": "Eu2O3",
-    "elements": ["E", "u", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 352.0
-  },
-  {
-    "name": "ThCl4",
-    "elements": ["T", "h", "C", "l", "4"],
-    "state": "固",
-    "molecularWeight": 373.8
-  },
-  {
-    "name": "Lu2O3",
-    "elements": ["L", "u", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 398.0
-  },
-  {
-    "name": "YbCl3",
-    "elements": ["Y", "b", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 279.4
-  },
-  {
-    "name": "Tm2O3",
-    "elements": ["T", "m", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 385.9
-  },
-  {
-    "name": "PaCl5",
-    "elements": ["P", "a", "C", "l", "5"],
-    "state": "固",
-    "molecularWeight": 408.0
-  },
-  {
-    "name": "NpO2",
-    "elements": ["N", "p", "O", "2"],
-    "state": "固",
-    "molecularWeight": 269.0
-  },
-  {
-    "name": "BrF3",
-    "elements": ["B", "r", "F", "3"],
-    "state": "液",
-    "molecularWeight": 136.9
-  },
-  {
-    "name": "ClF3",
-    "elements": ["C", "l", "F", "3"],
-    "state": "液",
-    "molecularWeight": 92.5
-  },
-  {
-    "name": "IF5",
-    "elements": ["I", "F", "5"],
-    "state": "液",
-    "molecularWeight": 221.9
-  },
-  {
-    "name": "N2H4",
-    "elements": ["N", "2", "H", "4"],
-    "state": "液",
-    "molecularWeight": 32.0
-  },
-  {
-    "name": "PCl3",
-    "elements": ["P", "C", "l", "3"],
-    "state": "液",
-    "molecularWeight": 137.3
-  },
-  {
-    "name": "PBr3",
-    "elements": ["P", "B", "r", "3"],
-    "state": "液",
-    "molecularWeight": 270.7
-  },
-  {
-    "name": "SOCl2",
-    "elements": ["S", "O", "C", "l", "2"],
-    "state": "液",
-    "molecularWeight": 119.0
-  },
-  {
-    "name": "S2Cl2",
-    "elements": ["S", "2", "C", "l", "2"],
-    "state": "液",
-    "molecularWeight": 135.0
-  },
-  {
-    "name": "TiCl4",
-    "elements": ["T", "i", "C", "l", "4"],
-    "state": "液",
-    "molecularWeight": 189.7
-  },
-  {
-    "name": "VOCl3",
-    "elements": ["V", "O", "C", "l", "3"],
-    "state": "液",
-    "molecularWeight": 173.3
-  },
-  {
-    "name": "AsCl3",
-    "elements": ["A", "s", "C", "l", "3"],
-    "state": "液",
-    "molecularWeight": 181.3
-  },
-  {
-    "name": "SbCl3",
-    "elements": ["S", "b", "C", "l", "3"],
-    "state": "液",
-    "molecularWeight": 228.1
-  },
-  {
-    "name": "SeOCl2",
-    "elements": ["S", "e", "O", "C", "l", "2"],
-    "state": "液",
-    "molecularWeight": 165.9
-  },
-  {
-    "name": "TeCl2",
-    "elements": ["T", "e", "C", "l", "2"],
-    "state": "液",
-    "molecularWeight": 198.5
-  },
-  {
-    "name": "SiCl4",
-    "elements": ["S", "i", "C", "l", "4"],
-    "state": "液",
-    "molecularWeight": 169.9
-  },
-  {
-    "name": "BCl3",
-    "elements": ["B", "C", "l", "3"],
-    "state": "液",
-    "molecularWeight": 117.2
-  },
-  {
-    "name": "BF3",
-    "elements": ["B", "F", "3"],
-    "state": "液",
-    "molecularWeight": 67.8
-  },
-  {
-    "name": "SnCl4",
-    "elements": ["S", "n", "C", "l", "4"],
-    "state": "液",
-    "molecularWeight": 260.5
-  },
-  {
-    "name": "POCl3",
-    "elements": ["P", "O", "C", "l", "3"],
-    "state": "液",
-    "molecularWeight": 153.3
-  },
-  {
-    "name": "SeCl4",
-    "elements": ["S", "e", "C", "l", "4"],
-    "state": "液",
-    "molecularWeight": 220.8
-  },
-  {
-    "name": "CS2",
-    "elements": ["C", "S", "2"],
-    "state": "液",
-    "molecularWeight": 76.1
-  },
-  {
-    "name": "CCl4",
-    "elements": ["C", "C", "l", "4"],
-    "state": "液",
-    "molecularWeight": 153.8
-  },
-  {
-    "name": "NOCl",
-    "elements": ["N", "O", "C", "l"],
-    "state": "液",
-    "molecularWeight": 65.5
-  },
-  {
-    "name": "SO2Cl2",
-    "elements": ["S", "O", "2", "C", "l", "2"],
-    "state": "液",
-    "molecularWeight": 135.0
-  },
-  {
-    "name": "BrCl",
-    "elements": ["B", "r", "C", "l"],
-    "state": "液",
-    "molecularWeight": 115.4
-  },
-  {
-    "name": "ICl",
-    "elements": ["I", "C", "l"],
-    "state": "液",
-    "molecularWeight": 162.4
-  },
-  {
-    "name": "ICl3",
-    "elements": ["I", "C", "l", "3"],
-    "state": "液",
-    "molecularWeight": 233.3
-  },
-  {
-    "name": "SiF4",
-    "elements": ["S", "i", "F", "4"],
-    "state": "液",
-    "molecularWeight": 104.1
-  },
-  {
-    "name": "SCl2",
-    "elements": ["S", "C", "l", "2"],
-    "state": "液",
-    "molecularWeight": 103.0
-  },
-  {
-    "name": "PCl5",
-    "elements": ["P", "C", "l", "5"],
-    "state": "液",
-    "molecularWeight": 208.2
-  },
-  {
-    "name": "H2SeO3",
-    "elements": ["H", "2", "S", "e", "O", "3"],
-    "state": "液",
-    "molecularWeight": 129.0
-  },
-  {
-    "name": "H2TeO3",
-    "elements": ["H", "2", "T", "e", "O", "3"],
-    "state": "液",
-    "molecularWeight": 177.6
-  },
-  {
-    "name": "H3AsO3",
-    "elements": ["H", "3", "A", "s", "O", "3"],
-    "state": "液",
-    "molecularWeight": 126.0
-  },
-  {
-    "name": "HIO4",
-    "elements": ["H", "I", "O", "4"],
-    "state": "液",
-    "molecularWeight": 191.9
-  },
-  {
-    "name": "H5IO6",
-    "elements": ["H", "5", "I", "O", "6"],
-    "state": "液",
-    "molecularWeight": 227.9
-  },
-  {
-    "name": "H2S2O7",
-    "elements": ["H", "2", "S", "2", "O", "7"],
-    "state": "液",
-    "molecularWeight": 178.1
-  },
-  {
-    "name": "H2S2O8",
-    "elements": ["H", "2", "S", "2", "O", "8"],
-    "state": "液",
-    "molecularWeight": 194.1
-  },
-  {
-    "name": "HClO3",
-    "elements": ["H", "C", "l", "O", "3"],
-    "state": "液",
-    "molecularWeight": 84.5
-  },
-  {
-    "name": "HBrO3",
-    "elements": ["H", "B", "r", "O", "3"],
-    "state": "液",
-    "molecularWeight": 128.9
-  },
-  {
-    "name": "H2Cr2O7",
-    "elements": ["H", "2", "C", "r", "2", "O", "7"],
-    "state": "液",
-    "molecularWeight": 218.0
-  },
-  {
-    "name": "H2MoO4",
-    "elements": ["H", "2", "M", "o", "O", "4"],
-    "state": "液",
-    "molecularWeight": 162.0
-  },
-  {
-    "name": "H2WO4",
-    "elements": ["H", "2", "W", "O", "4"],
-    "state": "液",
-    "molecularWeight": 249.9
-  },
-  {
-    "name": "H2SeO4",
-    "elements": ["H", "2", "S", "e", "O", "4"],
-    "state": "液",
-    "molecularWeight": 145.0
-  },
-  {
-    "name": "H2TeO4",
-    "elements": ["H", "2", "T", "e", "O", "4"],
-    "state": "液",
-    "molecularWeight": 193.6
-  },
-  {
-    "name": "H2SO5",
-    "elements": ["H", "2", "S", "O", "5"],
-    "state": "液",
-    "molecularWeight": 114.1
-  },
-  {
-    "name": "H3PO3",
-    "elements": ["H", "3", "P", "O", "3"],
-    "state": "液",
-    "molecularWeight": 82.0
-  },
-  {
-    "name": "H4P2O7",
-    "elements": ["H", "4", "P", "2", "O", "7"],
-    "state": "液",
-    "molecularWeight": 178.0
-  },
-  {
-    "name": "H3PO2",
-    "elements": ["H", "3", "P", "O", "2"],
-    "state": "液",
-    "molecularWeight": 66.0
-  },
-  {
-    "name": "H2S2O3",
-    "elements": ["H", "2", "S", "2", "O", "3"],
-    "state": "液",
-    "molecularWeight": 114.1
-  },
-  {
-    "name": "H2S2O4",
-    "elements": ["H", "2", "S", "2", "O", "4"],
-    "state": "液",
-    "molecularWeight": 130.1
+    "molecularWeight": 98.1
   },
   {
     "name": "HClO4",
     "elements": ["H", "C", "l", "O", "4"],
     "state": "液",
-    "molecularWeight": 100.5
+    "molecularWeight": 100.4
   },
   {
-    "name": "H2N2O2",
-    "elements": ["H", "2", "N", "2", "O", "2"],
+    "name": "H2CO3",
+    "elements": ["H", "2", "C", "O", "3"],
     "state": "液",
     "molecularWeight": 62.0
   },
   {
-    "name": "H2N2O3",
-    "elements": ["H", "2", "N", "2", "O", "3"],
+    "name": "HNO3",
+    "elements": ["H", "N", "O", "3"],
     "state": "液",
-    "molecularWeight": 78.0
+    "molecularWeight": 63.0
   },
   {
-    "name": "H2MnO4",
-    "elements": ["H", "2", "M", "n", "O", "4"],
+    "name": "NH3",
+    "elements": ["N", "H", "3"],
+    "state": "气",
+    "molecularWeight": 17.0
+  },
+  {
+    "name": "HN3",
+    "elements": ["H", "N", "3"],
     "state": "液",
-    "molecularWeight": 120.9
-  },
-  {
-    "name": "H2ReO4",
-    "elements": ["H", "2", "R", "e", "O", "4"],
-    "state": "液",
-    "molecularWeight": 252.2
-  },
-  {
-    "name": "H2OsO4",
-    "elements": ["H", "2", "O", "s", "O", "4"],
-    "state": "液",
-    "molecularWeight": 258.2
-  },
-  {
-    "name": "H2RuO4",
-    "elements": ["H", "2", "R", "u", "O", "4"],
-    "state": "液",
-    "molecularWeight": 167.1
-  },
-  {
-    "name": "H2IrO4",
-    "elements": ["H", "2", "I", "r", "O", "4"],
-    "state": "液",
-    "molecularWeight": 258.2
-  },
-  {
-    "name": "H2RhO4",
-    "elements": ["H", "2", "R", "h", "O", "4"],
-    "state": "液",
-    "molecularWeight": 166.9
-  },
-  {
-    "name": "H2PdO4",
-    "elements": ["H", "2", "P", "d", "O", "4"],
-    "state": "液",
-    "molecularWeight": 172.4
-  },
-  {
-    "name": "H2PtO4",
-    "elements": ["H", "2", "P", "t", "O", "4"],
-    "state": "液",
-    "molecularWeight": 261.1
-  },
-  {
-    "name": "H2AuO4",
-    "elements": ["H", "2", "A", "u", "O", "4"],
-    "state": "液",
-    "molecularWeight": 263.0
-  },
-  {
-    "name": "H2AgO4",
-    "elements": ["H", "2", "A", "g", "O", "4"],
-    "state": "液",
-    "molecularWeight": 173.9
-  },
-  {
-    "name": "H2HgO4",
-    "elements": ["H", "2", "H", "g", "O", "4"],
-    "state": "液",
-    "molecularWeight": 266.6
-  },
-  {
-    "name": "H2TlO4",
-    "elements": ["H", "2", "T", "l", "O", "4"],
-    "state": "液",
-    "molecularWeight": 270.4
-  },
-  {
-    "name": "H2BiO4",
-    "elements": ["H", "2", "B", "i", "O", "4"],
-    "state": "液",
-    "molecularWeight": 275.0
-  },
-  {
-    "name": "H2SnO4",
-    "elements": ["H", "2", "S", "n", "O", "4"],
-    "state": "液",
-    "molecularWeight": 182.7
-  },
-  {
-    "name": "H2PbO4",
-    "elements": ["H", "2", "P", "b", "O", "4"],
-    "state": "液",
-    "molecularWeight": 273.2
-  },
-  {
-    "name": "H2GeO4",
-    "elements": ["H", "2", "G", "e", "O", "4"],
-    "state": "液",
-    "molecularWeight": 138.6
-  },
-  {
-    "name": "H2SiO4",
-    "elements": ["H", "2", "S", "i", "O", "4"],
-    "state": "液",
-    "molecularWeight": 94.1
-  },
-  {
-    "name": "H2BO4",
-    "elements": ["H", "2", "B", "O", "4"],
-    "state": "液",
-    "molecularWeight": 77.8
-  },
-  {
-    "name": "H2AlO4",
-    "elements": ["H", "2", "A", "l", "O", "4"],
-    "state": "液",
-    "molecularWeight": 93.0
-  },
-  {
-    "name": "H2GaO4",
-    "elements": ["H", "2", "G", "a", "O", "4"],
-    "state": "液",
-    "molecularWeight": 135.7
-  },
-  {
-    "name": "H2InO4",
-    "elements": ["H", "2", "I", "n", "O", "4"],
-    "state": "液",
-    "molecularWeight": 180.8
-  },
-  {
-    "name": "H2ScO4",
-    "elements": ["H", "2", "S", "c", "O", "4"],
-    "state": "液",
-    "molecularWeight": 111.0
-  },
-  {
-    "name": "H2YO4",
-    "elements": ["H", "2", "Y", "O", "4"],
-    "state": "液",
-    "molecularWeight": 154.9
-  },
-  {
-    "name": "H2LaO4",
-    "elements": ["H", "2", "L", "a", "O", "4"],
-    "state": "液",
-    "molecularWeight": 204.9
-  },
-  {
-    "name": "H2CeO4",
-    "elements": ["H", "2", "C", "e", "O", "4"],
-    "state": "液",
-    "molecularWeight": 206.1
-  },
-  {
-    "name": "H2PrO4",
-    "elements": ["H", "2", "P", "r", "O", "4"],
-    "state": "液",
-    "molecularWeight": 206.9
-  },
-  {
-    "name": "H2NdO4",
-    "elements": ["H", "2", "N", "d", "O", "4"],
-    "state": "液",
-    "molecularWeight": 210.2
-  },
-  {
-    "name": "H2SmO4",
-    "elements": ["H", "2", "S", "m", "O", "4"],
-    "state": "液",
-    "molecularWeight": 216.4
-  },
-  {
-    "name": "H2EuO4",
-    "elements": ["H", "2", "E", "u", "O", "4"],
-    "state": "液",
-    "molecularWeight": 218.0
-  },
-  {
-    "name": "H2GdO4",
-    "elements": ["H", "2", "G", "d", "O", "4"],
-    "state": "液",
-    "molecularWeight": 223.3
-  },
-  {
-    "name": "H2TbO4",
-    "elements": ["H", "2", "T", "b", "O", "4"],
-    "state": "液",
-    "molecularWeight": 225.0
-  },
-  {
-    "name": "H2DyO4",
-    "elements": ["H", "2", "D", "y", "O", "4"],
-    "state": "液",
-    "molecularWeight": 228.5
-  },
-  {
-    "name": "H2HoO4",
-    "elements": ["H", "2", "H", "o", "O", "4"],
-    "state": "液",
-    "molecularWeight": 231.0
-  },
-  {
-    "name": "H2ErO4",
-    "elements": ["H", "2", "E", "r", "O", "4"],
-    "state": "液",
-    "molecularWeight": 233.3
-  },
-  {
-    "name": "H2TmO4",
-    "elements": ["H", "2", "T", "m", "O", "4"],
-    "state": "液",
-    "molecularWeight": 235.0
-  },
-  {
-    "name": "H2YbO4",
-    "elements": ["H", "2", "Y", "b", "O", "4"],
-    "state": "液",
-    "molecularWeight": 239.1
-  },
-  {
-    "name": "H2LuO4",
-    "elements": ["H", "2", "L", "u", "O", "4"],
-    "state": "液",
-    "molecularWeight": 241.0
-  },
-  {
-    "name": "H2ThO4",
-    "elements": ["H", "2", "T", "h", "O", "4"],
-    "state": "液",
-    "molecularWeight": 298.0
-  },
-  {
-    "name": "H2UO4",
-    "elements": ["H", "2", "U", "O", "4"],
-    "state": "液",
-    "molecularWeight": 304.0
-  },
-  {
-    "name": "H2NpO4",
-    "elements": ["H", "2", "N", "p", "O", "4"],
-    "state": "液",
-    "molecularWeight": 303.0
-  },
-  {
-    "name": "H2PuO4",
-    "elements": ["H", "2", "P", "u", "O", "4"],
-    "state": "液",
-    "molecularWeight": 306.0
-  },
-  {
-    "name": "H2AmO4",
-    "elements": ["H", "2", "A", "m", "O", "4"],
-    "state": "液",
-    "molecularWeight": 309.0
-  },
-  {
-    "name": "H2CmO4",
-    "elements": ["H", "2", "C", "m", "O", "4"],
-    "state": "液",
-    "molecularWeight": 311.0
-  },
-  {
-    "name": "H2BkO4",
-    "elements": ["H", "2", "B", "k", "O", "4"],
-    "state": "液",
-    "molecularWeight": 313.0
-  },
-  {
-    "name": "H2CfO4",
-    "elements": ["H", "2", "C", "f", "O", "4"],
-    "state": "液",
-    "molecularWeight": 317.0
-  },
-  {
-    "name": "NO",
-    "elements": ["N", "O"],
-    "state": "气",
-    "molecularWeight": 30.0
-  },
-  {
-    "name": "NO2",
-    "elements": ["N", "O", "2"],
-    "state": "气",
-    "molecularWeight": 46.0
-  },
-  {
-    "name": "N2O",
-    "elements": ["N", "2", "O"],
-    "state": "气",
-    "molecularWeight": 44.0
-  },
-  {
-    "name": "SO2",
-    "elements": ["S", "O", "2"],
-    "state": "气",
-    "molecularWeight": 64.0
-  },
-  {
-    "name": "HF",
-    "elements": ["H", "F"],
-    "state": "气",
-    "molecularWeight": 20.0
-  },
-  {
-    "name": "HI",
-    "elements": ["H", "I"],
-    "state": "气",
-    "molecularWeight": 127.9
-  },
-  {
-    "name": "CO",
-    "elements": ["C", "O"],
-    "state": "气",
-    "molecularWeight": 28.0
-  },
-  {
-    "name": "H2Se",
-    "elements": ["H", "2", "S", "e"],
-    "state": "气",
-    "molecularWeight": 81.0
-  },
-  {
-    "name": "PH3",
-    "elements": ["P", "H", "3"],
-    "state": "气",
-    "molecularWeight": 34.0
-  },
-  {
-    "name": "AsH3",
-    "elements": ["A", "s", "H", "3"],
-    "state": "气",
-    "molecularWeight": 78.0
-  },
-  {
-    "name": "SiH4",
-    "elements": ["S", "i", "H", "4"],
-    "state": "气",
-    "molecularWeight": 32.1
-  },
-  {
-    "name": "GeH4",
-    "elements": ["G", "e", "H", "4"],
-    "state": "气",
-    "molecularWeight": 76.6
-  },
-  {
-    "name": "BCl3",
-    "elements": ["B", "C", "l", "3"],
-    "state": "气",
-    "molecularWeight": 117.2
-  },
-  {
-    "name": "SF6",
-    "elements": ["S", "F", "6"],
-    "state": "气",
-    "molecularWeight": 146.0
-  },
-  {
-    "name": "BF3",
-    "elements": ["B", "F", "3"],
-    "state": "气",
-    "molecularWeight": 67.8
-  },
-  {
-    "name": "PCl3",
-    "elements": ["P", "C", "l", "3"],
-    "state": "气",
-    "molecularWeight": 137.3
-  },
-  {
-    "name": "PF3",
-    "elements": ["P", "F", "3"],
-    "state": "气",
-    "molecularWeight": 88.0
-  },
-  {
-    "name": "NF3",
-    "elements": ["N", "F", "3"],
-    "state": "气",
-    "molecularWeight": 71.0
-  },
-  {
-    "name": "SiF4",
-    "elements": ["S", "i", "F", "4"],
-    "state": "气",
-    "molecularWeight": 104.1
-  },
-  {
-    "name": "COS",
-    "elements": ["C", "O", "S"],
-    "state": "气",
-    "molecularWeight": 60.1
-  },
-  {
-    "name": "CS2",
-    "elements": ["C", "S", "2"],
-    "state": "气",
-    "molecularWeight": 76.1
-  },
-  {
-    "name": "HCN",
-    "elements": ["H", "C", "N"],
-    "state": "气",
-    "molecularWeight": 27.0
-  },
-  {
-    "name": "ClF",
-    "elements": ["C", "l", "F"],
-    "state": "气",
-    "molecularWeight": 54.5
-  },
-  {
-    "name": "BrF",
-    "elements": ["B", "r", "F"],
-    "state": "气",
-    "molecularWeight": 99.0
-  },
-  {
-    "name": "IF",
-    "elements": ["I", "F"],
-    "state": "气",
-    "molecularWeight": 146.0
-  },
-  {
-    "name": "NCl3",
-    "elements": ["N", "C", "l", "3"],
-    "state": "气",
-    "molecularWeight": 120.4
-  },
-  {
-    "name": "SO3",
-    "elements": ["S", "O", "3"],
-    "state": "气",
-    "molecularWeight": 80.0
-  },
-  {
-    "name": "XeF2",
-    "elements": ["X", "e", "F", "2"],
-    "state": "气",
-    "molecularWeight": 169.3
-  },
-  {
-    "name": "XeF4",
-    "elements": ["X", "e", "F", "4"],
-    "state": "气",
-    "molecularWeight": 207.3
-  },
-  {
-    "name": "XeF6",
-    "elements": ["X", "e", "F", "6"],
-    "state": "气",
-    "molecularWeight": 245.3
-  },
-  {
-    "name": "KrF2",
-    "elements": ["K", "r", "F", "2"],
-    "state": "气",
-    "molecularWeight": 121.8
-  },
-  {
-    "name": "H2Te",
-    "elements": ["H", "2", "T", "e"],
-    "state": "气",
-    "molecularWeight": 129.6
-  },
-  {
-    "name": "SbH3",
-    "elements": ["S", "b", "H", "3"],
-    "state": "气",
-    "molecularWeight": 124.8
-  },
-  {
-    "name": "SnH4",
-    "elements": ["S", "n", "H", "4"],
-    "state": "气",
-    "molecularWeight": 122.7
-  },
-  {
-    "name": "AsF3",
-    "elements": ["A", "s", "F", "3"],
-    "state": "气",
-    "molecularWeight": 131.9
-  },
-  {
-    "name": "PBr3",
-    "elements": ["P", "B", "r", "3"],
-    "state": "气",
-    "molecularWeight": 270.7
-  },
-  {
-    "name": "SiCl4",
-    "elements": ["S", "i", "C", "l", "4"],
-    "state": "气",
-    "molecularWeight": 169.9
-  },
-  {
-    "name": "CF4",
-    "elements": ["C", "F", "4"],
-    "state": "气",
-    "molecularWeight": 88.0
-  },
-  {
-    "name": "CCl4",
-    "elements": ["C", "C", "l", "4"],
-    "state": "气",
-    "molecularWeight": 153.8
-  },
-  {
-    "name": "CI4",
-    "elements": ["C", "I", "4"],
-    "state": "气",
-    "molecularWeight": 519.6
-  },
-  {
-    "name": "SF4",
-    "elements": ["S", "F", "4"],
-    "state": "气",
-    "molecularWeight": 108.0
-  },
-  {
-    "name": "SeF4",
-    "elements": ["S", "e", "F", "4"],
-    "state": "气",
-    "molecularWeight": 154.9
-  },
-  {
-    "name": "TeF4",
-    "elements": ["T", "e", "F", "4"],
-    "state": "气",
-    "molecularWeight": 203.6
-  },
-  {
-    "name": "SCl2",
-    "elements": ["S", "C", "l", "2"],
-    "state": "气",
-    "molecularWeight": 103.0
-  },
-  {
-    "name": "SeCl2",
-    "elements": ["S", "e", "C", "l", "2"],
-    "state": "气",
-    "molecularWeight": 149.9
-  },
-  {
-    "name": "TeCl2",
-    "elements": ["T", "e", "C", "l", "2"],
-    "state": "气",
-    "molecularWeight": 198.5
-  },
-  {
-    "name": "ScBr3",
-    "elements": ["S", "c", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 284.7
-  },
-  {
-    "name": "Sc2S3",
-    "elements": ["S", "c", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 186.1
-  },
-  {
-    "name": "Sc(NO3)3",
-    "elements": ["S", "c", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 231.0
-  },
-  {
-    "name": "YBr3",
-    "elements": ["Y", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 328.7
-  },
-  {
-    "name": "Y2S3",
-    "elements": ["Y", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 274.0
-  },
-  {
-    "name": "Y(NO3)3",
-    "elements": ["Y", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 275.0
-  },
-  {
-    "name": "LaBr3",
-    "elements": ["L", "a", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 378.6
-  },
-  {
-    "name": "La2S3",
-    "elements": ["L", "a", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 374.0
-  },
-  {
-    "name": "La(NO3)3",
-    "elements": ["L", "a", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 325.0
-  },
-  {
-    "name": "CeBr3",
-    "elements": ["C", "e", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 379.8
-  },
-  {
-    "name": "Ce2S3",
-    "elements": ["C", "e", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 376.4
-  },
-  {
-    "name": "Ce(NO3)3",
-    "elements": ["C", "e", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 326.1
-  },
-  {
-    "name": "PrBr3",
-    "elements": ["P", "r", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 380.6
-  },
-  {
-    "name": "Pr2S3",
-    "elements": ["P", "r", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 378.0
-  },
-  {
-    "name": "Pr(NO3)3",
-    "elements": ["P", "r", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 327.0
-  },
-  {
-    "name": "NdBr3",
-    "elements": ["N", "d", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 384.0
-  },
-  {
-    "name": "Nd2S3",
-    "elements": ["N", "d", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 384.5
-  },
-  {
-    "name": "Nd(NO3)3",
-    "elements": ["N", "d", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecular tascaWeight": 330.2
-  },
-  {
-    "name": "PmBr3",
-    "elements": ["P", "m", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 385.0
-  },
-  {
-    "name": "Pm2O3",
-    "elements": ["P", "m", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 338.0
-  },
-  {
-    "name": "Pm(NO3)3",
-    "elements": ["P", "m", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 331.0
-  },
-  {
-    "name": "SmBr3",
-    "elements": ["S", "m", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 390.1
-  },
-  {
-    "name": "Sm2S3",
-    "elements": ["S", "m", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 396.8
-  },
-  {
-    "name": "Sm(NO3)3",
-    "elements": ["S", "m", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 336.4
-  },
-  {
-    "name": "EuBr3",
-    "elements": ["E", "u", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 391.7
-  },
-  {
-    "name": "Eu2S3",
-    "elements": ["E", "u", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 400.0
-  },
-  {
-    "name": "Eu(NO3)3",
-    "elements": ["E", "u", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 338.0
-  },
-  {
-    "name": "GdBr3",
-    "elements": ["G", "d", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 396.9
-  },
-  {
-    "name": "Gd2S3",
-    "elements": ["G", "d", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 410.5
-  },
-  {
-    "name": "Gd(NO3)3",
-    "elements": ["G", "d", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 343.2
-  },
-  {
-    "name": "TbBr3",
-    "elements": ["T", "b", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 398.7
-  },
-  {
-    "name": "Tb2S3",
-    "elements": ["T", "b", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 414.0
-  },
-  {
-    "name": "Tb(NO3)3",
-    "elements": ["T", "b", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 345.0
-  },
-  {
-    "name": "DyBr3",
-    "elements": ["D", "y", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 402.2
-  },
-  {
-    "name": "Dy2S3",
-    "elements": ["D", "y", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 421.0
-  },
-  {
-    "name": "Dy(NO3)3",
-    "elements": ["D", "y", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 348.5
-  },
-  {
-    "name": "HoBr3",
-    "elements": ["H", "o", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 404.7
-  },
-  {
-    "name": "Ho2S3",
-    "elements": ["H", "o", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 426.0
-  },
-  {
-    "name": "Ho(NO3)3",
-    "elements": ["H", "o", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 351.0
-  },
-  {
-    "name": "ErBr3",
-    "elements": ["E", "r", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 407.0
-  },
-  {
-    "name": "Er2S3",
-    "elements": ["E", "r", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 430.5
-  },
-  {
-    "name": "Er(NO3)3",
-    "elements": ["E", "r", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 353.3
-  },
-  {
-    "name": "TmBr3",
-    "elements": ["T", "m", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 408.7
-  },
-  {
-    "name": "Tm2S3",
-    "elements": ["T", "m", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 434.0
-  },
-  {
-    "name": "Tm(NO3)3",
-    "elements": ["T", "m", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 355.0
-  },
-  {
-    "name": "YbBr3",
-    "elements": ["Y", "b", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 412.8
-  },
-  {
-    "name": "Yb2S3",
-    "elements": ["Y", "b", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 442.1
-  },
-  {
-    "name": "Yb(NO3)3",
-    "elements": ["Y", "b", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 359.1
-  },
-  {
-    "name": "LuBr3",
-    "elements": ["L", "u", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 414.7
-  },
-  {
-    "name": "Lu2S3",
-    "elements": ["L", "u", "2", "S", "3"],
-    "state": "固",
-    "molecularWeight": 446.0
-  },
-  {
-    "name": "Lu(NO3)3",
-    "elements": ["L", "u", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 361.0
-  },
-  {
-    "name": "ScI3",
-    "elements": ["S", "c", "I", "3"],
-    "state": "固",
-    "molecularWeight": 425.7
-  },
-  {
-    "name": "Sc2(CO3)3",
-    "elements": ["S", "c", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 270.0
-  },
-  {
-    "name": "YI3",
-    "elements": ["Y", "I", "3"],
-    "state": "固",
-    "molecularWeight": 469.7
-  },
-  {
-    "name": "Y2(CO3)3",
-    "elements": ["Y", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 357.8
-  },
-  {
-    "name": "LaI3",
-    "elements": ["L", "a", "I", "3"],
-    "state": "固",
-    "molecularWeight": 519.6
-  },
-  {
-    "name": "La2(CO3)3",
-    "elements": ["L", "a", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 457.8
-  },
-  {
-    "name": "CeI3",
-    "elements": ["C", "e", "I", "3"],
-    "state": "固",
-    "molecularWeight": 520.8
-  },
-  {
-    "name": "Ce2(CO3)3",
-    "elements": ["C", "e", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 460.2
-  },
-  {
-    "name": "PrI3",
-    "elements": ["P", "r", "I", "3"],
-    "state": "固",
-    "molecularWeight": 521.6
-  },
-  {
-    "name": "Pr2(CO3)3",
-    "elements": ["P", "r", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 461.8
-  },
-  {
-    "name": "NdI3",
-    "elements": ["N", "d", "I", "3"],
-    "state": "固",
-    "molecularWeight": 525.0
-  },
-  {
-    "name": "Nd2(CO3)3",
-    "elements": ["N", "d", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 468.5
-  },
-  {
-    "name": "PmI3",
-    "elements": ["P", "m", "I", "3"],
-    "state": "固",
-    "molecularWeight": 526.0
-  },
-  {
-    "name": "Pm2(CO3)3",
-    "elements": ["P", "m", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 470.0
-  },
-  {
-    "name": "SmI3",
-    "elements": ["S", "m", "I", "3"],
-    "state": "固",
-    "molecularWeight": 531.1
-  },
-  {
-    "name": "Sm2(CO3)3",
-    "elements": ["S", "m", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 480.7
-  },
-  {
-    "name": "EuI3",
-    "elements": ["E", "u", "I", "3"],
-    "state": "固",
-    "molecularWeight": 532.7
-  },
-  {
-    "name": "Eu2(CO3)3",
-    "elements": ["E", "u", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 484.0
-  },
-  {
-    "name": "GdI3",
-    "elements": ["G", "d", "I", "3"],
-    "state": "固",
-    "molecularWeight": 537.9
-  },
-  {
-    "name": "Gd2(CO3)3",
-    "elements": ["G", "d", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 494.5
-  },
-  {
-    "name": "TbI3",
-    "elements": ["T", "b", "I", "3"],
-    "state": "固",
-    "molecularWeight": 539.7
-  },
-  {
-    "name": "Tb2(CO3)3",
-    "elements": ["T", "b", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 498.0
-  },
-  {
-    "name": "DyI3",
-    "elements": ["D", "y", "I", "3"],
-    "state": "固",
-    "molecularWeight": 543.2
-  },
-  {
-    "name": "Dy2(CO3)3",
-    "elements": ["D", "y", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 505.0
-  },
-  {
-    "name": "HoI3",
-    "elements": ["H", "o", "I", "3"],
-    "state": "固",
-    "molecularWeight": 545.7
-  },
-  {
-    "name": "Ho2(CO3)3",
-    "elements": ["H", "o", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 510.0
-  },
-  {
-    "name": "ErI3",
-    "elements": ["E", "r", "I", "3"],
-    "state": "固",
-    "molecularWeight": 548.0
-  },
-  {
-    "name": "Er2(CO3)3",
-    "elements": ["E", "r", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 514.5
-  },
-  {
-    "name": "TmI3",
-    "elements": ["T", "m", "I", "3"],
-    "state": "固",
-    "molecularWeight": 549.7
-  },
-  {
-    "name": "Tm2(CO3)3",
-    "elements": ["T", "m", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 518.0
-  },
-  {
-    "name": "YbI3",
-    "elements": ["Y", "b", "I", "3"],
-    "state": "固",
-    "molecularWeight": 553.8
-  },
-  {
-    "name": "Yb2(CO3)3",
-    "elements": ["Y", "b", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 526.1
-  },
-  {
-    "name": "LuI3",
-    "elements": ["L", "u", "I", "3"],
-    "state": "固",
-    "molecularWeight": 555.7
-  },
-  {
-    "name": "Lu2(CO3)3",
-    "elements": ["L", "u", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 530.0
-  },
-  {
-    "name": "ScPO4",
-    "elements": ["S", "c", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 140.0
-  },
-  {
-    "name": "YPO4",
-    "elements": ["Y", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 183.9
-  },
-  {
-    "name": "LaPO4",
-    "elements": ["L", "a", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 233.9
-  },
-  {
-    "name": "CePO4",
-    "elements": ["C", "e", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 235.1
-  },
-  {
-    "name": "PrPO4",
-    "elements": ["P", "r", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 235.9
-  },
-  {
-    "name": "NdPO4",
-    "elements": ["N", "d", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 239.2
-  },
-  {
-    "name": "PmPO4",
-    "elements": ["P", "m", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 240.0
-  },
-  {
-    "name": "SmPO4",
-    "elements": ["S", "m", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 245.3
-  },
-  {
-    "name": "EuPO4",
-    "elements": ["E", "u", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 247.0
-  },
-  {
-    "name": "GdPO4",
-    "elements": ["G", "d", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 252.2
-  },
-  {
-    "name": "Th(NO3)4",
-    "elements": ["T", "h", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 294.0
+    "molecularWeight": 43.0
   },
   {
     "name": "LiCl",
     "elements": ["L", "i", "C", "l"],
     "state": "固",
-    "molecularWeight": 42.5
-  },
-  {
-    "name": "BeCl2",
-    "elements": ["B", "e", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 80.0
-  },
-  {
-    "name": "BCl",
-    "elements": ["B", "C", "l"],
-    "state": "气",
-    "molecularWeight": 46.5
-  },
-  {
-    "name": "NCl",
-    "elements": ["N", "C", "l"],
-    "state": "气",
-    "molecularWeight": 49.5
-  },
-  {
-    "name": "OCl2",
-    "elements": ["O", "C", "l", "2"],
-    "state": "气",
-    "molecularWeight": 87.0
-  },
-  {
-    "name": "FCl",
-    "elements": ["F", "C", "l"],
-    "state": "气",
-    "molecularWeight": 54.5
-  },
-  {
-    "name": "KClO3",
-    "elements": ["K", "C", "l", "O", "3"],
-    "state": "固",
-    "molecularWeight": 122.5
-  },
-  {
-    "name": "KClO4",
-    "elements": ["K", "C", "l", "O", "4"],
-    "state": "固",
-    "molecularWeight": 138.5
-  },
-  {
-    "name": "RbCl",
-    "elements": ["R", "b", "C", "l"],
-    "state": "固",
-    "molecularWeight": 120.9
-  },
-  {
-    "name": "CsCl",
-    "elements": ["C", "s", "C", "l"],
-    "state": "固",
-    "molecularWeight": 168.4
-  },
-  {
-    "name": "SrCl2",
-    "elements": ["S", "r", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 158.5
-  },
-  {
-    "name": "TiCl4",
-    "elements": ["T", "i", "C", "l", "4"],
-    "state": "液",
-    "molecularWeight": 189.7
-  },
-  {
-    "name": "TiCl3",
-    "elements": ["T", "i", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 154.2
-  },
-  {
-    "name": "VCl4",
-    "elements": ["V", "C", "l", "4"],
-    "state": "液",
-    "molecularWeight": 192.7
-  },
-  {
-    "name": "VCl3",
-    "elements": ["V", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 157.2
-  },
-  {
-    "name": "CrCl3",
-    "elements": ["C", "r", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 158.4
-  },
-  {
-    "name": "CrCl2",
-    "elements": ["C", "r", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 122.9
-  },
-  {
-    "name": "MnCl2",
-    "elements": ["M", "n", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 125.9
-  },
-  {
-    "name": "MnCl3",
-    "elements": ["M", "n", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 161.4
-  },
-  {
-    "name": "FeCl",
-    "elements": ["F", "e", "C", "l"],
-    "state": "固",
-    "molecularWeight": 91.4
-  },
-  {
-    "name": "CoCl2",
-    "elements": ["C", "o", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 129.8
-  },
-  {
-    "name": "NiCl2",
-    "elements": ["N", "i", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 129.6
-  },
-  {
-    "name": "CuCl",
-    "elements": ["C", "u", "C", "l"],
-    "state": "固",
-    "molecularWeight": 99.0
-  },
-  {
-    "name": "GaCl3",
-    "elements": ["G", "a", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 176.1
-  },
-  {
-    "name": "GeCl2",
-    "elements": ["G", "e", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 143.5
-  },
-  {
-    "name": "AsCl3",
-    "elements": ["A", "s", "C", "l", "3"],
-    "state": "液",
-    "molecularWeight": 181.3
-  },
-  {
-    "name": "SeCl4",
-    "elements": ["S", "e", "C", "l", "4"],
-    "state": "固",
-    "molecularWeight": 220.8
-  },
-  {
-    "name": "BrCl",
-    "elements": ["B", "r", "C", "l"],
-    "state": "气",
-    "molecularWeight": 115.4
-  },
-  {
-    "name": "KrCl2",
-    "elements": ["K", "r", "C", "l", "2"],
-    "state": "气",
-    "molecularWeight": 154.7
-  },
-  {
-    "name": "AgCl",
-    "elements": ["A", "g", "C", "l"],
-    "state": "固",
-    "molecularWeight": 143.3
-  },
-  {
-    "name": "CdCl2",
-    "elements": ["C", "d", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 183.3
-  },
-  {
-    "name": "InCl",
-    "elements": ["I", "n", "C", "l"],
-    "state": "固",
-    "molecularWeight": 150.3
-  },
-  {
-    "name": "SnCl2",
-    "elements": ["S", "n", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 189.6
-  },
-  {
-    "name": "SnCl4",
-    "elements": ["S", "n", "C", "l", "4"],
-    "state": "液",
-    "molecularWeight": 260.5
-  },
-  {
-    "name": "SbCl3",
-    "elements": ["S", "b", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 228.1
-  },
-  {
-    "name": "SbCl5",
-    "elements": ["S", "b", "C", "l", "5"],
-    "state": "液",
-    "molecularWeight": 299.0
-  },
-  {
-    "name": "TeCl",
-    "elements": ["T", "e", "C", "l"],
-    "state": "固",
-    "molecularWeight": 163.1
-  },
-  {
-    "name": "ICl",
-    "elements": ["I", "C", "l"],
-    "state": "液",
-    "molecularWeight": 162.4
-  },
-  {
-    "name": "ICl3",
-    "elements": ["I", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 233.3
-  },
-  {
-    "name": "XeCl2",
-    "elements": ["X", "e", "C", "l", "2"],
-    "state": "气",
-    "molecularWeight": 202.2
-  },
-  {
-    "name": "HgCl2",
-    "elements": ["H", "g", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 271.5
-  },
-  {
-    "name": "TlCl",
-    "elements": ["T", "l", "C", "l"],
-    "state": "固",
-    "molecularWeight": 239.8
-  },
-  {
-    "name": "TlCl3",
-    "elements": ["T", "l", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 310.7
-  },
-  {
-    "name": "PbCl2",
-    "elements": ["P", "b", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 278.1
-  },
-  {
-    "name": "PbCl4",
-    "elements": ["P", "b", "C", "l", "4"],
-    "state": "液",
-    "molecularWeight": 349.0
-  },
-  {
-    "name": "BiCl3",
-    "elements": ["B", "i", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 315.3
-  },
-  {
-    "name": "PoCl4",
-    "elements": ["P", "o", "C", "l", "4"],
-    "state": "固",
-    "molecularWeight": 351.0
-  },
-  {
-    "name": "AtCl",
-    "elements": ["A", "t", "C", "l"],
-    "state": "固",
-    "molecularWeight": 245.5
-  },
-  {
-    "name": "ScCl3",
-    "elements": ["S", "c", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 151.3
-  },
-  {
-    "name": "LaCl3",
-    "elements": ["L", "a", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 245.3
-  },
-  {
-    "name": "CeCl3",
-    "elements": ["C", "e", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 246.5
-  },
-  {
-    "name": "PrCl3",
-    "elements": ["P", "r", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 247.3
-  },
-  {
-    "name": "NdCl3",
-    "elements": ["N", "d", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 250.6
-  },
-  {
-    "name": "PmCl3",
-    "elements": ["P", "m", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 251.0
-  },
-  {
-    "name": "SmCl3",
-    "elements": ["S", "m", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 256.8
-  },
-  {
-    "name": "EuCl3",
-    "elements": ["E", "u", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 258.3
-  },
-  {
-    "name": "GdCl3",
-    "elements": ["G", "d", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 263.6
-  },
-  {
-    "name": "TbCl3",
-    "elements": ["T", "b", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 265.3
-  },
-  {
-    "name": "DyCl3",
-    "elements": ["D", "y", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 268.9
-  },
-  {
-    "name": "HoCl3",
-    "elements": ["H", "o", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 271.3
-  },
-  {
-    "name": "ErCl3",
-    "elements": ["E", "r", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 273.6
-  },
-  {
-    "name": "TmCl3",
-    "elements": ["T", "m", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 275.3
-  },
-  {
-    "name": "YbCl3",
-    "elements": ["Y", "b", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 279.4
-  },
-  {
-    "name": "LuCl3",
-    "elements": ["L", "u", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 281.3
-  },
-  {
-    "name": "AcCl3",
-    "elements": ["A", "c", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 333.5
-  },
-  {
-    "name": "UCl3",
-    "elements": ["U", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 344.5
-  },
-  {
-    "name": "UCl4",
-    "elements": ["U", "C", "l", "4"],
-    "state": "固",
-    "molecularWeight": 380.0
-  },
-  {
-    "name": "PuCl3",
-    "elements": ["P", "u", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 345.0
-  },
-  {
-    "name": "AmCl3",
-    "elements": ["A", "m", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 346.0
-  },
-  {
-    "name": "CmCl3",
-    "elements": ["C", "m", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 350.0
-  },
-  {
-    "name": "BkCl3",
-    "elements": ["B", "k", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 354.0
-  },
-  {
-    "name": "CfCl3",
-    "elements": ["C", "f", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 357.0
-  },
-  {
-    "name": "EsCl3",
-    "elements": ["E", "s", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 361.0
-  },
-  {
-    "name": "FmCl3",
-    "elements": ["F", "m", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 364.0
-  },
-  {
-    "name": "MdCl3",
-    "elements": ["M", "d", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 367.0
-  },
-  {
-    "name": "NoCl3",
-    "elements": ["N", "o", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 368.0
-  },
-  {
-    "name": "LrCl3",
-    "elements": ["L", "r", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 371.0
-  },
-  {
-    "name": "FrCl",
-    "elements": ["F", "r", "C", "l"],
-    "state": "固",
-    "molecularWeight": 258.5
-  },
-  {
-    "name": "RaCl2",
-    "elements": ["R", "a", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 297.0
-  },
-  {
-    "name": "AuCl",
-    "elements": ["A", "u", "C", "l"],
-    "state": "固",
-    "molecularWeight": 232.5
-  },
-  {
-    "name": "AuCl3",
-    "elements": ["A", "u", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 303.3
-  },
-  {
-    "name": "PtCl2",
-    "elements": ["P", "t", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 266.0
-  },
-  {
-    "name": "ReCl3",
-    "elements": ["R", "e", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 292.6
-  },
-  {
-    "name": "ReCl5",
-    "elements": ["R", "e", "C", "l", "5"],
-    "state": "固",
-    "molecularWeight": 363.5
-  },
-  {
-    "name": "OsCl3",
-    "elements": ["O", "s", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 296.6
-  },
-  {
-    "name": "IrCl2",
-    "elements": ["I", "r", "C", "l", "2"],
-    "state": "固",
-    "molecularWeight": 263.1
-  },
-  {
-    "name": "RhCl",
-    "elements": ["R", "h", "C", "l"],
-    "state": "固",
-    "molecularWeight": 138.4
-  },
-  {
-    "name": "PdCl",
-    "elements": ["P", "d", "C", "l"],
-    "state": "固",
-    "molecularWeight": 141.9
-  },
-  {
-    "name": "NbCl3",
-    "elements": ["N", "b", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 199.3
-  },
-  {
-    "name": "TaCl3",
-    "elements": ["T", "a", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 287.3
-  },
-  {
-    "name": "WCl4",
-    "elements": ["W", "C", "l", "4"],
-    "state": "固",
-    "molecularWeight": 325.7
-  },
-  {
-    "name": "MoCl3",
-    "elements": ["M", "o", "C", "l", "3"],
-    "state": "固",
-    "molecularWeight": 202.3
-  },
-  {
-    "name": "MoCl4",
-    "elements": ["M", "o", "C", "l", "4"],
-    "state": "固",
-    "molecularWeight": 237.8
-  },
-  {
-    "name": "CrO2Cl2",
-    "elements": ["C", "r", "O", "2", "C", "l", "2"],
-    "state": "液",
-    "molecularWeight": 154.9
-  },
-  {
-    "name": "VOCl3",
-    "elements": ["V", "O", "C", "l", "3"],
-    "state": "液",
-    "molecularWeight": 173.3
-  },
-  {
-    "name": "PCl5",
-    "elements": ["P", "C", "l", "5"],
-    "state": "固",
-    "molecularWeight": 208.2
+    "molecularWeight": 42.4
   },
   {
     "name": "LiBr",
     "elements": ["L", "i", "B", "r"],
     "state": "固",
-    "molecularWeight": 87.0
-  },
-  {
-    "name": "BeBr2",
-    "elements": ["B", "e", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 169.0
-  },
-  {
-    "name": "BBr3",
-    "elements": ["B", "B", "r", "3"],
-    "state": "液",
-    "molecularWeight": 250.5
-  },
-  {
-    "name": "NBr3",
-    "elements": ["N", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 253.7
-  },
-  {
-    "name": "OBr2",
-    "elements": ["O", "B", "r", "2"],
-    "state": "气",
-    "molecularWeight": 175.8
-  },
-  {
-    "name": "FBr",
-    "elements": ["F", "B", "r"],
-    "state": "气",
-    "molecularWeight": 99.0
-  },
-  {
-    "name": "NaBrO3",
-    "elements": ["N", "a", "B", "r", "O", "3"],
-    "state": "固",
-    "molecularWeight": 151.0
-  },
-  {
-    "name": "RbBr",
-    "elements": ["R", "b", "B", "r"],
-    "state": "固",
-    "molecularWeight": 165.4
-  },
-  {
-    "name": "CsBr",
-    "elements": ["C", "s", "B", "r"],
-    "state": "固",
-    "molecularWeight": 212.9
-  },
-  {
-    "name": "SrBr2",
-    "elements": ["S", "r", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 247.4
-  },
-  {
-    "name": "BaBr2",
-    "elements": ["B", "a", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 297.1
-  },
-  {
-    "name": "TiBr4",
-    "elements": ["T", "i", "B", "r", "4"],
-    "state": "固",
-    "molecularWeight": 367.6
-  },
-  {
-    "name": "TiBr3",
-    "elements": ["T", "i", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 287.7
-  },
-  {
-    "name": "VBr4",
-    "elements": ["V", "B", "r", "4"],
-    "state": "液",
-    "molecularWeight": 370.6
-  },
-  {
-    "name": "VBr3",
-    "elements": ["V", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 290.7
-  },
-  {
-    "name": "CrBr3",
-    "elements": ["C", "r", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 291.7
-  },
-  {
-    "name": "CrBr2",
-    "elements": ["C", "r", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 211.8
-  },
-  {
-    "name": "MnBr2",
-    "elements": ["M", "n", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 214.8
-  },
-  {
-    "name": "MnBr3",
-    "elements": ["M", "n", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 294.7
-  },
-  {
-    "name": "FeBr2",
-    "elements": ["F", "e", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 215.7
-  },
-  {
-    "name": "FeBr3",
-    "elements": ["F", "e", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 295.6
-  },
-  {
-    "name": "CoBr2",
-    "elements": ["C", "o", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 218.7
-  },
-  {
-    "name": "NiBr2",
-    "elements": ["N", "i", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 218.5
-  },
-  {
-    "name": "CuBr",
-    "elements": ["C", "u", "B", "r"],
-    "state": "固",
-    "molecularWeight": 143.5
-  },
-  {
-    "name": "CuBr2",
-    "elements": ["C", "u", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 223.4
-  },
-  {
-    "name": "GaBr3",
-    "elements": ["G", "a", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 309.4
-  },
-  {
-    "name": "GeBr4",
-    "elements": ["G", "e", "B", "r", "4"],
-    "state": "固",
-    "molecularWeight": 392.2
-  },
-  {
-    "name": "AsBr3",
-    "elements": ["A", "s", "B", "r", "3"],
-    "state": "液",
-    "molecularWeight": 314.6
-  },
-  {
-    "name": "SeBr4",
-    "elements": ["S", "e", "B", "r", "4"],
-    "state": "固",
-    "molecularWeight": 398.6
-  },
-  {
-    "name": "IBr",
-    "elements": ["I", "B", "r"],
-    "state": "固",
-    "molecularWeight": 206.8
-  },
-  {
-    "name": "AgBr",
-    "elements": ["A", "g", "B", "r"],
-    "state": "固",
-    "molecularWeight": 187.8
-  },
-  {
-    "name": "CdBr2",
-    "elements": ["C", "d", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 272.2
-  },
-  {
-    "name": "InBr3",
-    "elements": ["I", "n", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 354.5
-  },
-  {
-    "name": "SnBr2",
-    "elements": ["S", "n", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 278.5
-  },
-  {
-    "name": "SnBr4",
-    "elements": ["S", "n", "B", "r", "4"],
-    "state": "固",
-    "molecularWeight": 438.3
-  },
-  {
-    "name": "SbBr3",
-    "elements": ["S", "b", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 361.5
-  },
-  {
-    "name": "TeBr4",
-    "elements": ["T", "e", "B", "r", "4"],
-    "state": "固",
-    "molecularWeight": 447.2
-  },
-  {
-    "name": "HgBr2",
-    "elements": ["H", "g", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 360.4
-  },
-  {
-    "name": "TlBr",
-    "elements": ["T", "l", "B", "r"],
-    "state": "固",
-    "molecularWeight": 284.4
-  },
-  {
-    "name": "TlBr3",
-    "elements": ["T", "l", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 444.2
-  },
-  {
-    "name": "PbBr2",
-    "elements": ["P", "b", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 367.0
-  },
-  {
-    "name": "PbBr4",
-    "elements": ["P", "b", "B", "r", "4"],
-    "state": "固",
-    "molecularWeight": 526.8
-  },
-  {
-    "name": "BiBr3",
-    "elements": ["B", "i", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 448.7
-  },
-  {
-    "name": "PoBr4",
-    "elements": ["P", "o", "B", "r", "4"],
-    "state": "固",
-    "molecularWeight": 529.0
-  },
-  {
-    "name": "AtBr",
-    "elements": ["A", "t", "B", "r"],
-    "state": "固",
-    "molecularWeight": 290.0
-  },
-  {
-    "name": "FrBr",
-    "elements": ["F", "r", "B", "r"],
-    "state": "固",
-    "molecularWeight": 303.0
-  },
-  {
-    "name": "RaBr2",
-    "elements": ["R", "a", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 385.9
-  },
-  {
-    "name": "AcBr3",
-    "elements": ["A", "c", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 467.0
-  },
-  {
-    "name": "ThBr4",
-    "elements": ["T", "h", "B", "r", "4"],
-    "state": "固",
-    "molecularWeight": 551.8
-  },
-  {
-    "name": "PaBr5",
-    "elements": ["P", "a", "B", "r", "5"],
-    "state": "固",
-    "molecularWeight": 631.0
-  },
-  {
-    "name": "UBr3",
-    "elements": ["U", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 478.0
-  },
-  {
-    "name": "UBr4",
-    "elements": ["U", "B", "r", "4"],
-    "state": "固",
-    "molecularWeight": 557.9
-  },
-  {
-    "name": "NpBr3",
-    "elements": ["N", "p", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 477.0
-  },
-  {
-    "name": "PuBr3",
-    "elements": ["P", "u", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 478.0
-  },
-  {
-    "name": "AmBr3",
-    "elements": ["A", "m", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 479.0
-  },
-  {
-    "name": "CmBr3",
-    "elements": ["C", "m", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 483.0
-  },
-  {
-    "name": "BkBr3",
-    "elements": ["B", "k", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 487.0
-  },
-  {
-    "name": "CfBr3",
-    "elements": ["C", "f", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 490.0
-  },
-  {
-    "name": "EsBr3",
-    "elements": ["E", "s", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 494.0
-  },
-  {
-    "name": "FmBr3",
-    "elements": ["F", "m", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 497.0
-  },
-  {
-    "name": "MdBr3",
-    "elements": ["M", "d", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 500.0
-  },
-  {
-    "name": "NoBr3",
-    "elements": ["N", "o", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 501.0
-  },
-  {
-    "name": "LrBr3",
-    "elements": ["L", "r", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 504.0
-  },
-  {
-    "name": "AuBr",
-    "elements": ["A", "u", "B", "r"],
-    "state": "固",
-    "molecularWeight": 277.0
-  },
-  {
-    "name": "AuBr3",
-    "elements": ["A", "u", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 436.7
-  },
-  {
-    "name": "PtBr2",
-    "elements": ["P", "t", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 354.9
-  },
-  {
-    "name": "PtBr4",
-    "elements": ["P", "t", "B", "r", "4"],
-    "state": "固",
-    "molecularWeight": 514.7
-  },
-  {
-    "name": "PdBr2",
-    "elements": ["P", "d", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 266.2
-  },
-  {
-    "name": "RhBr3",
-    "elements": ["R", "h", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 342.6
-  },
-  {
-    "name": "RuBr3",
-    "elements": ["R", "u", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 340.7
-  },
-  {
-    "name": "OsBr4",
-    "elements": ["O", "s", "B", "r", "4"],
-    "state": "固",
-    "molecularWeight": 510.0
-  },
-  {
-    "name": "IrBr3",
-    "elements": ["I", "r", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 431.9
-  },
-  {
-    "name": "ReBr3",
-    "elements": ["R", "e", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 425.9
-  },
-  {
-    "name": "ReBr5",
-    "elements": ["R", "e", "B", "r", "5"],
-    "state": "固",
-    "molecularWeight": 585.7
-  },
-  {
-    "name": "NbBr5",
-    "elements": ["N", "b", "B", "r", "5"],
-    "state": "固",
-    "molecularWeight": 492.5
-  },
-  {
-    "name": "TaBr5",
-    "elements": ["T", "a", "B", "r", "5"],
-    "state": "固",
-    "molecularWeight": 580.5
-  },
-  {
-    "name": "MoBr3",
-    "elements": ["M", "o", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 335.7
-  },
-  {
-    "name": "MoBr4",
-    "elements": ["M", "o", "B", "r", "4"],
-    "state": "固",
-    "molecularWeight": 415.6
-  },
-  {
-    "name": "WBr5",
-    "elements": ["W", "B", "r", "5"],
-    "state": "固",
-    "molecularWeight": 583.4
-  },
-  {
-    "name": "WBr6",
-    "elements": ["W", "B", "r", "6"],
-    "state": "固",
-    "molecularWeight": 663.3
-  },
-  {
-    "name": "XeBr2",
-    "elements": ["X", "e", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 291.1
-  },
-  {
-    "name": "KrBr2",
-    "elements": ["K", "r", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 243.6
-  },
-  {
-    "name": "InBr",
-    "elements": ["I", "n", "B", "r"],
-    "state": "固",
-    "molecularWeight": 194.7
-  },
-  {
-    "name": "GeBr2",
-    "elements": ["G", "e", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 232.4
-  },
-  {
-    "name": "SbBr5",
-    "elements": ["S", "b", "B", "r", "5"],
-    "state": "固",
-    "molecularWeight": 521.3
-  },
-  {
-    "name": "TeBr2",
-    "elements": ["T", "e", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 287.4
-  },
-  {
-    "name": "HgBr",
-    "elements": ["H", "g", "B", "r"],
-    "state": "固",
-    "molecularWeight": 280.5
-  },
-  {
-    "name": "BiBr",
-    "elements": ["B", "i", "B", "r"],
-    "state": "固",
-    "molecularWeight": 288.9
-  },
-  {
-    "name": "PoBr2",
-    "elements": ["P", "o", "B", "r", "2"],
-    "state": "固",
-    "molecularWeight": 369.0
-  },
-  {
-    "name": "VOBr3",
-    "elements": ["V", "O", "B", "r", "3"],
-    "state": "液",
-    "molecularWeight": 306.7
-  },
-  {
-    "name": "CrO2Br2",
-    "elements": ["C", "r", "O", "2", "B", "r", "2"],
-    "state": "液",
-    "molecularWeight": 243.8
-  },
-  {
-    "name": "NbBr3",
-    "elements": ["N", "b", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 332.7
-  },
-  {
-    "name": "TaBr3",
-    "elements": ["T", "a", "B", "r", "3"],
-    "state": "固",
-    "molecularWeight": 420.7
+    "molecularWeight": 86.9
   },
   {
     "name": "Li2SO4",
@@ -4002,1468 +78,10 @@
     "molecularWeight": 110.0
   },
   {
-    "name": "BeSO4",
-    "elements": ["B", "e", "S", "O", "4"],
+    "name": "Li3PO4",
+    "elements": ["L", "i", "3", "P", "O", "4"],
     "state": "固",
-    "molecularWeight": 105.0
-  },
-  {
-    "name": "NaHSO4",
-    "elements": ["N", "a", "H", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 120.0
-  },
-  {
-    "name": "KHSO4",
-    "elements": ["K", "H", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 136.2
-  },
-  {
-    "name": "Rb2SO4",
-    "elements": ["R", "b", "2", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 267.0
-  },
-  {
-    "name": "Cs2SO4",
-    "elements": ["C", "s", "2", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 362.0
-  },
-  {
-    "name": "SrSO4",
-    "elements": ["S", "r", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 183.7
-  },
-  {
-    "name": "TiSO4",
-    "elements": ["T", "i", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 144.0
-  },
-  {
-    "name": "Ti2(SO4)3",
-    "elements": ["T", "i", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 384.0
-  },
-  {
-    "name": "VSO4",
-    "elements": ["V", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 147.0
-  },
-  {
-    "name": "V2(SO4)3",
-    "elements": ["V", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 390.0
-  },
-  {
-    "name": "CrSO4",
-    "elements": ["C", "r", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 148.1
-  },
-  {
-    "name": "Cr2(SO4)3",
-    "elements": ["C", "r", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 392.2
-  },
-  {
-    "name": "MnSO4",
-    "elements": ["M", "n", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 151.0
-  },
-  {
-    "name": "Mn2(SO4)3",
-    "elements": ["M", "n", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 398.0
-  },
-  {
-    "name": "Fe2(SO4)3",
-    "elements": ["F", "e", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 400.0
-  },
-  {
-    "name": "CoSO4",
-    "elements": ["C", "o", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 155.0
-  },
-  {
-    "name": "NiSO4",
-    "elements": ["N", "i", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 154.8
-  },
-  {
-    "name": "Cu2SO4",
-    "elements": ["C", "u", "2", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 223.1
-  },
-  {
-    "name": "Ga2(SO4)3",
-    "elements": ["G", "a", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 427.7
-  },
-  {
-    "name": "In2(SO4)3",
-    "elements": ["I", "n", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 517.8
-  },
-  {
-    "name": "SnSO4",
-    "elements": ["S", "n", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 214.8
-  },
-  {
-    "name": "Sn2(SO4)3",
-    "elements": ["S", "n", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 525.5
-  },
-  {
-    "name": "Sb2(SO4)3",
-    "elements": ["S", "b", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 531.7
-  },
-  {
-    "name": "Ag2SO4",
-    "elements": ["A", "g", "2", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 311.8
-  },
-  {
-    "name": "CdSO4",
-    "elements": ["C", "d", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 208.5
-  },
-  {
-    "name": "Hg2SO4",
-    "elements": ["H", "g", "2", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 497.2
-  },
-  {
-    "name": "HgSO4",
-    "elements": ["H", "g", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 296.7
-  },
-  {
-    "name": "Tl2(SO4)3",
-    "elements": ["T", "l", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 696.9
-  },
-  {
-    "name": "PbSO4",
-    "elements": ["P", "b", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 303.3
-  },
-  {
-    "name": "Bi2(SO4)3",
-    "elements": ["B", "i", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 706.0
-  },
-  {
-    "name": "Sc2(SO4)3",
-    "elements": ["S", "c", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 378.0
-  },
-  {
-    "name": "Y2(SO4)3",
-    "elements": ["Y", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 466.0
-  },
-  {
-    "name": "La2(SO4)3",
-    "elements": ["L", "a", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 566.0
-  },
-  {
-    "name": "Ce2(SO4)3",
-    "elements": ["C", "e", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 568.2
-  },
-  {
-    "name": "Pr2(SO4)3",
-    "elements": ["P", "r", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 570.0
-  },
-  {
-    "name": "Nd2(SO4)3",
-    "elements": ["N", "d", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 576.5
-  },
-  {
-    "name": "Pm2(SO4)3",
-    "elements": ["P", "m", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 578.0
-  },
-  {
-    "name": "Sm2(SO4)3",
-    "elements": ["S", "m", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 588.7
-  },
-  {
-    "name": "Eu2(SO4)3",
-    "elements": ["E", "u", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 592.0
-  },
-  {
-    "name": "Gd2(SO4)3",
-    "elements": ["G", "d", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 602.5
-  },
-  {
-    "name": "Tb2(SO4)3",
-    "elements": ["T", "b", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 606.0
-  },
-  {
-    "name": "Dy2(SO4)3",
-    "elements": ["D", "y", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 613.0
-  },
-  {
-    "name": "Ho2(SO4)3",
-    "elements": ["H", "o", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 618.0
-  },
-  {
-    "name": "Er2(SO4)3",
-    "elements": ["E", "r", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 622.5
-  },
-  {
-    "name": "Tm2(SO4)3",
-    "elements": ["T", "m", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 626.0
-  },
-  {
-    "name": "Yb2(SO4)3",
-    "elements": ["Y", "b", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 634.1
-  },
-  {
-    "name": "Lu2(SO4)3",
-    "elements": ["L", "u", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 638.0
-  },
-  {
-    "name": "Ac2(SO4)3",
-    "elements": ["A", "c", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 742.0
-  },
-  {
-    "name": "Th(SO4)2",
-    "elements": ["T", "h", "(", "S", "O", "4", ")", "2"],
-    "state": "固",
-    "molecularWeight": 424.1
-  },
-  {
-    "name": "Pa2(SO4)3",
-    "elements": ["P", "a", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 750.0
-  },
-  {
-    "name": "U(SO4)2",
-    "elements": ["U", "(", "S", "O", "4", ")", "2"],
-    "state": "固",
-    "molecularWeight": 430.1
-  },
-  {
-    "name": "Np2(SO4)3",
-    "elements": ["N", "p", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 762.0
-  },
-  {
-    "name": "Pu2(SO4)3",
-    "elements": ["P", "u", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 764.0
-  },
-  {
-    "name": "Am2(SO4)3",
-    "elements": ["A", "m", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 766.0
-  },
-  {
-    "name": "Cm2(SO4)3",
-    "elements": ["C", "m", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 774.0
-  },
-  {
-    "name": "Bk2(SO4)3",
-    "elements": ["B", "k", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 782.0
-  },
-  {
-    "name": "Cf2(SO4)3",
-    "elements": ["C", "f", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 788.0
-  },
-  {
-    "name": "Es2(SO4)3",
-    "elements": ["E", "s", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 796.0
-  },
-  {
-    "name": "Fm2(SO4)3",
-    "elements": ["F", "m", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 802.0
-  },
-  {
-    "name": "Md2(SO4)3",
-    "elements": ["M", "d", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 808.0
-  },
-  {
-    "name": "No2(SO4)3",
-    "elements": ["N", "o", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 810.0
-  },
-  {
-    "name": "Lr2(SO4)3",
-    "elements": ["L", "r", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 814.0
-  },
-  {
-    "name": "Fr2SO4",
-    "elements": ["F", "r", "2", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 542.0
-  },
-  {
-    "name": "RaSO4",
-    "elements": ["R", "a", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 322.1
-  },
-  {
-    "name": "Au2(SO4)3",
-    "elements": ["A", "u", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 682.0
-  },
-  {
-    "name": "PtSO4",
-    "elements": ["P", "t", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 291.1
-  },
-  {
-    "name": "PdSO4",
-    "elements": ["P", "d", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 202.5
-  },
-  {
-    "name": "Rh2(SO4)3",
-    "elements": ["R", "h", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 494.0
-  },
-  {
-    "name": "RuSO4",
-    "elements": ["R", "u", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 197.1
-  },
-  {
-    "name": "OsSO4",
-    "elements": ["O", "s", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 286.3
-  },
-  {
-    "name": "Ir2(SO4)3",
-    "elements": ["I", "r", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 672.4
-  },
-  {
-    "name": "Re2(SO4)3",
-    "elements": ["R", "e", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 660.6
-  },
-  {
-    "name": "Nb2(SO4)3",
-    "elements": ["N", "b", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 474.0
-  },
-  {
-    "name": "Ta2(SO4)3",
-    "elements": ["T", "a", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 650.0
-  },
-  {
-    "name": "MoSO4",
-    "elements": ["M", "o", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 192.0
-  },
-  {
-    "name": "WSO4",
-    "elements": ["W", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 279.9
-  },
-  {
-    "name": "(NH4)2SO4",
-    "elements": ["(", "N", "H", "4", ")", "2", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 132.1
-  },
-  {
-    "name": "NH4HSO4",
-    "elements": ["N", "H", "4", "H", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 115.1
-  },
-  {
-    "name": "GeSO4",
-    "elements": ["G", "e", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 168.6
-  },
-  {
-    "name": "As2(SO4)3",
-    "elements": ["A", "s", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 438.0
-  },
-  {
-    "name": "SeSO4",
-    "elements": ["S", "e", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 175.0
-  },
-  {
-    "name": "TeSO4",
-    "elements": ["T", "e", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 223.6
-  },
-  {
-    "name": "PoSO4",
-    "elements": ["P", "o", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 305.0
-  },
-  {
-    "name": "At2SO4",
-    "elements": ["A", "t", "2", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 516.0
-  },
-  {
-    "name": "Kr2SO4",
-    "elements": ["K", "r", "2", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 263.6
-  },
-  {
-    "name": "XeSO4",
-    "elements": ["X", "e", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 227.3
-  },
-  {
-    "name": "RnSO4",
-    "elements": ["R", "n", "S", "O", "4"],
-    "state": "固",
-    "molecularWeight": 307.0
-  },
-  {
-    "name": "VO(SO4)",
-    "elements": ["V", "O", "(", "S", "O", "4", ")"],
-    "state": "固",
-    "molecularWeight": 163.0
-  },
-  {
-    "name": "Zr(SO4)2",
-    "elements": ["Z", "r", "(", "S", "O", "4", ")", "2"],
-    "state": "固",
-    "molecularWeight": 283.3
-  },
-  {
-    "name": "Hf(SO4)2",
-    "elements": ["H", "f", "(", "S", "O", "4", ")", "2"],
-    "state": "固",
-    "molecularWeight": 370.6
-  },
-  {
-    "name": "Mo2(SO4)3",
-    "elements": ["M", "o", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 480.0
-  },
-  {
-    "name": "W2(SO4)3",
-    "elements": ["W", "2", "(", "S", "O", "4", ")", "3"],
-    "state": "固",
-    "molecularWeight": 655.8
-  },
-  {
-    "name": "LiNO3",
-    "elements": ["L", "i", "N", "O", "3"],
-    "state": "固",
-    "molecularWeight": 69.0
-  },
-  {
-    "name": "Be(NO3)2",
-    "elements": ["B", "e", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 133.0
-  },
-  {
-    "name": "NH4NO3",
-    "elements": ["N", "H", "4", "N", "O", "3"],
-    "state": "固",
-    "molecularWeight": 80.0
-  },
-  {
-    "name": "RbNO3",
-    "elements": ["R", "b", "N", "O", "3"],
-    "state": "固",
-    "molecularWeight": 147.5
-  },
-  {
-    "name": "CsNO3",
-    "elements": ["C", "s", "N", "O", "3"],
-    "state": "固",
-    "molecularWeight": 194.9
-  },
-  {
-    "name": "Sr(NO3)2",
-    "elements": ["S", "r", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 211.6
-  },
-  {
-    "name": "Ti(NO3)4",
-    "elements": ["T", "i", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 296.0
-  },
-  {
-    "name": "V(NO3)3",
-    "elements": ["V", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 237.0
-  },
-  {
-    "name": "Cr(NO3)3",
-    "elements": ["C", "r", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 238.0
-  },
-  {
-    "name": "Mn(NO3)2",
-    "elements": ["M", "n", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 179.0
-  },
-  {
-    "name": "Co(NO3)2",
-    "elements": ["C", "o", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 183.0
-  },
-  {
-    "name": "Ni(NO3)2",
-    "elements": ["N", "i", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 182.7
-  },
-  {
-    "name": "Ga(NO3)3",
-    "elements": ["G", "a", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 255.7
-  },
-  {
-    "name": "In(NO3)3",
-    "elements": ["I", "n", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 300.8
-  },
-  {
-    "name": "Sn(NO3)2",
-    "elements": ["S", "n", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 242.7
-  },
-  {
-    "name": "Sn(NO3)4",
-    "elements": ["S", "n", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 366.7
-  },
-  {
-    "name": "Sb(NO3)3",
-    "elements": ["S", "b", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 307.8
-  },
-  {
-    "name": "AgNO3",
-    "elements": ["A", "g", "N", "O", "3"],
-    "state": "固",
-    "molecularWeight": 169.9
-  },
-  {
-    "name": "Cd(NO3)2",
-    "elements": ["C", "d", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 236.4
-  },
-  {
-    "name": "Hg2(NO3)2",
-    "elements": ["H", "g", "2", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 525.2
-  },
-  {
-    "name": "Hg(NO3)2",
-    "elements": ["H", "g", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 324.6
-  },
-  {
-    "name": "TlNO3",
-    "elements": ["T", "l", "N", "O", "3"],
-    "state": "固",
-    "molecularWeight": 266.4
-  },
-  {
-    "name": "Tl(NO3)3",
-    "elements": ["T", "l", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 390.4
-  },
-  {
-    "name": "Pb(NO3)2",
-    "elements": ["P", "b", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 331.2
-  },
-  {
-    "name": "Bi(NO3)3",
-    "elements": ["B", "i", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 395.0
-  },
-  {
-    "name": "Ac(NO3)3",
-    "elements": ["A", "c", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 413.0
-  },
-  {
-    "name": "Th(NO3)4",
-    "elements": ["T", "h", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 480.1
-  },
-  {
-    "name": "Pa(NO3)4",
-    "elements": ["P", "a", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 479.0
-  },
-  {
-    "name": "U(NO3)4",
-    "elements": ["U", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 486.1
-  },
-  {
-    "name": "Np(NO3)4",
-    "elements": ["N", "p", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 485.0
-  },
-  {
-    "name": "Pu(NO3)4",
-    "elements": ["P", "u", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 486.0
-  },
-  {
-    "name": "Am(NO3)3",
-    "elements": ["A", "m", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 429.0
-  },
-  {
-    "name": "Cm(NO3)3",
-    "elements": ["C", "m", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 433.0
-  },
-  {
-    "name": "Bk(NO3)3",
-    "elements": ["B", "k", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 437.0
-  },
-  {
-    "name": "Cf(NO3)3",
-    "elements": ["C", "f", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 440.0
-  },
-  {
-    "name": "Es(NO3)3",
-    "elements": ["E", "s", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 444.0
-  },
-  {
-    "name": "Fm(NO3)3",
-    "elements": ["F", "m", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 447.0
-  },
-  {
-    "name": "Md(NO3)3",
-    "elements": ["M", "d", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 450.0
-  },
-  {
-    "name": "No(NO3)3",
-    "elements": ["N", "o", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 451.0
-  },
-  {
-    "name": "Lr(NO3)3",
-    "elements": ["L", "r", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 454.0
-  },
-  {
-    "name": "FrNO3",
-    "elements": ["F", "r", "N", "O", "3"],
-    "state": "固",
-    "molecularWeight": 285.0
-  },
-  {
-    "name": "Ra(NO3)2",
-    "elements": ["R", "a", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 350.0
-  },
-  {
-    "name": "Au(NO3)3",
-    "elements": ["A", "u", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 383.0
-  },
-  {
-    "name": "Pt(NO3)2",
-    "elements": ["P", "t", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 319.1
-  },
-  {
-    "name": "Pd(NO3)2",
-    "elements": ["P", "d", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 230.4
-  },
-  {
-    "name": "Rh(NO3)3",
-    "elements": ["R", "h", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 288.9
-  },
-  {
-    "name": "Ru(NO3)3",
-    "elements": ["R", "u", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 287.1
-  },
-  {
-    "name": "Os(NO3)3",
-    "elements": ["O", "s", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 376.2
-  },
-  {
-    "name": "Ir(NO3)3",
-    "elements": ["I", "r", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 378.2
-  },
-  {
-    "name": "Re(NO3)3",
-    "elements": ["R", "e", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 372.2
-  },
-  {
-    "name": "Nb(NO3)5",
-    "elements": ["N", "b", "(", "N", "O", "3", ")", "5"],
-    "state": "固",
-    "molecularWeight": 403.0
-  },
-  {
-    "name": "Ta(NO3)5",
-    "elements": ["T", "a", "(", "N", "O", "3", ")", "5"],
-    "state": "固",
-    "molecularWeight": 491.0
-  },
-  {
-    "name": "Mo(NO3)4",
-    "elements": ["M", "o", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 344.0
-  },
-  {
-    "name": "W(NO3)4",
-    "elements": ["W", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 432.0
-  },
-  {
-    "name": "Ge(NO3)2",
-    "elements": ["G", "e", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 196.6
-  },
-  {
-    "name": "As(NO3)3",
-    "elements": ["A", "s", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 261.0
-  },
-  {
-    "name": "Se(NO3)2",
-    "elements": ["S", "e", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 203.0
-  },
-  {
-    "name": "Te(NO3)4",
-    "elements": ["T", "e", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 375.6
-  },
-  {
-    "name": "Po(NO3)4",
-    "elements": ["P", "o", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 457.0
-  },
-  {
-    "name": "AtNO3",
-    "elements": ["A", "t", "N", "O", "3"],
-    "state": "固",
-    "molecularWeight": 272.0
-  },
-  {
-    "name": "Kr(NO3)2",
-    "elements": ["K", "r", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 207.8
-  },
-  {
-    "name": "Xe(NO3)2",
-    "elements": ["X", "e", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 255.3
-  },
-  {
-    "name": "Rn(NO3)2",
-    "elements": ["R", "n", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 335.0
-  },
-  {
-    "name": "VO(NO3)3",
-    "elements": ["V", "O", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 253.0
-  },
-  {
-    "name": "Zr(NO3)4",
-    "elements": ["Z", "r", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 339.2
-  },
-  {
-    "name": "Hf(NO3)4",
-    "elements": ["H", "f", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 426.5
-  },
-  {
-    "name": "MoO2(NO3)2",
-    "elements": ["M", "o", "O", "2", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 260.0
-  },
-  {
-    "name": "WO2(NO3)2",
-    "elements": ["W", "O", "2", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 347.9
-  },
-  {
-    "name": "Cr(NO3)2",
-    "elements": ["C", "r", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 176.0
-  },
-  {
-    "name": "Mn(NO3)4",
-    "elements": ["M", "n", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 303.0
-  },
-  {
-    "name": "Fe(NO3)2",
-    "elements": ["F", "e", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 179.9
-  },
-  {
-    "name": "Co(NO3)3",
-    "elements": ["C", "o", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 245.0
-  },
-  {
-    "name": "Ni(NO3)3",
-    "elements": ["N", "i", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 244.7
-  },
-  {
-    "name": "CuNO3",
-    "elements": ["C", "u", "N", "O", "3"],
-    "state": "固",
-    "molecularWeight": 125.6
-  },
-  {
-    "name": "Ag(NO3)2",
-    "elements": ["A", "g", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 231.9
-  },
-  {
-    "name": "Cd(NO3)4",
-    "elements": ["C", "d", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 360.4
-  },
-  {
-    "name": "InNO3",
-    "elements": ["I", "n", "N", "O", "3"],
-    "state": "固",
-    "molecularWeight": 176.8
-  },
-  {
-    "name": "Sn(NO3)3",
-    "elements": ["S", "n", "(", "N", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 304.7
-  },
-  {
-    "name": "Sb(NO3)5",
-    "elements": ["S", "b", "(", "N", "O", "3", ")", "5"],
-    "state": "固",
-    "molecularWeight": 431.8
-  },
-  {
-    "name": "BiNO3",
-    "elements": ["B", "i", "N", "O", "3"],
-    "state": "固",
-    "molecularWeight": 271.0
-  },
-  {
-    "name": "Pt(NO3)4",
-    "elements": ["P", "t", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 443.1
-  },
-  {
-    "name": "Pd(NO3)4",
-    "elements": ["P", "d", "(", "N", "O", "3", ")", "4"],
-    "state": "固",
-    "molecularWeight": 354.4
-  },
-  {
-    "name": "Rh(NO3)2",
-    "elements": ["R", "h", "(", "N", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 226.9
-  },
-  {
-    "name": "RuNO3",
-    "elements": ["R", "u", "N", "O", "3"],
-    "state": "固",
-    "molecularWeight": 163.1
-  },
-  {
-    "name": "Li2CO3",
-    "elements": ["L", "i", "2", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 74.0
-  },
-  {
-    "name": "BeCO3",
-    "elements": ["B", "e", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 69.0
-  },
-  {
-    "name": "NaHCO3",
-    "elements": ["N", "a", "H", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 84.0
-  },
-  {
-    "name": "KHCO3",
-    "elements": ["K", "H", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 100.1
-  },
-  {
-    "name": "Rb2CO3",
-    "elements": ["R", "b", "2", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 231.0
-  },
-  {
-    "name": "Cs2CO3",
-    "elements": ["C", "s", "2", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 325.8
-  },
-  {
-    "name": "SrCO3",
-    "elements": ["S", "r", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 147.6
-  },
-  {
-    "name": "TiCO3",
-    "elements": ["T", "i", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 108.0
-  },
-  {
-    "name": "V2(CO3)3",
-    "elements": ["V", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 282.0
-  },
-  {
-    "name": "CrCO3",
-    "elements": ["C", "r", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 112.0
-  },
-  {
-    "name": "MnCO3",
-    "elements": ["M", "n", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 115.0
-  },
-  {
-    "name": "CoCO3",
-    "elements": ["C", "o", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 119.0
-  },
-  {
-    "name": "NiCO3",
-    "elements": ["N", "i", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 118.7
-  },
-  {
-    "name": "CdCO3",
-    "elements": ["C", "d", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 172.4
-  },
-  {
-    "name": "Ag2CO3",
-    "elements": ["A", "g", "2", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 275.8
-  },
-  {
-    "name": "Hg2CO3",
-    "elements": ["H", "g", "2", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 461.2
-  },
-  {
-    "name": "HgCO3",
-    "elements": ["H", "g", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 260.6
-  },
-  {
-    "name": "Tl2CO3",
-    "elements": ["T", "l", "2", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 468.8
-  },
-  {
-    "name": "PbCO3",
-    "elements": ["P", "b", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 267.2
-  },
-  {
-    "name": "Bi2(CO3)3",
-    "elements": ["B", "i", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 598.0
-  },
-  {
-    "name": "(NH4)2CO3",
-    "elements": ["(", "N", "H", "4", ")", "2", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 96.1
-  },
-  {
-    "name": "NH4HCO3",
-    "elements": ["N", "H", "4", "H", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 79.1
-  },
-  {
-    "name": "In2(CO3)3",
-    "elements": ["I", "n", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 409.6
-  },
-  {
-    "name": "SnCO3",
-    "elements": ["S", "n", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 178.7
-  },
-  {
-    "name": "Sb2(CO3)3",
-    "elements": ["S", "b", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 423.5
-  },
-  {
-    "name": "Fr2CO3",
-    "elements": ["F", "r", "2", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 506.0
-  },
-  {
-    "name": "RaCO3",
-    "elements": ["R", "a", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 286.0
-  },
-  {
-    "name": "Ac2(CO3)3",
-    "elements": ["A", "c", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 634.0
-  },
-  {
-    "name": "Th(CO3)2",
-    "elements": ["T", "h", "(", "C", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 352.0
-  },
-  {
-    "name": "Pa2(CO3)3",
-    "elements": ["P", "a", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 642.0
-  },
-  {
-    "name": "U(CO3)2",
-    "elements": ["U", "(", "C", "O", "3", ")", "2"],
-    "state": "固",
-    "molecularWeight": 358.0
-  },
-  {
-    "name": "Np2(CO3)3",
-    "elements": ["N", "p", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 654.0
-  },
-  {
-    "name": "Pu2(CO3)3",
-    "elements": ["P", "u", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 656.0
-  },
-  {
-    "name": "Am2(CO3)3",
-    "elements": ["A", "m", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 658.0
-  },
-  {
-    "name": "Cm2(CO3)3",
-    "elements": ["C", "m", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 666.0
-  },
-  {
-    "name": "Bk2(CO3)3",
-    "elements": ["B", "k", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 674.0
-  },
-  {
-    "name": "Cf2(CO3)3",
-    "elements": ["C", "f", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 680.0
-  },
-  {
-    "name": "Es2(CO3)3",
-    "elements": ["E", "s", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 688.0
-  },
-  {
-    "name": "Fm2(CO3)3",
-    "elements": ["F", "m", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 694.0
-  },
-  {
-    "name": "Md2(CO3)3",
-    "elements": ["M", "d", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 700.0
-  },
-  {
-    "name": "No2(CO3)3",
-    "elements": ["N", "o", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 702.0
-  },
-  {
-    "name": "Lr2(CO3)3",
-    "elements": ["L", "r", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 706.0
-  },
-  {
-    "name": "Au2(CO3)3",
-    "elements": ["A", "u", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 574.0
-  },
-  {
-    "name": "PtCO3",
-    "elements": ["P", "t", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 255.1
-  },
-  {
-    "name": "PdCO3",
-    "elements": ["P", "d", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 166.4
-  },
-  {
-    "name": "Rh2(CO3)3",
-    "elements": ["R", "h", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 386.0
-  },
-  {
-    "name": "RuCO3",
-    "elements": ["R", "u", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 161.1
-  },
-  {
-    "name": "OsCO3",
-    "elements": ["O", "s", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 250.2
-  },
-  {
-    "name": "Ir2(CO3)3",
-    "elements": ["I", "r", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 564.4
-  },
-  {
-    "name": "Re2(CO3)3",
-    "elements": ["R", "e", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 552.4
-  },
-  {
-    "name": "Nb2(CO3)5",
-    "elements": ["N", "b", "2", "(", "C", "O", "3", ")", "5"],
-    "state": "固",
-    "molecularWeight": 486.0
-  },
-  {
-    "name": "Ta2(CO3)5",
-    "elements": ["T", "a", "2", "(", "C", "O", "3", ")", "5"],
-    "state": "固",
-    "molecularWeight": 662.0
-  },
-  {
-    "name": "MoCO3",
-    "elements": ["M", "o", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 156.0
-  },
-  {
-    "name": "WCO3",
-    "elements": ["W", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 243.8
-  },
-  {
-    "name": "GeCO3",
-    "elements": ["G", "e", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 132.6
-  },
-  {
-    "name": "As2(CO3)3",
-    "elements": ["A", "s", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 330.0
-  },
-  {
-    "name": "SeCO3",
-    "elements": ["S", "e", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 139.0
-  },
-  {
-    "name": "TeCO3",
-    "elements": ["T", "e", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 187.6
-  },
-  {
-    "name": "PoCO3",
-    "elements": ["P", "o", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 269.0
-  },
-  {
-    "name": "At2CO3",
-    "elements": ["A", "t", "2", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 480.0
-  },
-  {
-    "name": "Kr2CO3",
-    "elements": ["K", "r", "2", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 227.6
-  },
-  {
-    "name": "XeCO3",
-    "elements": ["X", "e", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 191.3
-  },
-  {
-    "name": "RnCO3",
-    "elements": ["R", "n", "C", "O", "3"],
-    "state": "固",
-    "molecularWeight": 271.0
-  },
-  {
-    "name": "Cr2(CO3)3",
-    "elements": ["C", "r", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 284.0
-  },
-  {
-    "name": "Mn2(CO3)3",
-    "elements": ["M", "n", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 290.0
-  },
-  {
-    "name": "Fe2(CO3)3",
-    "elements": ["F", "e", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 291.7
-  },
-  {
-    "name": "Co2(CO3)3",
-    "elements": ["C", "o", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 298.0
-  },
-  {
-    "name": "Ni2(CO3)3",
-    "elements": ["N", "i", "2", "(", "C", "O", "3", ")", "3"],
-    "state": "固",
-    "molecularWeight": 297.4
+    "molecularWeight": 116.0
   },
   {
     "name": "Li2O",
@@ -5472,592 +90,106 @@
     "molecularWeight": 30.0
   },
   {
-    "name": "BeO",
-    "elements": ["B", "e", "O"],
+    "name": "Li2CO3",
+    "elements": ["L", "i", "2", "C", "O", "3"],
     "state": "固",
-    "molecularWeight": 25.0
+    "molecularWeight": 74.0
   },
   {
-    "name": "B2O3",
-    "elements": ["B", "2", "O", "3"],
+    "name": "NaCl",
+    "elements": ["N", "a", "C", "l"],
     "state": "固",
-    "molecularWeight": 70.0
+    "molecularWeight": 58.4
   },
   {
-    "name": "Rb2O",
-    "elements": ["R", "b", "2", "O"],
+    "name": "NaCN",
+    "elements": ["N", "a", "C", "N"],
     "state": "固",
-    "molecularWeight": 186.9
+    "molecularWeight": 49.0
   },
   {
-    "name": "Cs2O",
-    "elements": ["C", "s", "2", "O"],
+    "name": "NaN3",
+    "elements": ["N", "a", "N", "3"],
     "state": "固",
-    "molecularWeight": 281.8
+    "molecularWeight": 65.0
   },
   {
-    "name": "Ti2O3",
-    "elements": ["T", "i", "2", "O", "3"],
+    "name": "NaBr",
+    "elements": ["N", "a", "B", "r"],
     "state": "固",
-    "molecularWeight": 143.8
+    "molecularWeight": 102.9
   },
   {
-    "name": "TiO",
-    "elements": ["T", "i", "O"],
-    "state": "固",
-    "molecularWeight": 64.0
-  },
-  {
-    "name": "VO",
-    "elements": ["V", "O"],
-    "state": "固",
-    "molecularWeight": 67.0
-  },
-  {
-    "name": "V2O3",
-    "elements": ["V", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 150.0
-  },
-  {
-    "name": "V2O5",
-    "elements": ["V", "2", "O", "5"],
-    "state": "固",
-    "molecularWeight": 182.0
-  },
-  {
-    "name": "Cr2O3",
-    "elements": ["C", "r", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 152.0
-  },
-  {
-    "name": "CrO3",
-    "elements": ["C", "r", "O", "3"],
-    "state": "固",
-    "molecularWeight": 100.0
-  },
-  {
-    "name": "MnO",
-    "elements": ["M", "n", "O"],
-    "state": "固",
-    "molecularWeight": 71.0
-  },
-  {
-    "name": "MnO2",
-    "elements": ["M", "n", "O", "2"],
-    "state": "固",
-    "molecularWeight": 87.0
-  },
-  {
-    "name": "Mn2O3",
-    "elements": ["M", "n", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 158.0
-  },
-  {
-    "name": "Mn3O4",
-    "elements": ["M", "n", "3", "O", "4"],
-    "state": "固",
-    "molecularWeight": 229.0
-  },
-  {
-    "name": "CoO",
-    "elements": ["C", "o", "O"],
-    "state": "固",
-    "molecularWeight": 75.0
-  },
-  {
-    "name": "Co3O4",
-    "elements": ["C", "o", "3", "O", "4"],
-    "state": "固",
-    "molecularWeight": 241.0
-  },
-  {
-    "name": "NiO",
-    "elements": ["N", "i", "O"],
-    "state": "固",
-    "molecularWeight": 74.7
-  },
-  {
-    "name": "Ni2O3",
-    "elements": ["N", "i", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 165.4
-  },
-  {
-    "name": "Ga2O3",
-    "elements": ["G", "a", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 187.4
-  },
-  {
-    "name": "In2O3",
-    "elements": ["I", "n", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 277.6
-  },
-  {
-    "name": "SnO",
-    "elements": ["S", "n", "O"],
-    "state": "固",
-    "molecularWeight": 134.7
-  },
-  {
-    "name": "Sb2O3",
-    "elements": ["S", "b", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 291.5
-  },
-  {
-    "name": "Sb2O5",
-    "elements": ["S", "b", "2", "O", "5"],
-    "state": "固",
-    "molecularWeight": 323.5
-  },
-  {
-    "name": "Ag2O",
-    "elements": ["A", "g", "2", "O"],
-    "state": "固",
-    "molecularWeight": 231.8
-  },
-  {
-    "name": "CdO",
-    "elements": ["C", "d", "O"],
-    "state": "固",
-    "molecularWeight": 128.4
-  },
-  {
-    "name": "HgO",
-    "elements": ["H", "g", "O"],
-    "state": "固",
-    "molecularWeight": 216.6
-  },
-  {
-    "name": "Tl2O3",
-    "elements": ["T", "l", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 456.8
-  },
-  {
-    "name": "Pb3O4",
-    "elements": ["P", "b", "3", "O", "4"],
-    "state": "固",
-    "molecularWeight": 685.6
-  },
-  {
-    "name": "Bi2O3",
-    "elements": ["B", "i", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 466.0
-  },
-  {
-    "name": "P2O3",
-    "elements": ["P", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 110.0
-  },
-  {
-    "name": "P2O5",
-    "elements": ["P", "2", "O", "5"],
+    "name": "Na2SO4",
+    "elements": ["N", "a", "2", "S", "O", "4"],
     "state": "固",
     "molecularWeight": 142.0
   },
   {
-    "name": "As2O3",
-    "elements": ["A", "s", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 198.0
-  },
-  {
-    "name": "As2O5",
-    "elements": ["A", "s", "2", "O", "5"],
-    "state": "固",
-    "molecularWeight": 230.0
-  },
-  {
-    "name": "SeO2",
-    "elements": ["S", "e", "O", "2"],
-    "state": "固",
-    "molecularWeight": 111.0
-  },
-  {
-    "name": "SeO3",
-    "elements": ["S", "e", "O", "3"],
-    "state": "固",
-    "molecularWeight": 127.0
-  },
-  {
-    "name": "TeO2",
-    "elements": ["T", "e", "O", "2"],
-    "state": "固",
-    "molecularWeight": 159.6
-  },
-  {
-    "name": "TeO3",
-    "elements": ["T", "e", "O", "3"],
-    "state": "固",
-    "molecularWeight": 175.6
-  },
-  {
-    "name": "IO2",
-    "elements": ["I", "O", "2"],
-    "state": "固",
-    "molecularWeight": 159.0
-  },
-  {
-    "name": "I2O5",
-    "elements": ["I", "2", "O", "5"],
-    "state": "固",
-    "molecularWeight": 334.0
-  },
-  {
-    "name": "PoO2",
-    "elements": ["P", "o", "O", "2"],
-    "state": "固",
-    "molecularWeight": 241.0
-  },
-  {
-    "name": "At2O3",
-    "elements": ["A", "t", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 468.0
-  },
-  {
-    "name": "Fr2O",
-    "elements": ["F", "r", "2", "O"],
-    "state": "固",
-    "molecularWeight": 462.0
-  },
-  {
-    "name": "RaO",
-    "elements": ["R", "a", "O"],
-    "state": "固",
-    "molecularWeight": 242.0
-  },
-  {
-    "name": "Ac2O3",
-    "elements": ["A", "c", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 502.0
-  },
-  {
-    "name": "ThO2",
-    "elements": ["T", "h", "O", "2"],
-    "state": "固",
-    "molecularWeight": 264.0
-  },
-  {
-    "name": "Pa2O5",
-    "elements": ["P", "a", "2", "O", "5"],
-    "state": "固",
-    "molecularWeight": 542.0
-  },
-  {
-    "name": "NpO2",
-    "elements": ["N", "p", "O", "2"],
-    "state": "固",
-    "molecularWeight": 269.0
-  },
-  {
-    "name": "Np2O3",
-    "elements": ["N", "p", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 522.0
-  },
-  {
-    "name": "AmO2",
-    "elements": ["A", "m", "O", "2"],
-    "state": "固",
-    "molecularWeight": 275.0
-  },
-  {
-    "name": "CmO2",
-    "elements": ["C", "m", "O", "2"],
-    "state": "固",
-    "molecularWeight": 279.0
-  },
-  {
-    "name": "BkO2",
-    "elements": ["B", "k", "O", "2"],
-    "state": "固",
-    "molecularWeight": 283.0
-  },
-  {
-    "name": "CfO2",
-    "elements": ["C", "f", "O", "2"],
-    "state": "固",
-    "molecularWeight": 286.0
-  },
-  {
-    "name": "EsO2",
-    "elements": ["E", "s", "O", "2"],
-    "state": "固",
-    "molecularWeight": 290.0
-  },
-  {
-    "name": "FmO2",
-    "elements": ["F", "m", "O", "2"],
-    "state": "固",
-    "molecularWeight": 293.0
-  },
-  {
-    "name": "MdO2",
-    "elements": ["M", "d", "O", "2"],
-    "state": "固",
-    "molecularWeight": 296.0
-  },
-  {
-    "name": "NoO2",
-    "elements": ["N", "o", "O", "2"],
-    "state": "固",
-    "molecularWeight": 297.0
-  },
-  {
-    "name": "LrO2",
-    "elements": ["L", "r", "O", "2"],
-    "state": "固",
-    "molecularWeight": 300.0
-  },
-  {
-    "name": "Au2O3",
-    "elements": ["A", "u", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 442.0
-  },
-  {
-    "name": "PtO",
-    "elements": ["P", "t", "O"],
-    "state": "固",
-    "molecularWeight": 211.1
-  },
-  {
-    "name": "PtO2",
-    "elements": ["P", "t", "O", "2"],
-    "state": "固",
-    "molecularWeight": 227.1
-  },
-  {
-    "name": "PdO",
-    "elements": ["P", "d", "O"],
+    "name": "NaClO4",
+    "elements": ["N", "a", "C", "l", "O", "4"],
     "state": "固",
     "molecularWeight": 122.4
   },
   {
-    "name": "Rh2O3",
-    "elements": ["R", "h", "2", "O", "3"],
+    "name": "NaClO3",
+    "elements": ["N", "a", "C", "l", "O", "3"],
     "state": "固",
-    "molecularWeight": 254.0
+    "molecularWeight": 106.4
   },
   {
-    "name": "RuO2",
-    "elements": ["R", "u", "O", "2"],
+    "name": "NaClO",
+    "elements": ["N", "a", "C", "l", "O"],
     "state": "固",
-    "molecularWeight": 133.1
+    "molecularWeight": 74.4
   },
   {
-    "name": "IrO2",
-    "elements": ["I", "r", "O", "2"],
+    "name": "NaNO3",
+    "elements": ["N", "a", "N", "O", "3"],
     "state": "固",
-    "molecularWeight": 224.2
+    "molecularWeight": 85.0
   },
   {
-    "name": "ReO2",
-    "elements": ["R", "e", "O", "2"],
+    "name": "NaNO2",
+    "elements": ["N", "a", "N", "O", "2"],
     "state": "固",
-    "molecularWeight": 218.2
+    "molecularWeight": 69.0
   },
   {
-    "name": "ReO3",
-    "elements": ["R", "e", "O", "3"],
+    "name": "NaNH2",
+    "elements": ["N", "a", "N", "H", "2"],
     "state": "固",
-    "molecularWeight": 234.2
+    "molecularWeight": 39.0
   },
   {
-    "name": "Nb2O5",
-    "elements": ["N", "b", "2", "O", "5"],
+    "name": "NaHSO3",
+    "elements": ["N", "a", "H", "S", "O", "3"],
     "state": "固",
-    "molecularWeight": 266.0
+    "molecularWeight": 104.0
   },
   {
-    "name": "Ta2O5",
-    "elements": ["T", "a", "2", "O", "5"],
+    "name": "Na3PO4",
+    "elements": ["N", "a", "3", "P", "O", "4"],
     "state": "固",
-    "molecularWeight": 442.0
+    "molecularWeight": 164.0
   },
   {
-    "name": "MoO2",
-    "elements": ["M", "o", "O", "2"],
+    "name": "Na2CO3",
+    "elements": ["N", "a", "2", "C", "O", "3"],
     "state": "固",
-    "molecularWeight": 128.0
+    "molecularWeight": 106.0
   },
   {
-    "name": "MoO3",
-    "elements": ["M", "o", "O", "3"],
+    "name": "Na2O",
+    "elements": ["N", "a", "2", "O"],
     "state": "固",
-    "molecularWeight": 144.0
+    "molecularWeight": 62.0
   },
   {
-    "name": "WO2",
-    "elements": ["W", "O", "2"],
+    "name": "NaHCO3",
+    "elements": ["N", "a", "H", "C", "O", "3"],
     "state": "固",
-    "molecularWeight": 216.0
-  },
-  {
-    "name": "WO3",
-    "elements": ["W", "O", "3"],
-    "state": "固",
-    "molecularWeight": 232.0
-  },
-  {
-    "name": "GeO",
-    "elements": ["G", "e", "O"],
-    "state": "固",
-    "molecularWeight": 88.6
-  },
-  {
-    "name": "GeO2",
-    "elements": ["G", "e", "O", "2"],
-    "state": "固",
-    "molecularWeight": 104.6
-  },
-  {
-    "name": "KrO3",
-    "elements": ["K", "r", "O", "3"],
-    "state": "固",
-    "molecularWeight": 131.8
-  },
-  {
-    "name": "XeO3",
-    "elements": ["X", "e", "O", "3"],
-    "state": "固",
-    "molecularWeight": 179.3
-  },
-  {
-    "name": "XeO4",
-    "elements": ["X", "e", "O", "4"],
-    "state": "固",
-    "molecularWeight": 195.3
-  },
-  {
-    "name": "RnO3",
-    "elements": ["R", "n", "O", "3"],
-    "state": "固",
-    "molecularWeight": 259.0
-  },
-  {
-    "name": "ZrO2",
-    "elements": ["Z", "r", "O", "2"],
-    "state": "固",
-    "molecularWeight": 123.2
-  },
-  {
-    "name": "HfO2",
-    "elements": ["H", "f", "O", "2"],
-    "state": "固",
-    "molecularWeight": 210.5
-  },
-  {
-    "name": "NbO",
-    "elements": ["N", "b", "O"],
-    "state": "固",
-    "molecularWeight": 109.0
-  },
-  {
-    "name": "TaO2",
-    "elements": ["T", "a", "O", "2"],
-    "state": "固",
-    "molecularWeight": 213.0
-  },
-  {
-    "name": "Mn2O7",
-    "elements": ["M", "n", "2", "O", "7"],
-    "state": "液",
-    "molecularWeight": 222.0
-  },
-  {
-    "name": "Tc2O7",
-    "elements": ["T", "c", "2", "O", "7"],
-    "state": "固",
-    "molecularWeight": 306.0
-  },
-  {
-    "name": "RuO4",
-    "elements": ["R", "u", "O", "4"],
-    "state": "固",
-    "molecularWeight": 165.1
-  },
-  {
-    "name": "RhO2",
-    "elements": ["R", "h", "O", "2"],
-    "state": "固",
-    "molecularWeight": 135.0
-  },
-  {
-    "name": "PdO2",
-    "elements": ["P", "d", "O", "2"],
-    "state": "固",
-    "molecularWeight": 138.4
-  },
-  {
-    "name": "AgO",
-    "elements": ["A", "g", "O"],
-    "state": "固",
-    "molecularWeight": 123.9
-  },
-  {
-    "name": "Cd2O3",
-    "elements": ["C", "d", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 272.8
-  },
-  {
-    "name": "InO",
-    "elements": ["I", "n", "O"],
-    "state": "固",
-    "molecularWeight": 130.8
-  },
-  {
-    "name": "BiO2",
-    "elements": ["B", "i", "O", "2"],
-    "state": "固",
-    "molecularWeight": 241.0
-  },
-  {
-    "name": "PoO3",
-    "elements": ["P", "o", "O", "3"],
-    "state": "固",
-    "molecularWeight": 257.0
-  },
-  {
-    "name": "At2O5",
-    "elements": ["A", "t", "2", "O", "5"],
-    "state": "固",
-    "molecularWeight": 500.0
-  },
-  {
-    "name": "Am2O3",
-    "elements": ["A", "m", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 526.0
-  },
-  {
-    "name": "Cm2O3",
-    "elements": ["C", "m", "2", "O", "3"],
-    "state": "固",
-    "molecularWeight": 534.0
-  },
-  {
-    "name": "Li3PO4",
-    "elements": ["L", "i", "3", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 116.0
-  },
-  {
-    "name": "Be3(PO4)2",
-    "elements": ["B", "e", "3", "(", "P", "O", "4", ")", "2"],
-    "state": "固",
-    "molecularWeight": 217.0
+    "molecularWeight": 84.0
   },
   {
     "name": "Na2HPO4",
@@ -6072,6 +204,78 @@
     "molecularWeight": 120.0
   },
   {
+    "name": "KCl",
+    "elements": ["K", "C", "l"],
+    "state": "固",
+    "molecularWeight": 74.6
+  },
+  {
+    "name": "KCl",
+    "elements": ["K", "C", "N"],
+    "state": "固",
+    "molecularWeight": 65.1
+  },
+  {
+    "name": "KN3",
+    "elements": ["K", "N", "3"],
+    "state": "固",
+    "molecularWeight": 81.1
+  },
+  {
+    "name": "KBr",
+    "elements": ["K", "B", "r"],
+    "state": "固",
+    "molecularWeight": 119.0
+  },
+  {
+    "name": "K2SO4",
+    "elements": ["K", "2", "S", "O", "4"],
+    "state": "固",
+    "molecularWeight": 174.3
+  },
+  {
+    "name": "KClO4",
+    "elements": ["K", "C", "l", "O", "4"],
+    "state": "固",
+    "molecularWeight": 138.5
+  },
+  {
+    "name": "KClO3",
+    "elements": ["K", "C", "l", "O", "4"],
+    "state": "固",
+    "molecularWeight": 122.5
+  },
+  {
+    "name": "KNO3",
+    "elements": ["K", "N", "O", "3"],
+    "state": "固",
+    "molecularWeight": 101.1
+  },
+  {
+    "name": "K3PO4",
+    "elements": ["K", "3", "P", "O", "4"],
+    "state": "固",
+    "molecularWeight": 212.3
+  },
+  {
+    "name": "K2CO3",
+    "elements": ["K", "2", "C", "O", "3"],
+    "state": "固",
+    "molecularWeight": 138.2
+  },
+  {
+    "name": "K2O",
+    "elements": ["K", "2", "O"],
+    "state": "固",
+    "molecularWeight": 94.2
+  },
+  {
+    "name": "KHCO3",
+    "elements": ["K", "H", "C", "O", "3"],
+    "state": "固",
+    "molecularWeight": 100.1
+  },
+  {
     "name": "K2HPO4",
     "elements": ["K", "2", "H", "P", "O", "4"],
     "state": "固",
@@ -6084,112 +288,436 @@
     "molecularWeight": 136.1
   },
   {
-    "name": "Rb3PO4",
-    "elements": ["R", "b", "3", "P", "O", "4"],
+    "name": "RbCl",
+    "elements": ["R", "b", "C", "l"],
     "state": "固",
-    "molecularWeight": 351.4
+    "molecularWeight": 120.9
   },
   {
-    "name": "Cs3PO4",
-    "elements": ["C", "s", "3", "P", "O", "4"],
+    "name": "RbBr",
+    "elements": ["R", "b", "B", "r"],
     "state": "固",
-    "molecularWeight": 493.7
+    "molecularWeight": 165.4
   },
   {
-    "name": "Sr3(PO4)2",
-    "elements": ["S", "r", "3", "(", "P", "O", "4", ")", "2"],
+    "name": "Rb2SO4",
+    "elements": ["R", "b", "2", "S", "O", "4"],
     "state": "固",
-    "molecularWeight": 452.8
+    "molecularWeight": 267.0
   },
   {
-    "name": "TiPO4",
-    "elements": ["T", "i", "P", "O", "4"],
+    "name": "RbNO3",
+    "elements": ["R", "b", "N", "O", "3"],
     "state": "固",
-    "molecularWeight": 142.9
+    "molecularWeight": 147.5
   },
   {
-    "name": "VPO4",
-    "elements": ["V", "P", "O", "4"],
+    "name": "Rb2CO3",
+    "elements": ["R", "b", "2", "C", "O", "3"],
     "state": "固",
-    "molecularWeight": 146.0
+    "molecularWeight": 231.0
   },
   {
-    "name": "CrPO4",
-    "elements": ["C", "r", "P", "O", "4"],
+    "name": "CsCl",
+    "elements": ["C", "s", "C", "l"],
     "state": "固",
-    "molecularWeight": 147.0
+    "molecularWeight": 168.4
   },
   {
-    "name": "Mn3(PO4)2",
-    "elements": ["M", "n", "3", "(", "P", "O", "4", ")", "2"],
+    "name": "CsBr",
+    "elements": ["C", "s", "B", "r"],
     "state": "固",
-    "molecularWeight": 354.8
+    "molecularWeight": 212.8
   },
   {
-    "name": "MnPO4",
-    "elements": ["M", "n", "P", "O", "4"],
+    "name": "Cs2SO4",
+    "elements": ["C", "s", "2", "S", "O", "4"],
     "state": "固",
-    "molecularWeight": 149.9
+    "molecularWeight": 361.9
   },
   {
-    "name": "Co3(PO4)2",
-    "elements": ["C", "o", "3", "(", "P", "O", "4", ")", "2"],
+    "name": "CsNO3",
+    "elements": ["C", "s", "N", "O", "3"],
     "state": "固",
-    "molecularWeight": 366.7
+    "molecularWeight": 194.9
   },
   {
-    "name": "CoPO4",
-    "elements": ["C", "o", "P", "O", "4"],
+    "name": "Cs2CO3",
+    "elements": ["C", "s", "2", "C", "O", "3"],
     "state": "固",
-    "molecularWeight": 153.9
+    "molecularWeight": 325.8
   },
   {
-    "name": "Ni3(PO4)2",
-    "elements": ["N", "i", "3", "(", "P", "O", "4", ")", "2"],
+    "name": "BeCl2",
+    "elements": ["B", "e", "C", "l", "2"],
     "state": "固",
-    "molecularWeight": 366.1
+    "molecularWeight": 80.0
   },
   {
-    "name": "NiPO4",
-    "elements": ["N", "i", "P", "O", "4"],
+    "name": "BeSO4",
+    "elements": ["B", "e", "S", "O", "4"],
     "state": "固",
-    "molecularWeight": 153.7
+    "molecularWeight": 105.1
   },
   {
-    "name": "Cu3(PO4)2",
-    "elements": ["C", "u", "3", "(", "P", "O", "4", ")", "2"],
+    "name": "BeO",
+    "elements": ["B", "e", "O"],
     "state": "固",
-    "molecularWeight": 380.6
+    "molecularWeight": 25.0
   },
   {
-    "name": "CuHPO4",
-    "elements": ["C", "u", "H", "P", "O", "4"],
+    "name": "BeCO3",
+    "elements": ["B", "e", "C", "O", "3"],
     "state": "固",
-    "molecularWeight": 159.5
+    "molecularWeight": 69.0
   },
   {
-    "name": "Ag3PO4",
-    "elements": ["A", "g", "3", "P", "O", "4"],
+    "name": "MgCl2",
+    "elements": ["M", "g", "C", "l", "2"],
     "state": "固",
-    "molecularWeight": 418.6
+    "molecularWeight": 95.2
   },
   {
-    "name": "Cd3(PO4)2",
-    "elements": ["C", "d", "3", "(", "P", "O", "4", ")", "2"],
+    "name": "MgBr2",
+    "elements": ["M", "g", "B", "r", "2"],
     "state": "固",
-    "molecularWeight": 527.2
+    "molecularWeight": 184.1
   },
   {
-    "name": "Hg3(PO4)2",
-    "elements": ["H", "g", "3", "(", "P", "O", "4", ")", "2"],
+    "name": "MgSO4",
+    "elements": ["M", "g", "S", "O", "4"],
     "state": "固",
-    "molecularWeight": 791.7
+    "molecularWeight": 120.4
   },
   {
-    "name": "Tl3PO4",
-    "elements": ["T", "l", "3", "P", "O", "4"],
+    "name": "Mg(NO3)2",
+    "elements": ["M", "g", "(", "N", "O", "3", ")", "2"],
     "state": "固",
-    "molecularWeight": 708.1
+    "molecularWeight": 148.3
+  },
+  {
+    "name": "Mg3(PO4)2",
+    "elements": ["M", "g", "3", "(", "P", "O", "4", ")", "2"],
+    "state": "固",
+    "molecularWeight": 262.9
+  },
+  {
+    "name": "MgCO3",
+    "elements": ["M", "g", "C", "O", "3"],
+    "state": "固",
+    "molecularWeight": 84.3
+  },
+  {
+    "name": "MgO",
+    "elements": ["M", "g", "O"],
+    "state": "固",
+    "molecularWeight": 40.3
+  },
+  {
+    "name": "CaCl2",
+    "elements": ["C", "a", "C", "l", "2"],
+    "state": "固",
+    "molecularWeight": 111.0
+  },
+  {
+    "name": "CaBr2",
+    "elements": ["C", "a", "B", "r", "2"],
+    "state": "固",
+    "molecularWeight": 199.9
+  },
+  {
+    "name": "CaSO4",
+    "elements": ["C", "a", "S", "O", "4"],
+    "state": "固",
+    "molecularWeight": 136.1
+  },
+  {
+    "name": "Ca(NO3)2",
+    "elements": ["C", "a", "(", "N", "O", "3", ")", "2"],
+    "state": "固",
+    "molecularWeight": 164.1
+  },
+  {
+    "name": "Ca3(PO4)2",
+    "elements": ["C", "a", "3", "(", "P", "O", "4", ")", "2"],
+    "state": "固",
+    "molecularWeight": 310.2
+  },
+  {
+    "name": "CaCO3",
+    "elements": ["C", "a", "C", "O", "3"],
+    "state": "固",
+    "molecularWeight": 100.1
+  },
+  {
+    "name": "CaO",
+    "elements": ["C", "a", "O"],
+    "state": "固",
+    "molecularWeight": 56.1
+  },
+  {
+    "name": "SrCl2",
+    "elements": ["S", "r", "C", "l", "2"],
+    "state": "固",
+    "molecularWeight": 158.5
+  },
+  {
+    "name": "SrBr2",
+    "elements": ["S", "r", "B", "r", "2"],
+    "state": "固",
+    "molecularWeight": 247.4
+  },
+  {
+    "name": "SrSO4",
+    "elements": ["S", "r", "S", "O", "4"],
+    "state": "固",
+    "molecularWeight": 183.7
+  },
+  {
+    "name": "Sr(NO3)2",
+    "elements": ["S", "r", "(", "N", "O", "3", ")", "2"],
+    "state": "固",
+    "molecularWeight": 211.6
+  },
+  {
+    "name": "SrCO3",
+    "elements": ["S", "r", "C", "O", "3"],
+    "state": "固",
+    "molecularWeight": 147.6
+  },
+  {
+    "name": "SrO",
+    "elements": ["S", "r", "O"],
+    "state": "固",
+    "molecularWeight": 103.6
+  },
+  {
+    "name": "BaCl2",
+    "elements": ["B", "a", "C", "l", "2"],
+    "state": "固",
+    "molecularWeight": 208.2
+  },
+  {
+    "name": "BaBr2",
+    "elements": ["B", "a", "B", "r", "2"],
+    "state": "固",
+    "molecularWeight": 297.1
+  },
+  {
+    "name": "BaSO4",
+    "elements": ["B", "a", "S", "O", "4"],
+    "state": "固",
+    "molecularWeight": 233.4
+  },
+  {
+    "name": "Ba(NO3)2",
+    "elements": ["B", "a", "(", "N", "O", "3", ")", "2"],
+    "state": "固",
+    "molecularWeight": 261.3
+  },
+  {
+    "name": "Ba3(PO4)2",
+    "elements": ["B", "a", "3", "(", "P", "O", "4", ")", "2"],
+    "state": "固",
+    "molecularWeight": 601.9
+  },
+  {
+    "name": "BaCO3",
+    "elements": ["B", "a", "C", "O", "3"],
+    "state": "固",
+    "molecularWeight": 197.3
+  },
+  {
+    "name": "BaO",
+    "elements": ["B", "a", "O"],
+    "state": "固",
+    "molecularWeight": 153.3
+  },
+  {
+    "name": "BCl3",
+    "elements": ["B", "C", "l", "3"],
+    "state": "气",
+    "molecularWeight": 117.2
+  },
+  {
+    "name": "B2O3",
+    "elements": ["B", "2", "O", "3"],
+    "state": "固",
+    "molecularWeight": 70.0
+  },
+  {
+    "name": "AlCl3",
+    "elements": ["A", "l", "C", "l", "3"],
+    "state": "固",
+    "molecularWeight": 133.3
+  },
+  {
+    "name": "AlBr3",
+    "elements": ["A", "l", "B", "r", "3"],
+    "state": "固",
+    "molecularWeight": 266.7
+  },
+  {
+    "name": "Al2(SO4)3",
+    "elements": ["A", "l", "2", "(", "S", "O", "4", ")", "3"],
+    "state": "固",
+    "molecularWeight": 342.1
+  },
+  {
+    "name": "Al(NO3)3",
+    "elements": ["A", "l", "(", "N", "O", "3", ")", "3"],
+    "state": "固",
+    "molecularWeight": 213.0
+  },
+  {
+    "name": "AlPO4",
+    "elements": ["A", "l", "P", "O", "4"],
+    "state": "固",
+    "molecularWeight": 122.0
+  },
+  {
+    "name": "Al2O3",
+    "elements": ["A", "l", "2", "O", "3"],
+    "state": "固",
+    "molecularWeight": 102.0
+  },
+  {
+    "name": "GaCl3",
+    "elements": ["G", "a", "C", "l", "3"],
+    "state": "固",
+    "molecularWeight": 176.1
+  },
+  {
+    "name": "Ga2(SO4)3",
+    "elements": ["G", "a", "2", "(", "S", "O", "4", ")", "3"],
+    "state": "固",
+    "molecularWeight": 427.6
+  },
+  {
+    "name": "Ga2O3",
+    "elements": ["G", "a", "2", "O", "3"],
+    "state": "固",
+    "molecularWeight": 187.4
+  },
+  {
+    "name": "InCl3",
+    "elements": ["I", "n", "C", "l", "3"],
+    "state": "固",
+    "molecularWeight": 221.2
+  },
+  {
+    "name": "In2(SO4)3",
+    "elements": ["I", "n", "2", "(", "S", "O", "4", ")", "3"],
+    "state": "固",
+    "molecularWeight": 517.8
+  },
+  {
+    "name": "In2O3",
+    "elements": ["I", "n", "2", "O", "3"],
+    "state": "固",
+    "molecularWeight": 277.6
+  },
+  {
+    "name": "TlCl",
+    "elements": ["T", "l", "C", "l"],
+    "state": "固",
+    "molecularWeight": 239.8
+  },
+  {
+    "name": "TlBr",
+    "elements": ["T", "l", "B", "r"],
+    "state": "固",
+    "molecularWeight": 284.3
+  },
+  {
+    "name": "Tl2SO4",
+    "elements": ["T", "l", "2", "S", "O", "4"],
+    "state": "固",
+    "molecularWeight": 504.8
+  },
+  {
+    "name": "CO",
+    "elements": ["C", "O"],
+    "state": "气",
+    "molecularWeight": 28.0
+  },
+  {
+    "name": "CO2",
+    "elements": ["C", "O", "2"],
+    "state": "气",
+    "molecularWeight": 44.0
+  },
+  {
+    "name": "SiCl4",
+    "elements": ["S", "i", "C", "l", "4"],
+    "state": "液",
+    "molecularWeight": 169.9
+  },
+  {
+    "name": "SiO2",
+    "elements": ["S", "i", "O", "2"],
+    "state": "固",
+    "molecularWeight": 60.1
+  },
+  {
+    "name": "GeCl4",
+    "elements": ["G", "e", "C", "l", "4"],
+    "state": "液",
+    "molecularWeight": 214.4
+  },
+  {
+    "name": "GeO2",
+    "elements": ["G", "e", "O", "2"],
+    "state": "固",
+    "molecularWeight": 104.6
+  },
+  {
+    "name": "SnCl2",
+    "elements": ["S", "n", "C", "l", "2"],
+    "state": "固",
+    "molecularWeight": 189.6
+  },
+  {
+    "name": "SnCl4",
+    "elements": ["S", "n", "C", "l", "4"],
+    "state": "液",
+    "molecularWeight": 260.5
+  },
+  {
+    "name": "SnSO4",
+    "elements": ["S", "n", "S", "O", "4"],
+    "state": "固",
+    "molecularWeight": 214.8
+  },
+  {
+    "name": "SnO",
+    "elements": ["S", "n", "O"],
+    "state": "固",
+    "molecularWeight": 134.7
+  },
+  {
+    "name": "SnO2",
+    "elements": ["S", "n", "O", "2"],
+    "state": "固",
+    "molecularWeight": 150.7
+  },
+  {
+    "name": "PbCl2",
+    "elements": ["P", "b", "C", "l", "2"],
+    "state": "固",
+    "molecularWeight": 278.1
+  },
+  {
+    "name": "PbSO4",
+    "elements": ["P", "b", "S", "O", "4"],
+    "state": "固",
+    "molecularWeight": 303.3
+  },
+  {
+    "name": "Pb(NO3)2",
+    "elements": ["P", "b", "(", "N", "O", "3", ")", "2"],
+    "state": "固",
+    "molecularWeight": 331.2
   },
   {
     "name": "Pb3(PO4)2",
@@ -6198,10 +726,52 @@
     "molecularWeight": 811.5
   },
   {
-    "name": "BiPO4",
-    "elements": ["B", "i", "P", "O", "4"],
+    "name": "PbCO3",
+    "elements": ["P", "b", "C", "O", "3"],
     "state": "固",
-    "molecularWeight": 304.0
+    "molecularWeight": 267.2
+  },
+  {
+    "name": "PbO",
+    "elements": ["P", "b", "O"],
+    "state": "固",
+    "molecularWeight": 223.2
+  },
+  {
+    "name": "PbO2",
+    "elements": ["P", "b", "O", "2"],
+    "state": "固",
+    "molecularWeight": 239.2
+  },
+  {
+    "name": "N2O",
+    "elements": ["N", "2", "O"],
+    "state": "气",
+    "molecularWeight": 44.0
+  },
+  {
+    "name": "NO",
+    "elements": ["N", "O"],
+    "state": "气",
+    "molecularWeight": 30.0
+  },
+  {
+    "name": "NO2",
+    "elements": ["N", "O", "2"],
+    "state": "气",
+    "molecularWeight": 46.0
+  },
+  {
+    "name": "(NH4)2SO4",
+    "elements": ["(", "N", "H", "4", ")", "2", "S", "O", "4"],
+    "state": "固",
+    "molecularWeight": 132.1
+  },
+  {
+    "name": "NH4NO3",
+    "elements": ["N", "H", "4", "N", "O", "3"],
+    "state": "固",
+    "molecularWeight": 80.0
   },
   {
     "name": "(NH4)3PO4",
@@ -6210,358 +780,598 @@
     "molecularWeight": 149.1
   },
   {
-    "name": "NH4H2PO4",
-    "elements": ["N", "H", "4", "H", "2", "P", "O", "4"],
+    "name": "NH4Cl",
+    "elements": ["N", "H", "4", "C", "l"],
     "state": "固",
-    "molecularWeight": 115.0
+    "molecularWeight": 53.5
   },
   {
-    "name": "(NH4)2HPO4",
-    "elements": ["(", "N", "H", "4", ")", "2", "H", "P", "O", "4"],
+    "name": "NH4Br",
+    "elements": ["N", "H", "4", "B", "r"],
     "state": "固",
-    "molecularWeight": 132.1
+    "molecularWeight": 98.0
   },
   {
-    "name": "Sn3(PO4)2",
-    "elements": ["S", "n", "3", "(", "P", "O", "4", ")", "2"],
+    "name": "(NH4)2CO3",
+    "elements": ["(", "N", "H", "4", ")", "2", "C", "O", "3"],
     "state": "固",
-    "molecularWeight": 546.1
+    "molecularWeight": 96.0
   },
   {
-    "name": "SnHPO4",
-    "elements": ["S", "n", "H", "P", "O", "4"],
+    "name": "NH4HCO3",
+    "elements": ["N", "H", "4", "H", "C", "O", "3"],
     "state": "固",
-    "molecularWeight": 214.7
+    "molecularWeight": 79.0
   },
   {
-    "name": "SbPO4",
-    "elements": ["S", "b", "P", "O", "4"],
+    "name": "NH4ClO4",
+    "elements": ["N", "H", "4", "C", "l", "O", "4"],
     "state": "固",
-    "molecularWeight": 216.7
+    "molecularWeight": 117.5
   },
   {
-    "name": "InPO4",
-    "elements": ["I", "n", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 209.8
+    "name": "PCl3",
+    "elements": ["P", "C", "l", "3"],
+    "state": "液",
+    "molecularWeight": 137.3
   },
   {
-    "name": "GaPO4",
-    "elements": ["G", "a", "P", "O", "4"],
+    "name": "PCl5",
+    "elements": ["P", "C", "l", "5"],
     "state": "固",
-    "molecularWeight": 164.7
+    "molecularWeight": 208.2
   },
   {
-    "name": "Fr3PO4",
-    "elements": ["F", "r", "3", "P", "O", "4"],
+    "name": "P2O5",
+    "elements": ["P", "2", "O", "5"],
     "state": "固",
-    "molecularWeight": 764.0
+    "molecularWeight": 142.0
   },
   {
-    "name": "Ra3(PO4)2",
-    "elements": ["R", "a", "3", "(", "P", "O", "4", ")", "2"],
-    "state": "固",
-    "molecularWeight": 868.0
+    "name": "AsCl3",
+    "elements": ["A", "s", "C", "l", "3"],
+    "state": "液",
+    "molecularWeight": 181.3
   },
   {
-    "name": "AcPO4",
-    "elements": ["A", "c", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 322.0
-  },
-  {
-    "name": "Th3(PO4)4",
-    "elements": ["T", "h", "3", "(", "P", "O", "4", ")", "4"],
-    "state": "固",
-    "molecularWeight": 1076.0
-  },
-  {
-    "name": "PaPO4",
-    "elements": ["P", "a", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 326.0
-  },
-  {
-    "name": "U3(PO4)4",
-    "elements": ["U", "3", "(", "P", "O", "4", ")", "4"],
-    "state": "固",
-    "molecularWeight": 1094.0
-  },
-  {
-    "name": "NpPO4",
-    "elements": ["N", "p", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 332.0
-  },
-  {
-    "name": "PuPO4",
-    "elements": ["P", "u", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 333.0
-  },
-  {
-    "name": "AmPO4",
-    "elements": ["A", "m", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 334.0
-  },
-  {
-    "name": "CmPO4",
-    "elements": ["C", "m", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 338.0
-  },
-  {
-    "name": "BkPO4",
-    "elements": ["B", "k", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 342.0
-  },
-  {
-    "name": "CfPO4",
-    "elements": ["C", "f", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 345.0
-  },
-  {
-    "name": "EsPO4",
-    "elements": ["E", "s", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 349.0
-  },
-  {
-    "name": "FmPO4",
-    "elements": ["F", "m", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 352.0
-  },
-  {
-    "name": "MdPO4",
-    "elements": ["M", "d", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 355.0
-  },
-  {
-    "name": "NoPO4",
-    "elements": ["N", "o", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 356.0
-  },
-  {
-    "name": "LrPO4",
-    "elements": ["L", "r", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 359.0
-  },
-  {
-    "name": "Na4P2O7",
-    "elements": ["N", "a", "4", "P", "2", "O", "7"],
-    "state": "固",
-    "molecularWeight": 266.0
-  },
-  {
-    "name": "K4P2O7",
-    "elements": ["K", "4", "P", "2", "O", "7"],
-    "state": "固",
-    "molecularWeight": 330.3
-  },
-  {
-    "name": "Ca2P2O7",
-    "elements": ["C", "a", "2", "P", "2", "O", "7"],
-    "state": "固",
-    "molecularWeight": 254.1
-  },
-  {
-    "name": "Mg2P2O7",
-    "elements": ["M", "g", "2", "P", "2", "O", "7"],
-    "state": "固",
-    "molecularWeight": 222.6
-  },
-  {
-    "name": "NaPO3",
-    "elements": ["N", "a", "P", "O", "3"],
-    "state": "固",
-    "molecularWeight": 102.0
-  },
-  {
-    "name": "KPO3",
-    "elements": ["K", "P", "O", "3"],
-    "state": "固",
-    "molecularWeight": 118.1
-  },
-  {
-    "name": "Ca(PO3)2",
-    "elements": ["C", "a", "(", "P", "O", "3", ")", "2"],
+    "name": "As2O3",
+    "elements": ["A", "s", "2", "O", "3"],
     "state": "固",
     "molecularWeight": 198.0
   },
   {
-    "name": "Fe2(PO4)3",
-    "elements": ["F", "e", "2", "(", "P", "O", "4", ")", "3"],
+    "name": "SbCl3",
+    "elements": ["S", "b", "C", "l", "3"],
     "state": "固",
-    "molecularWeight": 396.6
+    "molecularWeight": 228.1
   },
   {
-    "name": "ZnHPO4",
-    "elements": ["Z", "n", "H", "P", "O", "4"],
+    "name": "Sb2O3",
+    "elements": ["S", "b", "2", "O", "3"],
     "state": "固",
-    "molecularWeight": 160.4
+    "molecularWeight": 291.5
   },
   {
-    "name": "BaHPO4",
-    "elements": ["B", "a", "H", "P", "O", "4"],
+    "name": "BiCl3",
+    "elements": ["B", "i", "C", "l", "3"],
     "state": "固",
-    "molecularWeight": 233.3
+    "molecularWeight": 315.3
   },
   {
-    "name": "AlHPO4",
-    "elements": ["A", "l", "H", "P", "O", "4"],
+    "name": "Bi2O3",
+    "elements": ["B", "i", "2", "O", "3"],
     "state": "固",
-    "molecularWeight": 122.0
+    "molecularWeight": 466.0
   },
   {
-    "name": "Ti3(PO4)4",
-    "elements": ["T", "i", "3", "(", "P", "O", "4", ")", "4"],
-    "state": "固",
-    "molecularWeight": 523.6
+    "name": "SCl2",
+    "elements": ["S", "C", "l", "2"],
+    "state": "液",
+    "molecularWeight": 103.0
   },
   {
-    "name": "V3(PO4)5",
-    "elements": ["V", "3", "(", "P", "O", "4", ")", "5"],
-    "state": "固",
-    "molecularWeight": 627.7
+    "name": "SO2",
+    "elements": ["S", "O", "2"],
+    "state": "气",
+    "molecularWeight": 64.1
   },
   {
-    "name": "Cr3(PO4)2",
-    "elements": ["C", "r", "3", "(", "P", "O", "4", ")", "2"],
-    "state": "固",
-    "molecularWeight": 346.0
+    "name": "SO3",
+    "elements": ["S", "O", "3"],
+    "state": "气",
+    "molecularWeight": 80.1
   },
   {
-    "name": "Au3PO4",
-    "elements": ["A", "u", "3", "P", "O", "4"],
+    "name": "SeCl4",
+    "elements": ["S", "e", "C", "l", "4"],
     "state": "固",
-    "molecularWeight": 685.9
+    "molecularWeight": 220.8
   },
   {
-    "name": "Pt3(PO4)2",
-    "elements": ["P", "t", "3", "(", "P", "O", "4", ")", "2"],
+    "name": "SeO2",
+    "elements": ["S", "e", "O", "2"],
     "state": "固",
-    "molecularWeight": 775.2
+    "molecularWeight": 111.0
   },
   {
-    "name": "Pd3(PO4)2",
-    "elements": ["P", "d", "3", "(", "P", "O", "4", ")", "2"],
+    "name": "ICl",
+    "elements": ["I", "C", "l"],
     "state": "固",
-    "molecularWeight": 509.2
+    "molecularWeight": 162.4
   },
   {
-    "name": "RhPO4",
-    "elements": ["R", "h", "P", "O", "4"],
+    "name": "I2O5",
+    "elements": ["I", "2", "O", "5"],
     "state": "固",
-    "molecularWeight": 197.9
+    "molecularWeight": 334.0
   },
   {
-    "name": "RuPO4",
-    "elements": ["R", "u", "P", "O", "4"],
-    "state": "固",
-    "molecularWeight": 196.0
+    "name": "TiCl4",
+    "elements": ["T", "i", "C", "l", "4"],
+    "state": "液",
+    "molecularWeight": 189.7
   },
   {
-    "name": "OsPO4",
-    "elements": ["O", "s", "P", "O", "4"],
+    "name": "TlCl3",
+    "elements": ["T", "l", "C", "l", "3"],
     "state": "固",
-    "molecularWeight": 285.2
+    "molecularWeight": 310.7
   },
   {
-    "name": "IrPO4",
-    "elements": ["I", "r", "P", "O", "4"],
+    "name": "TiO2",
+    "elements": ["T", "i", "O", "2"],
     "state": "固",
-    "molecularWeight": 287.2
+    "molecularWeight": 79.9
   },
   {
-    "name": "RePO4",
-    "elements": ["R", "e", "P", "O", "4"],
+    "name": "TiPO4",
+    "elements": ["T", "i", "P", "O", "4"],
     "state": "固",
-    "molecularWeight": 281.2
+    "molecularWeight": 142.9
   },
   {
-    "name": "Nb3(PO4)5",
-    "elements": ["N", "b", "3", "(", "P", "O", "4", ")", "5"],
+    "name": "VCl3",
+    "elements": ["V", "C", "l", "3"],
     "state": "固",
-    "molecularWeight": 753.7
+    "molecularWeight": 157.3
   },
   {
-    "name": "Ta3(PO4)5",
-    "elements": ["T", "a", "3", "(", "P", "O", "4", ")", "5"],
+    "name": "V2O5",
+    "elements": ["V", "2", "O", "5"],
     "state": "固",
-    "molecularWeight": 1017.7
+    "molecularWeight": 182.0
   },
   {
-    "name": "Mo3(PO4)4",
-    "elements": ["M", "o", "3", "(", "P", "O", "4", ")", "4"],
+    "name": "CrCl2",
+    "elements": ["C", "r", "C", "l", "2"],
     "state": "固",
-    "molecularWeight": 667.7
+    "molecularWeight": 123.0
   },
   {
-    "name": "W3(PO4)4",
-    "elements": ["W", "3", "(", "P", "O", "4", ")", "4"],
+    "name": "CrCl3",
+    "elements": ["C", "r", "C", "l", "3"],
     "state": "固",
-    "molecularWeight": 931.4
+    "molecularWeight": 158.4
   },
   {
-    "name": "Ge3(PO4)4",
-    "elements": ["G", "e", "3", "(", "P", "O", "4", ")", "4"],
+    "name": "Cr2(SO4)3",
+    "elements": ["C", "r", "2", "(", "S", "O", "4", ")", "3"],
     "state": "固",
-    "molecularWeight": 597.8
+    "molecularWeight": 392.2
   },
   {
-    "name": "AsPO4",
-    "elements": ["A", "s", "P", "O", "4"],
+    "name": "Cr2O3",
+    "elements": ["C", "r", "2", "O", "3"],
     "state": "固",
-    "molecularWeight": 170.0
+    "molecularWeight": 152.0
   },
   {
-    "name": "Se3(PO4)4",
-    "elements": ["S", "e", "3", "(", "P", "O", "4", ")", "4"],
+    "name": "MnCl2",
+    "elements": ["M", "n", "C", "l", "2"],
     "state": "固",
-    "molecularWeight": 616.8
+    "molecularWeight": 125.9
   },
   {
-    "name": "Te3(PO4)4",
-    "elements": ["T", "e", "3", "(", "P", "O", "4", ")", "4"],
+    "name": "MnSO4",
+    "elements": ["M", "n", "S", "O", "4"],
     "state": "固",
-    "molecularWeight": 762.8
+    "molecularWeight": 151.0
   },
   {
-    "name": "Po3(PO4)4",
-    "elements": ["P", "o", "3", "(", "P", "O", "4", ")", "4"],
+    "name": "Mn(NO3)2",
+    "elements": ["M", "n", "(", "N", "O", "3", ")", "2"],
     "state": "固",
-    "molecularWeight": 1007.0
+    "molecularWeight": 179.0
   },
   {
-    "name": "At3PO4",
-    "elements": ["A", "t", "3", "P", "O", "4"],
+    "name": "Mn3(PO4)2",
+    "elements": ["M", "n", "3", "(", "P", "O", "4", ")", "2"],
     "state": "固",
-    "molecularWeight": 725.0
+    "molecularWeight": 354.8
   },
   {
-    "name": "Kr3(PO4)2",
-    "elements": ["K", "r", "3", "(", "P", "O", "4", ")", "2"],
+    "name": "MnCO3",
+    "elements": ["M", "n", "C", "O", "3"],
     "state": "固",
-    "molecularWeight": 440.4
+    "molecularWeight": 115.0
   },
   {
-    "name": "Xe3(PO4)4",
-    "elements": ["X", "e", "3", "(", "P", "O", "4", ")", "4"],
+    "name": "MnO",
+    "elements": ["M", "n", "O"],
     "state": "固",
-    "molecularWeight": 773.8
+    "molecularWeight": 71.0
   },
   {
-    "name": "Rn3(PO4)4",
-    "elements": ["R", "n", "3", "(", "P", "O", "4", ")", "4"],
+    "name": "MnO2",
+    "elements": ["M", "n", "O", "2"],
     "state": "固",
-    "molecularWeight": 1013.0
+    "molecularWeight": 87.0
+  },
+  {
+    "name": "FeCl2",
+    "elements": ["F", "e", "C", "l", "2"],
+    "state": "固",
+    "molecularWeight": 126.8
+  },
+  {
+    "name": "FeCl3",
+    "elements": ["F", "e", "C", "l", "3"],
+    "state": "固",
+    "molecularWeight": 162.2
+  },
+  {
+    "name": "FeSO4",
+    "elements": ["F", "e", "S", "O", "4"],
+    "state": "固",
+    "molecularWeight": 151.9
+  },
+  {
+    "name": "Fe2(SO4)3",
+    "elements": ["F", "e", "2", "(", "S", "O", "4", ")", "3"],
+    "state": "固",
+    "molecularWeight": 399.9
+  },
+  {
+    "name": "Fe(NO3)3",
+    "elements": ["F", "e", "(", "N", "O", "3", ")", "3"],
+    "state": "固",
+    "molecularWeight": 241.9
+  },
+  {
+    "name": "FePO4",
+    "elements": ["F", "e", "P", "O", "4"],
+    "state": "固",
+    "molecularWeight": 150.8
+  },
+  {
+    "name": "FeCO3",
+    "elements": ["F", "e", "C", "O", "3"],
+    "state": "固",
+    "molecularWeight": 115.9
+  },
+  {
+    "name": "FeO",
+    "elements": ["F", "e", "O"],
+    "state": "固",
+    "molecularWeight": 71.9
+  },
+  {
+    "name": "Fe2O3",
+    "elements": ["F", "e", "2", "O", "3"],
+    "state": "固",
+    "molecularWeight": 159.7
+  },
+  {
+    "name": "Fe3O4",
+    "elements": ["F", "e", "3", "O", "4"],
+    "state": "固",
+    "molecularWeight": 231.5
+  },
+  {
+    "name": "CoCl2",
+    "elements": ["C", "o", "C", "l", "2"],
+    "state": "固",
+    "molecularWeight": 129.8
+  },
+  {
+    "name": "CoSO4",
+    "elements": ["C", "o", "S", "O", "4"],
+    "state": "固",
+    "molecularWeight": 155.0
+  },
+  {
+    "name": "Co(NO3)2",
+    "elements": ["C", "o", "(", "N", "O", "3", ")", "2"],
+    "state": "固",
+    "molecularWeight": 183.0
+  },
+  {
+    "name": "Co3(PO4)2",
+    "elements": ["C", "o", "3", "(", "P", "O", "4", ")", "2"],
+    "state": "固",
+    "molecularWeight": 366.7
+  },
+  {
+    "name": "CoCO3",
+    "elements": ["C", "o", "C", "O", "3"],
+    "state": "固",
+    "molecularWeight": 119.0
+  },
+  {
+    "name": "CoO",
+    "elements": ["C", "o", "O"],
+    "state": "固",
+    "molecularWeight": 75.0
+  },
+  {
+    "name": "NiCl2",
+    "elements": ["N", "i", "C", "l", "2"],
+    "state": "固",
+    "molecularWeight": 129.6
+  },
+  {
+    "name": "NiSO4",
+    "elements": ["N", "i", "S", "O", "4"],
+    "state": "固",
+    "molecularWeight": 154.8
+  },
+  {
+    "name": "Ni(NO3)2",
+    "elements": ["N", "i", "(", "N", "O", "3", ")", "2"],
+    "state": "固",
+    "molecularWeight": 182.7
+  },
+  {
+    "name": "NiCO3",
+    "elements": ["N", "i", "C", "O", "3"],
+    "state": "固",
+    "molecularWeight": 118.7
+  },
+  {
+    "name": "NiO",
+    "elements": ["N", "i", "O"],
+    "state": "固",
+    "molecularWeight": 74.7
+  },
+  {
+    "name": "CuCl",
+    "elements": ["C", "u", "C", "l"],
+    "state": "固",
+    "molecularWeight": 99.0
+  },
+  {
+    "name": "CuCl2",
+    "elements": ["C", "u", "C", "l", "2"],
+    "state": "固",
+    "molecularWeight": 134.5
+  },
+  {
+    "name": "CuSO4",
+    "elements": ["C", "u", "S", "O", "4"],
+    "state": "固",
+    "molecularWeight": 159.6
+  },
+  {
+    "name": "Cu(NO3)2",
+    "elements": ["C", "u", "(", "N", "O", "3", ")", "2"],
+    "state": "固",
+    "molecularWeight": 187.6
+  },
+  {
+    "name": "Cu3(PO4)2",
+    "elements": ["C", "u", "3", "(", "P", "O", "4", ")", "2"],
+    "state": "固",
+    "molecularWeight": 380.6
+  },
+  {
+    "name": "CuCO3",
+    "elements": ["C", "u", "C", "O", "3"],
+    "state": "固",
+    "molecularWeight": 123.6
+  },
+  {
+    "name": "Cu2O",
+    "elements": ["C", "u", "2", "O"],
+    "state": "固",
+    "molecularWeight": 143.1
+  },
+  {
+    "name": "CuO",
+    "elements": ["C", "u", "O"],
+    "state": "固",
+    "molecularWeight": 79.6
+  },
+  {
+    "name": "ZnCl2",
+    "elements": ["Z", "n", "C", "l", "2"],
+    "state": "固",
+    "molecularWeight": 136.3
+  },
+  {
+    "name": "ZnBr2",
+    "elements": ["Z", "n", "B", "r", "2"],
+    "state": "固",
+    "molecularWeight": 225.2
+  },
+  {
+    "name": "ZnSO4",
+    "elements": ["Z", "n", "S", "O", "4"],
+    "state": "固",
+    "molecularWeight": 161.4
+  },
+  {
+    "name": "Zn(NO3)2",
+    "elements": ["Z", "n", "(", "N", "O", "3", ")", "2"],
+    "state": "固",
+    "molecularWeight": 189.4
+  },
+  {
+    "name": "Zn3(PO4)2",
+    "elements": ["Z", "n", "3", "(", "P", "O", "4", ")", "2"],
+    "state": "固",
+    "molecularWeight": 386.1
+  },
+  {
+    "name": "ZnCO3",
+    "elements": ["Z", "n", "C", "O", "3"],
+    "state": "固",
+    "molecularWeight": 125.4
+  },
+  {
+    "name": "ZnO",
+    "elements": ["Z", "n", "O"],
+    "state": "固",
+    "molecularWeight": 81.4
+  },
+  {
+    "name": "AgCl",
+    "elements": ["A", "g", "C", "l"],
+    "state": "固",
+    "molecularWeight": 143.3
+  },
+  {
+    "name": "AgBr",
+    "elements": ["A", "g", "B", "r"],
+    "state": "固",
+    "molecularWeight": 187.8
+  },
+  {
+    "name": "Ag2SO4",
+    "elements": ["A", "g", "2", "S", "O", "4"],
+    "state": "固",
+    "molecularWeight": 311.8
+  },
+  {
+    "name": "AgNO3",
+    "elements": ["A", "g", "N", "O", "3"],
+    "state": "固",
+    "molecularWeight": 169.9
+  },
+  {
+    "name": "Ag2CO3",
+    "elements": ["A", "g", "2", "C", "O", "3"],
+    "state": "固",
+    "molecularWeight": 275.8
+  },
+  {
+    "name": "Ag2O",
+    "elements": ["A", "g", "2", "O"],
+    "state": "固",
+    "molecularWeight": 231.8
+  },
+  {
+    "name": "CdCl2",
+    "elements": ["C", "d", "C", "l", "2"],
+    "state": "固",
+    "molecularWeight": 183.3
+  },
+  {
+    "name": "CdSO4",
+    "elements": ["C", "d", "S", "O", "4"],
+    "state": "固",
+    "molecularWeight": 208.5
+  },
+  {
+    "name": "Cd(NO3)2",
+    "elements": ["C", "d", "(", "N", "O", "3", ")", "2"],
+    "state": "固",
+    "molecularWeight": 236.4
+  },
+  {
+    "name": "CdCO3",
+    "elements": ["C", "d", "C", "O", "3"],
+    "state": "固",
+    "molecularWeight": 172.4
+  },
+  {
+    "name": "CdO",
+    "elements": ["C", "d", "O"],
+    "state": "固",
+    "molecularWeight": 128.4
+  },
+  {
+    "name": "HgCl2",
+    "elements": ["H", "g", "C", "l", "2"],
+    "state": "固",
+    "molecularWeight": 271.5
+  },
+  {
+    "name": "Hg2Cl2",
+    "elements": ["H", "g", "2", "C", "l", "2"],
+    "state": "固",
+    "molecularWeight": 472.1
+  },
+  {
+    "name": "HgSO4",
+    "elements": ["H", "g", "S", "O", "4"],
+    "state": "固",
+    "molecularWeight": 296.7
+  },
+  {
+    "name": "Hg(NO3)2",
+    "elements": ["H", "g", "(", "N", "O", "3", ")", "2"],
+    "state": "固",
+    "molecularWeight": 324.6
+  },
+  {
+    "name": "HgO",
+    "elements": ["H", "g", "O"],
+    "state": "固",
+    "molecularWeight": 216.6
+  },
+  {
+    "name": "K2Cr2O7",
+    "elements": ["K", "2", "C", "r", "2", "O", "7"],
+    "state": "固",
+    "molecularWeight": 294.0
+  },
+  {
+    "name": "K2CrO4",
+    "elements": ["K", "2", "C", "r", "O", "4"],
+    "state": "固",
+    "molecularWeight": 194.0
+  },
+  {
+    "name": "Na2Cr2O7",
+    "elements": ["N", "a", "2", "C", "r", "2", "O", "7"],
+    "state": "固",
+    "molecularWeight": 261.9
+  },
+  {
+    "name": "Na2CrO4",
+    "elements": ["N", "a", "2", "C", "r", "O", "4"],
+    "state": "固",
+    "molecularWeight": 161.9
+  },
+  {
+    "name": "Cu(OH)2",
+    "elements": ["C", "u", "(", "O", "H", ")", "2"],
+    "state": "固",
+    "molecularWeight": 98.0
+  },
+  {
+    "name": "Ti(OH)4",
+    "elements": ["T", "i", "(", "O", "H", ")", "4"],
+    "state": "固",
+    "molecularWeight": 116.0
+  },
+  {
+    "name": "KMnO4",
+    "elements": ["K", "M", "n", "O", "4"],
+    "state": "固",
+    "molecularWeight": 158.0
+  },
+  {
+    "name": "Na2SO3",
+    "elements": ["N", "a", "2", "S", "O", "3"],
+    "state": "固",
+    "molecularWeight": 126.0
+  },
+  {
+    "name": "H2O2",
+    "elements": ["H", "2", "O", "2"],
+    "state": "液",
+    "molecularWeight": 34.0
   },
   {
     "name": "KBH4",
@@ -6582,10 +1392,304 @@
     "molecularWeight": 38.0
   },
   {
+    "name": "(NH4)2S2O8",
+    "elements": ["(", "N", "H", "4", ")", "2", "S", "2", "O", "8"],
+    "state": "固",
+    "molecularWeight": 228.2
+  },
+  {
+    "name": "Na2S2O3",
+    "elements": ["N", "a", "2", "S", "2", "O", "3"],
+    "state": "固",
+    "molecularWeight": 158.1
+  },
+  {
+    "name": "Na2S2O4",
+    "elements": ["N", "a", "2", "S", "2", "O", "4"],
+    "state": "固",
+    "molecularWeight": 174.1
+  },
+  {
+    "name": "Na2S2O5",
+    "elements": ["N", "a", "2", "S", "2", "O", "5"],
+    "state": "固",
+    "molecularWeight": 190.1
+  },
+  {
+    "name": "Na2S2O6",
+    "elements": ["N", "a", "2", "S", "2", "O", "6"],
+    "state": "固",
+    "molecularWeight": 206.1
+  },
+  {
+    "name": "Na2S2O7",
+    "elements": ["N", "a", "2", "S", "2", "O", "7"],
+    "state": "固",
+    "molecularWeight": 222.1
+  },
+  {
+    "name": "Na2S2O8",
+    "elements": ["N", "a", "2", "S", "2", "O", "8"],
+    "state": "固",
+    "molecularWeight": 238.1
+  },
+  {
+    "name": "K2S2O8",
+    "elements": ["K", "2", "S", "2", "O", "8"],
+    "state": "固",
+    "molecularWeight": 270.3
+  },
+  {
+    "name": "H3PO4",
+    "elements": ["H", "3", "P", "O", "4"],
+    "state": "液",
+    "molecularWeight": 98.0
+  },
+  {
+    "name": "Na2O2",
+    "elements": ["N", "a", "2", "O", "2"],
+    "state": "固",
+    "molecularWeight": 78.0
+  },
+  {
+    "name": "K2O2",
+    "elements": ["K", "2", "O", "2"],
+    "state": "固",
+    "molecularWeight": 110.2
+  },
+  {
+    "name": "NaOH",
+    "elements": ["N", "a", "O", "H"],
+    "state": "固",
+    "molecularWeight": 40.0
+  },
+  {
+    "name": "KOH",
+    "elements": ["K", "O", "H"],
+    "state": "固",
+    "molecularWeight": 56.1
+  },
+  {
+    "name": "Ca(OH)2",
+    "elements": ["C", "a", "(", "O", "H", ")", "2"],
+    "state": "固",
+    "molecularWeight": 74.1
+  },
+  {
+    "name": "Mg(OH)2",
+    "elements": ["M", "g", "(", "O", "H", ")", "2"],
+    "state": "固",
+    "molecularWeight": 58.3
+  },
+  {
+    "name": "Al(OH)3",
+    "elements": ["A", "l", "(", "O", "H", ")", "3"],
+    "state": "固",
+    "molecularWeight": 78.0
+  },
+  {
+    "name": "Na2O",
+    "elements": ["N", "a", "2", "O"],
+    "state": "固",
+    "molecularWeight": 62.0
+  },
+  {
+    "name": "K2O",
+    "elements": ["K", "2", "O"],
+    "state": "固",
+    "molecularWeight": 94.2
+  },
+  {
+    "name": "NaH",
+    "elements": ["N", "a", "H"],
+    "state": "固",
+    "molecularWeight": 24.0
+  },
+  {
+    "name": "KH",
+    "elements": ["K", "H"],
+    "state": "固",
+    "molecularWeight": 40.1
+  },
+  {
+    "name": "CsClO4",
+    "elements": ["C", "s", "C", "l", "O", "4"],
+    "state": "固",
+    "molecularWeight": 232.4
+  },
+  {
+    "name": "Ba(OH)2",
+    "elements": ["B", "a", "(", "O", "H", ")", "2"],
+    "state": "固",
+    "molecularWeight": 171.0
+  },
+  {
+    "name": "Zn(OH)2",
+    "elements": ["Z", "n", "(", "O", "H", ")", "2"],
+    "state": "固",
+    "molecularWeight": 99.0
+  },
+  {
+    "name": "Fe(OH)3",
+    "elements": ["F", "e", "(", "O", "H", ")", "3"],
+    "state": "固",
+    "molecularWeight": 107.0
+  },
+  {
+    "name": "Cr(NO3)3",
+    "elements": ["C", "r", "(", "N", "O", "3", ")", "3"],
+    "state": "固",
+    "molecularWeight": 238.0
+  },
+  {
+    "name": "Fe(OH)2",
+    "elements": ["F", "e", "(", "O", "H", ")", "2"],
+    "state": "固",
+    "molecularWeight": 89.9
+  },
+  {
+    "name": "LiOH",
+    "elements": ["L", "i", "O", "H"],
+    "state": "固",
+    "molecularWeight": 24.0
+  },
+  {
+    "name": "XeF4",
+    "elements": ["X", "e", "F", "4"],
+    "state": "气",
+    "molecularWeight": 207.3
+  },
+  {
+    "name": "XeF6",
+    "elements": ["X", "e", "F", "6"],
+    "state": "气",
+    "molecularWeight": 245.3
+  },
+  {
+    "name": "SbF5",
+    "elements": ["S", "b", "F", "5"],
+    "state": "液",
+    "molecularWeight": 216.8
+  },
+  {
     "name": "HSbF6",
     "elements": ["H", "S", "b", "F", "6"],
     "state": "液",
     "molecularWeight": 237.0
+  },
+  {
+    "name": "LaCl3",
+    "elements": ["L", "a", "C", "l", "3"],
+    "state": "固",
+    "molecularWeight": 245.3
+  },
+  {
+    "name": "CeCl3",
+    "elements": ["C", "e", "C", "l", "3"],
+    "state": "固",
+    "molecularWeight": 246.5
+  },
+  {
+    "name": "La(NO3)3",
+    "elements": ["L", "a", "(", "N", "O", "3", ")", "3"],
+    "state": "固",
+    "molecularWeight": 325.0
+  },
+  {
+    "name": "Ce(NO3)3",
+    "elements": ["C", "e", "(", "N", "O", "3", ")", "3"],
+    "state": "固",
+    "molecularWeight": 326.1
+  },
+  {
+    "name": "NaI",
+    "elements": ["N", "a", "I"],
+    "state": "固",
+    "molecularWeight": 150.0
+  },
+  {
+    "name": "KIO3",
+    "elements": ["K", "I", "O", "3"],
+    "state": "固",
+    "molecularWeight": 214.0
+  },
+  {
+    "name": "K2MnO4",
+    "elements": ["K", "2", "M", "n", "O", "4"],
+    "state": "固",
+    "molecularWeight": 197.0
+  },
+  {
+    "name": "Mn2O7",
+    "elements": ["M", "n", "2", "O", "7"],
+    "state": "液",
+    "molecularWeight": 222.0
+  },
+  {
+    "name": "H2MnO4",
+    "elements": ["H", "2", "M", "n", "O", "4"],
+    "state": "液",
+    "molecularWeight": 120.9
+  },
+  {
+    "name": "NaBrO3",
+    "elements": ["N", "a", "B", "r", "O", "3"],
+    "state": "固",
+    "molecularWeight": 151.0
+  },
+  {
+    "name": "KBrO3",
+    "elements": ["K", "B", "r", "O", "3"],
+    "state": "固",
+    "molecularWeight": 167.0
+  },
+  {
+    "name": "CS2",
+    "elements": ["C", "S", "2"],
+    "state": "气",
+    "molecularWeight": 76.1
+  },
+  {
+    "name": "COS",
+    "elements": ["C", "O", "S"],
+    "state": "气",
+    "molecularWeight": 60.1
+  },
+  {
+    "name": "Na2S",
+    "elements": ["N", "a", "2", "S"],
+    "state": "固",
+    "molecularWeight": 78.0
+  },
+  {
+    "name": "K2S",
+    "elements": ["K", "2", "S"],
+    "state": "固",
+    "molecularWeight": 110.0
+  },
+  {
+    "name": "CuS",
+    "elements": ["C", "u", "S"],
+    "state": "固",
+    "molecularWeight": 96.0
+  },
+  {
+    "name": "ZnS",
+    "elements": ["Z", "n", "S"],
+    "state": "固",
+    "molecularWeight": 97.0
+  },
+  {
+    "name": "H2SO3",
+    "elements": ["H", "2", "S", "O", "3"],
+    "state": "液",
+    "molecularWeight": 82.0
+  },
+  {
+    "name": "FeS",
+    "elements": ["F", "e", "S"],
+    "state": "固",
+    "molecularWeight": 88.0
   },
   {
     "name": "KI",
@@ -6688,5 +1792,11 @@
     "elements": ["K", "N", "O", "2"],
     "state": "固",
     "molecularWeight": 85.1
+  },
+  {
+    "name": "OsO4",
+    "elements": ["O", "s", "O", "4"],
+    "state": "固",
+    "molecularWeight": 254.2
   }
 ]

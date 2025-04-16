@@ -32,7 +32,7 @@
     <div class="input">
       <input
         v-model="currentGuess"
-        placeholder="输入分子式(区分大小写)"
+        placeholder="输入分子式(不区分大小写)"
         @keyup.enter="submitGuess"
         :disabled="gameOver"
       />
@@ -199,23 +199,11 @@ export default {
       row.state = this.answer.state
       row.stateColor = 'green'
       row.weight = this.answer.molecularWeight
-      row.weightIndicator = ''
+      row.weightIndicator = '等于'
 
       this.gameOver = true
       this.guessCount++
       this.showMessage(`游戏结束，答案是 ${this.answer.name}`)
-
-      if (this.guessCount < 10) {
-        this.guesses.push({
-          elements: Array(10)
-            .fill()
-            .map(() => ({ value: '', color: '' })),
-          state: '',
-          stateColor: '',
-          weight: null,
-          weightIndicator: '',
-        })
-      }
     },
     showMessage(text) {
       this.message = text
@@ -301,7 +289,7 @@ input {
   width: 170px;
   height: 20px;
   padding: 8px;
-  font-size: 16px;
+  font-size: 14px;
 }
 input:disabled {
   background-color: #eee;
@@ -347,7 +335,7 @@ button:disabled {
 @media screen and (max-width: 650px) {
   .titles-cell {
     font-size: 8px;
-    width: 75%;
+    width: 75.2%;
     height: 20px;
     border: 1px solid #000000;
     display: flex;
@@ -397,7 +385,7 @@ button:disabled {
     width: 106px;
     height: 8px;
     padding: 8px;
-    font-size: 10px;
+    font-size: 9px;
   }
   input:disabled {
     background-color: #eee;
