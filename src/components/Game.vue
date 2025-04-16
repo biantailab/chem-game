@@ -10,9 +10,9 @@
     <div class="grid">
       <div class="row">
         <p class="titles-cell">化学式</p>
-        <p class="state-cell">常温状态</p>
-        <b class="weight-cell">MW</b>
-        <b class="weight-cell">比较</b>
+        <p class="title-cell">常温状态</p>
+        <b class="title-cell">MW</b>
+        <b class="title-cell">比较</b>
       </div>
       <div v-for="(row, rowIndex) in guesses" :key="rowIndex" class="row">
         <div v-for="(cell, colIndex) in row.elements" :key="colIndex" :class="['cell', cell.color]">
@@ -250,6 +250,17 @@ export default {
   border-radius: 10px;
   font-weight: bold;
 }
+.title-cell {
+  width: 40px;
+  height: 40px;
+  border: 2px solid #ff0000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2px;
+  border-radius: 10px;
+  font-weight: bold;
+}
 .cell {
   width: 40px;
   height: 40px;
@@ -347,20 +358,31 @@ button:disabled {
 @media screen and (max-width: 650px) {
   .titles-cell {
     font-size: 8px;
-    width: 75%;
+    width: 75.2%;
     height: 20px;
-    border: 2px solid #000000;
+    border: 1px solid #000000;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 1px;
+    margin: 2px;
     border-radius: 5px;
     font-weight: bold;
+  }
+  .title-cell {
+    font-size: 8px;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ff0000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2px;
+    border-radius: 5px;
   }
   .cell {
     width: 20px;
     height: 20px;
-    border: 2px solid #000000;
+    border: 1px solid #000000;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -372,7 +394,7 @@ button:disabled {
     font-size: 8px;
     width: 20px;
     height: 20px;
-    border: 2px solid #ff0000;
+    border: 1px solid #ff0000;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -383,7 +405,7 @@ button:disabled {
     font-size: 8px;
     width: 20px;
     height: 20px;
-    border: 2px solid #cfcc00;
+    border: 1px solid #cfcc00;
     display: flex;
     align-items: center;
     justify-content: center;
