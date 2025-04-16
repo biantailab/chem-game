@@ -1122,12 +1122,6 @@
     "molecularWeight": 182.7
   },
   {
-    "name": "Ni3(PO4)2",
-    "elements": ["N", "i", "3", "(", "P", "O", "4", ")", "2"],
-    "state": "固",
-    "molecularWeight": 366.1
-  },
-  {
     "name": "NiCO3",
     "elements": ["N", "i", "C", "O", "3"],
     "state": "固",
@@ -1798,5 +1792,11 @@
     "elements": ["K", "N", "O", "2"],
     "state": "固",
     "molecularWeight": 85.1
+  },
+  {
+    "name": "OsO4",
+    "elements": ["O", "s", "O", "4"],
+    "state": "固",
+    "molecularWeight": 254.2
   }
 ]
