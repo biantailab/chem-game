@@ -30,15 +30,20 @@
       </div>
     </div>
     <div class="input">
-      <input
-        v-model="currentGuess"
-        placeholder="输入分子式(不区分大小写)"
-        @keyup.enter="submitGuess"
-        :disabled="gameOver"
-      />
+      <div class="grid">
+        <div class="row">
+          <button @click="submitGuess" :disabled="gameOver">提交</button>
+          <input
+            v-model="currentGuess"
+            placeholder="输入分子式(不区分大小写)"
+            @keyup.enter="submitGuess"
+            :disabled="gameOver"
+          />
+          <button @click="submitGuess" :disabled="gameOver">提交</button>
+        </div>
+      </div>
     </div>
     <div class="buttons">
-      <button @click="submitGuess" :disabled="gameOver">提交</button>
       <img
         alt="元素周期表"
         src="https://ptable.com/image/%E5%85%83%E7%B4%A0%E5%91%A8%E6%9C%9F%E8%A1%A8.svg"
@@ -222,7 +227,7 @@ export default {
 }
 .grid {
   display: inline-block;
-  margin: 20px 0;
+  margin: 10px 0;
 }
 .row {
   display: flex;
