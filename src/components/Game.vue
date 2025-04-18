@@ -4,7 +4,8 @@
     <p>一款类Wordle猜无机化合物游戏</p>
     <div class="buttons">
       <button @click="refreshGame">刷新</button>
-      <button @click="revealAnswer">揭晓</button>
+      <button @click="showRandomHint" :disabled="gameOver">随机</button>
+      <button @click="revealAnswer" :disabled="gameOver">揭晓</button>
       <button @click="$router.push('/help')">帮助</button>
     </div>
     <div class="grid">
@@ -32,15 +33,27 @@
     <div class="input">
       <div class="grid">
         <div class="row">
-          <button @click="submitGuess" :disabled="gameOver">提交</button>
+          <button @click="handleSubmit" :disabled="gameOver">提交</button>
           <input
             v-model="currentGuess"
             placeholder="输入分子式(不区分大小写)"
             @keyup.enter="submitGuess"
             :disabled="gameOver"
           />
-          <button @click="submitGuess" :disabled="gameOver">提交</button>
+          <button @click="handleSubmit" :disabled="gameOver">提交</button>
         </div>
+      </div>
+      <div v-if="currentGuess.trim()" class="row">
+        <div v-for="(char, idx) in previewChars" :key="idx" class="cell">
+          {{ char }}
+        </div>
+        <div class="state-cell">
+          {{ matchedCompound ? matchedCompound.state : '' }}
+        </div>
+        <div class="weight-cell">
+          {{ matchedCompound ? matchedCompound.molecularWeight : '' }}
+        </div>
+        <div class="weight-cell"></div>
       </div>
     </div>
     <div class="buttons">
@@ -216,6 +229,25 @@ export default {
         this.message = ''
       }, 3000)
     },
+    showRandomHint() {
+      if (!this.compounds.length || !this.answer) return
+      const compound = this.compounds[Math.floor(Math.random() * this.compounds.length)]
+      this.currentGuess = compound.name
+    },
+    handleSubmit() {
+      if (this.currentGuess.trim()) {
+        this.submitGuess()
+      }
+    },
+  },
+  computed: {
+    previewChars() {
+      return Array.from({ length: 10 }, (_, i) => this.currentGuess[i] || '')
+    },
+    matchedCompound() {
+      const name = this.currentGuess.trim().toLowerCase()
+      return name ? this.compounds.find((c) => c.name.toLowerCase() === name) : null
+    },
   },
 }
 </script>
@@ -337,10 +369,21 @@ button:disabled {
 .fade-leave-to {
   opacity: 0;
 }
+.random-row {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.random-hint-text {
+  margin-left: 10px;
+  font-weight: bold;
+  color: #333;
+}
 @media screen and (max-width: 650px) {
   .titles-cell {
     font-size: 8px;
-    width: 75.2%;
+    width: 75.5%;
     height: 20px;
     border: 1px solid #000000;
     display: flex;
@@ -411,5 +454,12 @@ button:disabled {
     background-color: #ccc;
     cursor: not-allowed;
   }
+}
+.hint-row {
+  margin-top: 10px;
+}
+.random-button-row {
+  margin-top: 8px;
+  justify-content: center;
 }
 </style>
