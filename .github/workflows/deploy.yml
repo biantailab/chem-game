@@ -25,6 +25,18 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: List dist directory after build
+        run: ls -la ./dist
+
+      - name: Check if dist directory exists
+        run: |
+          if [ -d "./dist" ]; then
+            echo "dist directory exists."
+          else
+            echo "dist directory does NOT exist."
+            exit 1
+          fi
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
