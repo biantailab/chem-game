@@ -14,7 +14,7 @@
         placeholder="输入分子式(不区分大小写)"
         @keyup.enter="handleSubmitInternal"
         :disabled="gameOver"
-        class="w-44 max-[600px]:w-32 h-10 max-[600px]:h-8 px-5 max-[600px]:px-2 text-[9px] mx-1 text-center border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-indigo-400 disabled:bg-gray-100 disabled:cursor-not-allowed placeholder:text-9px]"
+        class="w-46 max-[600px]:w-34 h-10 max-[600px]:h-8 px-5 max-[600px]:px-2 text-[12px] mx-1 text-center border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-indigo-400 disabled:bg-gray-100 disabled:cursor-not-allowed placeholder:text-12px]"
       />
       <button
         @click="handleSubmitInternal"
