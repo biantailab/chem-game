@@ -1,9 +1,31 @@
 <template>
-  <div class="buttons">
-    <button @click="$emit('refresh')">刷新</button>
-    <button @click="$emit('random')" :disabled="gameOver">随机</button>
-    <button @click="$emit('reveal')" :disabled="gameOver">揭晓</button>
-    <button @click="$emit('help')">帮助</button>
+  <div class="buttons text-center my-0">
+    <button
+      @click="$emit('refresh')"
+      class="px-3 py-1.5 max-[600px]:px-3 max-[600px]:py-1.5 max-[600px]:text-xs max-[600px]:h-8 px-5 py-2 mx-1 rounded-lg bg-indigo-600 text-white hover:bg-indigo-700 active:bg-indigo-800 transition-colors text-base h-10"
+    >
+      刷新
+    </button>
+    <button
+      @click="$emit('random')"
+      :disabled="gameOver"
+      class="px-3 py-1.5 max-[600px]:px-3 max-[600px]:py-1.5 max-[600px]:text-xs max-[600px]:h-8 px-5 py-2 mx-1 rounded-lg bg-indigo-600 text-white hover:bg-indigo-700 active:bg-indigo-800 disabled:bg-gray-300 disabled:text-gray-500 disabled:cursor-not-allowed transition-colors text-base h-10"
+    >
+      随机
+    </button>
+    <button
+      @click="$emit('reveal')"
+      :disabled="gameOver"
+      class="px-3 py-1.5 max-[600px]:px-3 max-[600px]:py-1.5 max-[600px]:text-xs max-[600px]:h-8 px-5 py-2 mx-1 rounded-lg bg-indigo-600 text-white hover:bg-indigo-700 active:bg-indigo-800 disabled:bg-gray-300 disabled:text-gray-500 disabled:cursor-not-allowed transition-colors text-base h-10"
+    >
+      揭晓
+    </button>
+    <button
+      @click="$emit('help')"
+      class="px-3 py-1.5 max-[600px]:px-3 max-[600px]:py-1.5 max-[600px]:text-xs max-[600px]:h-8 px-5 py-2 mx-1 rounded-lg bg-indigo-600 text-white hover:bg-indigo-700 active:bg-indigo-800 transition-colors text-base h-10"
+    >
+      帮助
+    </button>
   </div>
 </template>
 
@@ -18,29 +40,3 @@ export default {
   emits: ['refresh', 'random', 'reveal', 'help'],
 }
 </script>
-
-<style scoped>
-.buttons {
-  margin: 8px 0;
-  text-align: center;
-}
-button {
-  padding: 10px 20px;
-  margin: 0 5px;
-  cursor: pointer;
-  border-radius: 10px;
-  background-color: rgb(107, 107, 244);
-  color: #ffffff;
-  border: none; /* Added */
-}
-button:disabled {
-  background-color: #ccc;
-  cursor: not-allowed;
-}
-
-@media screen and (max-width: 650px) {
-  button {
-    padding: 5px 10px;
-  }
-}
-</style>

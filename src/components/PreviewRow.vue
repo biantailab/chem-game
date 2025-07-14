@@ -70,7 +70,7 @@ export default {
   border-radius: 10px;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 600px) {
   .cell {
     width: 20px;
     height: 20px;

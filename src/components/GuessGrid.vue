@@ -99,7 +99,7 @@ export default {
   color: rgb(0, 0, 0);
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 600px) {
   .titles-cell {
     font-size: 8px;
     width: 75.5%;
