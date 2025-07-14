@@ -297,7 +297,6 @@ export default {
   display: flex; /* Use flexbox for layout */
   flex-direction: column; /* Stack components vertically */
   align-items: center; /* Center components horizontally */
-  background-color: #f0f0f0;
   padding: 20px; /* Add padding */
   box-sizing: border-box;
 }
@@ -325,7 +324,7 @@ export default {
 }
 
 /* Media query adjustments if needed at the App level */
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 600px) {
   #app {
     padding: 10px;
   }

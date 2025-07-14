@@ -1,6 +1,13 @@
 <template>
   <transition name="fade">
-    <div v-if="message" class="notification" :class="{ success: win }">
+    <div
+      v-if="message"
+      :class="[
+        'fixed top-7 left-1/2 -translate-x-1/2 px-5 py-2 rounded shadow-lg z-[1000] text-white text-center',
+        win ? 'bg-green-600' : 'bg-red-400',
+      ]"
+      style="min-width: 260px; white-space: nowrap"
+    >
       {{ message }}
     </div>
   </transition>
@@ -20,29 +27,3 @@ export default {
   },
 }
 </script>
-
-<style scoped>
-.notification {
-  position: fixed;
-  top: 20px;
-  left: 50%;
-  transform: translateX(-50%);
-  background-color: #ff6b6b;
-  color: white;
-  padding: 10px 20px;
-  border-radius: 3px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-  z-index: 1000; /* Ensure it's on top */
-}
-.notification.success {
-  background-color: #6aaa64;
-}
-.fade-enter-active,
-.fade-leave-active {
-  transition: opacity 0.5s;
-}
-.fade-enter-from, /* Updated class names for Vue 3 */
-.fade-leave-to {
-  opacity: 0;
-}
-</style>

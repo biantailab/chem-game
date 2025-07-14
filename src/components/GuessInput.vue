@@ -1,15 +1,28 @@
 <template>
   <div class="input-area">
     <div class="input-row">
-      <button @click="handleSubmitInternal" :disabled="gameOver">提交</button>
+      <button
+        @click="handleSubmitInternal"
+        :disabled="gameOver"
+        class="px-3 py-1.5 max-[600px]:px-3 max-[600px]:py-1.5 max-[600px]:text-xs max-[600px]:h-8 px-5 py-2 mx-1 rounded-lg bg-indigo-600 text-white hover:bg-indigo-700 active:bg-indigo-800 disabled:bg-gray-300 disabled:text-gray-500 disabled:cursor-not-allowed transition-colors text-base h-10"
+      >
+        提交
+      </button>
       <input
         :value="value"
         @input="$emit('input', $event.target.value)"
         placeholder="输入分子式(不区分大小写)"
         @keyup.enter="handleSubmitInternal"
         :disabled="gameOver"
+        class="w-46 max-[600px]:w-34 h-10 max-[600px]:h-8 px-5 max-[600px]:px-2 text-[12px] mx-1 text-center border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-indigo-400 disabled:bg-gray-100 disabled:cursor-not-allowed placeholder:text-12px]"
       />
-      <button @click="handleSubmitInternal" :disabled="gameOver">提交</button>
+      <button
+        @click="handleSubmitInternal"
+        :disabled="gameOver"
+        class="px-3 py-1.5 max-[600px]:px-3 max-[600px]:py-1.5 max-[600px]:text-xs max-[600px]:h-8 px-5 py-2 mx-1 rounded-lg bg-indigo-600 text-white hover:bg-indigo-700 active:bg-indigo-800 disabled:bg-gray-300 disabled:text-gray-500 disabled:cursor-not-allowed transition-colors text-base h-10"
+      >
+        提交
+      </button>
     </div>
     <preview-row
       v-if="value.trim()"
@@ -70,51 +83,5 @@ export default {
   justify-content: center;
   width: 100%;
   margin-bottom: 5px;
-}
-
-input {
-  width: 170px;
-  height: 20px;
-  padding: 8px;
-  font-size: 14px;
-  margin: 0 5px;
-  text-align: center;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-}
-
-input:disabled {
-  background-color: #eee;
-  cursor: not-allowed;
-}
-
-button {
-  padding: 8px 15px;
-  cursor: pointer;
-  border-radius: 10px;
-  background-color: rgb(107, 107, 244);
-  color: #ffffff;
-  border: none;
-  height: 38px;
-  display: flex;
-  align-items: center;
-}
-
-button:disabled {
-  background-color: #ccc;
-  cursor: not-allowed;
-}
-
-@media screen and (max-width: 650px) {
-  input {
-    width: 106px;
-    height: 8px;
-    padding: 8px;
-    font-size: 9px;
-  }
-  button {
-    padding: 4px 8px;
-    height: 26px;
-  }
 }
 </style>
